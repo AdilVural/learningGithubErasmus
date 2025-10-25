@@ -12,7 +12,7 @@
 # Lecturer:  Dennis Fok 
 #            Erasmus University Rotterdam
 # --------------------------------------------
-
+# student name: Adil Vural
 # --------------------------------------------
 # Exercise 1.1
 # --------------------------------------------

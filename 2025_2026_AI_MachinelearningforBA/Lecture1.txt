@@ -1,0 +1,4266 @@
+[EQI] 13:37:30
+En dan zeiden ze tegen zo iemand: uh, van ja. Nou ja, jij hebt toch rekening met drie gedaan. Doe maar wat leuks ermee.
+
+[EQI] 13:37:31
+Je hebt een bak data. Jij kan toch wat En.
+
+[EQI] 13:37:34
+En zo werkt het eigenlijk niet. He. Maar dat. Dat was de ervaring toen. En dat viel me steeds meer op dat uh, dat, ze daarmee kwamen.
+
+[EQI] 13:37:42
+Wisselend, ook natuurlijk, sommige bedrijven hebben wel duidelijk een idee.
+
+[EQI] 13:37:46
+Maar ik dacht: misschien is daar wel een. Een Een uh. Ja.
+
+[EQI] 13:37:51
+Is die aansluiting niet helemaal goed met wat men.
+
+[EQI] 13:37:53
+Wil met die dingen en wat wij ze leren.
+
+[EQI] 13:37:56
+En uh, er wordt dus ook niet het potentieel van al die mooie methodes die we doen.
+
+[EQI] 13:38:01
+Benut? Nou en. Dat is volgens mij nog steeds zo.
+
+[EQI] 13:38:06
+Het. Uh, Ik heb het. We hebben nu een master.
+
+[EQI] 13:38:11
+Dat heet ook Daydes Science. Dat zijn Die zijn technisch. De lichten de nadruk wat minder op de techniek.
+
+[EQI] 13:38:17
+Meer op het toepassen. Er lopen ook vaak stages en er komen toch, Heel vaak komen daar toch vrij, uh, ja, zonder een echt duidelijk onderzoeksvraag.
+
+[EQI] 13:38:25
+Er dingen van nou kijk, wij hebben hier veel data. Doe er eens wat mee weer.
+
+[EQI] 13:38:30
+Maar mijn ervaring nog steeds recent. Ik hoop dat dat Uh.
+
+[EQI] 13:38:34
+Anders is. Maar het feit trouwens dat het programma zo populair is, is. Het is kennelijk wel wat behoefte ook aan wat kennis over.
+
+[EQI] 13:38:41
+Wat er allemaal in die gereedschapsdoos is, want big data, dat weten we. Dat hebben we of big data.
+
+[EQI] 13:38:46
+Veel gegevens. Dat is een uh. Uh. Ja, Dat is natuurlijk. Uh. De De realiteit. Uh. Z: Zo makkelijk.
+
+[EQI] 13:38:52
+Om te verharen, om op te slaan, om te bewaren.
+
+[EQI] 13:38:55
+Uh, maar ja, wat moet je d'r eigenlijk mee.
+
+[EQI] 13:39:01
+Dus O ja, trouwens, dat is Een goed. Big Day is dan niet meer zo modieus woord. Volgens mij. Ik weet ook niet zo goed waarom het wel was en waarom het niet meer is.
+
+[EQI] 13:39:09
+Maar er, zijn andere Uh, W voor, voor, Uh.
+
+[EQI] 13:39:13
+Iedereen bij een statistieke afdeling. Of die daar een beetje mee kenden, is: Wat Wa was dat een hele rare term Hoezo? Big dat gewoon dus veel waarnemingen, veel variabelen.
+
+[EQI] 13:39:23
+Prachtig, toch? Uh, helemaal helemaal niks. Niks. Raars: aan.
+
+[EQI] 13:39:27
+Werd erbij gezegd: ja, maar het is niet gestructureerd. En Oke.
+
+[EQI] 13:39:31
+En wat denk je dan dat de eerste stap is voor de analist? Ja structureren van die niet gestructureerde meuk.
+
+[EQI] 13:39:37
+Dus Uhm. Vonden we allemaal een beetje gek. Eigenlijk Maar goed, dit is een beetje.
+
+[EQI] 13:39:43
+Dat is een klikkertje die je. Een eigen willetje heeft.
+
+[EQI] 13:39:47
+Ja, maar dit besef, dat was, vond ik dan heel erg positief en nog steeds.
+
+[EQI] 13:39:52
+Het besef dat Ok, die die gegevens daar, Daar zit een potentieel informatie in en de vraag is nu.
+
+[EQI] 13:39:58
+Uhm. Ja, Hoe krijgen we dat er. Uit. En dus dus uit alles: hoe kunnen we daar wat van leren? Nou, dan dan was mijn gedachte.
+
+[EQI] 13:40:08
+Al jaren daarvoor, en ook toen van Nou Da's heel simpel, toch daarin. Dus statistiek voor. Dat is wat ik heb.
+
+[EQI] 13:40:13
+Heb gedaan en wat ik allemaal zo'n beetje mijn hele leven een beetje doe.
+
+[EQI] 13:40:17
+Uh, maar ja, Kennelijk. Statistiek? O ja, want dat heb ik de Mijn eerste opzet voor die cursus die ging geven. Die heet iets van Uh, iets met statistiek in de term om een soort soort opwustcursus of statistiek in deze tijden nieuwe dingen.
+
+[EQI] 13:40:31
+Dat geeft niemand zich op in. Dus de naam verandert big, data erin en zo, datascience. En het heeft een paar jaar. Ik denk, ga het een keer per jaar doen.
+
+[EQI] 13:40:42
+Het moest drie keer per jaar en dat heb ik een aantal jaren achter elkaar moeten tot corona. Eigenlijk.
+
+[EQI] 13:40:46
+Aan moeten doen. En de naam is ook nog een keer veranderd, want dat had eerst big. Data moest iets met daten science.
+
+[EQI] 13:40:52
+Volgens mij de laatste editie had ook art fisel.
+
+[EQI] 13:40:54
+Intelligence. Heb ik hier ook echt. Misschien learning business analytics art. Wis. On Delicience.
+
+[EQI] 13:41:01
+Het. Is Eigenlijk allemaal het. Hetzelfde, wat mij betreft tenminste.
+
+[EQI] 13:41:07
+Het is niet hetzelfde. Maar wat er wel heel erg hetzelfde aan is.
+
+[EQI] 13:41:10
+Is dat iedereen strooit met die termen, zonder het te definieren.
+
+[EQI] 13:41:14
+Dus iedereen. Je kunt alles over beweren. Want uh, als als je als 't voor jou iets anders betekent dan voor die andere ja dan.
+
+[EQI] 13:41:20
+Dan kun je alle twee gelijk hebben natuurlijk. En.
+
+[EQI] 13:41:23
+En dat is eigenlijk wat altijd mee gebeurt. Uh, Ik ga.
+
+[EQI] 13:41:26
+Ik ben eigenlijk van al die termen vind ik artificies: on intelligence, de vreselijkste.
+
+[EQI] 13:41:32
+En die lijkt wel een klein, beetje momenteel in ieder geval het populairst.
+
+[EQI] 13:41:37
+Uhm. Ik B. Ik zal wel een beetje ze. I. Ik ben heel flexibel. Als iedereen het zo wil noemen, dan dan prima.
+
+[EQI] 13:41:43
+Dan doe Ik dat ehm. Maar ik zal uitleggen waarom ik dat niet zo'n hele fijne.
+
+[EQI] 13:41:47
+Term vindt. Goed tegelijk met eik die Big Data, die House en dan.
+
+[EQI] 13:41:54
+Deden ze Machine Leuning Machine Looney is al jaren zeventig vorige eeuw, waar we werden, gebruikte sommige mensen in ieder geval die term.
+
+[EQI] 13:42:01
+Maar h goed, dat is dus allemaal een beetje beetje begin. Deze eeuw.
+
+[EQI] 13:42:05
+Ja, is dat natuurlijk. Uh: ja, heel erg gegroeid. En dat komt natuurlijk door computers. H.
+
+[EQI] 13:42:10
+Het feit dat we veel makkelijker data kunnen bewaren, veel meer data kunnen bewaren.
+
+[EQI] 13:42:14
+En dat we dus veel sneller kunnen rekenen, ermee.
+
+[EQI] 13:42:17
+H: dus daar daardoor heeft 't zo'n uh vlucht genomen. Maar wat je dus veel las, is.
+
+[EQI] 13:42:22
+Veel. Dit is een heel beroemd stuk. Uhm. Ik.
+
+[EQI] 13:42:27
+Uit. Chris Anderson: Science Head is volgens mij een.
+
+[EQI] 13:42:30
+Zo'n online. Uhm kan er even niet opkomen. Journal.
+
+[EQI] 13:42:35
+Super, vaak geciteerd. Ook supervaak uh, wordt dit dan gehaald, en dit is tweeduizend.
+
+[EQI] 13:42:41
+Achttal bijvoorbeeld Endal Feary. Dus we hebben geen theorie meer nodig. Een.
+
+[EQI] 13:42:46
+Tweeduizend acht, Dit is zestien, dus acht jaar later.
+
+[EQI] 13:42:50
+Het is in Nederland opgepikt. Dat is niet helemaal waar. Maar daar schreef iemand in Nederland in Nrc nog een.
+
+[EQI] 13:42:56
+Een stukje over, ook met een beetje eigenlijk dit betoog van.
+
+[EQI] 13:43:00
+Ja, we hoeven. Ben een beetje bang om dit nu om dit.
+
+[EQI] 13:43:05
+Ik wijs hiermee Ja, We hoeven dus niet meer.
+
+[EQI] 13:43:10
+Dit is vreselijk. We hoe hoeven niet meer te te modelleren, niet meer over theorie na te denken.
+
+[EQI] 13:43:15
+Uh. We hebben ook veel datio. Daar zit alles in. Dit stukje hier is ook van.
+
+[EQI] 13:43:20
+Uhm. Uh, Wij hebben Uh, dus al die ouwe methodes en zo.
+
+[EQI] 13:43:25
+Laat de data voor zichzelf spreken. En dat is. Dit is dan uh, tweeduizend zestien. Ik heb niet gezocht nu naar de huidige dingen, maar waarschijnlijk is dat Jetjib, Die lost alles voor ons op.
+
+[EQI] 13:43:36
+Die weet veel meer dan dan wij. Dat is waarschijnlijk de zijn de stukken nu een beetje.
+
+[EQI] 13:43:41
+Je kunt natuurlijk al een beetje raden dat ik dat het vrij onzinnig vind. En, sterker nog, het is wel bewezen onzin.
+
+[EQI] 13:43:46
+Het geloof van. Meneer Van der Heijden dat de.
+
+[EQI] 13:43:51
+Dat we die modellen niet meer nodig hebben. Dat de Scientivak met het.
+
+[EQI] 13:43:57
+H de hypothese, dus dit is de de wetenschappelijke methode. Stel op een hypothese.
+
+[EQI] 13:44:03
+Het data verzamelen. En dan ga je middels falsificatie, ga je kijken of je de hypothese kan verwerpen.
+
+[EQI] 13:44:09
+Dan niet of het werkelijk iets is wat je ziet, of dat het toeval had kunnen zijn.
+
+[EQI] 13:44:13
+En en de grondgedachte achter al die dingen. En dat is ook weer in de huidige artificile intelligence hype. En Dat zie je trouwens vrij fysiek, zoals nu.
+
+[EQI] 13:44:22
+Met die enorme. Die computers, die dus gewoon woonwagenwijken sch groot zijn, die grote datacenters.
+
+[EQI] 13:44:29
+Uh: Ja. Beer is. Dat is het idee. Dus dan dan heb ik eigenlijk altijd al.
+
+[EQI] 13:44:35
+Een heel oud, Big Daya. Probleem. Dat zijn de verkiezingen in de Verenigde Staten.
+
+[EQI] 13:44:42
+En dat is echt wel big. Day, negentien, honderd zesendertig.
+
+[EQI] 13:44:46
+Want de Lightary, het Litry digers die uh, die ons nog al een aantal keren.
+
+[EQI] 13:44:52
+Lezers vonden dat leuk om te kijken een soort voorspelling te doen van wie er gaat winnen, is nog steeds vrij populair. Trouwens, dat soort dingen.
+
+[EQI] 13:44:58
+Maar uh, andere tijden. H wat ze ze 't ging? Uh, Ze hadden 't al een aantal verkiezingen gedaan? Uh, Uh was was leuk verkocht en ze hadden goede.
+
+[EQI] 13:45:06
+Er hadden goede voorspellingen, maar ze dachten: Weet je wat? We pakken goed uit.
+
+[EQI] 13:45:11
+Tien miljoen vragenlijsten. Stuur ze op en dan gaan ze dus vragen wat mensen gaan stemmen bij de volgende verkiezingen.
+
+[EQI] 13:45:19
+Daar kwam. En dit is ook absurd. He, als je daaraan denkt vandaag de dag. Dat kwam bijna een kwart, kwam terug.
+
+[EQI] 13:45:26
+En ik weet niet of er iemand met dingen, Ja, daar ik mee op bestaat, ook niet meer. He. Maar toen we dat in de jaren negentig een beetje hadden.
+
+[EQI] 13:45:32
+Als je vijf procent. Had, Wa was je al heel erg gelukkig.
+
+[EQI] 13:45:36
+Dit is een kwart komt terug. Dat is heel erg: twee komma drie miljoen.
+
+[EQI] 13:45:40
+Dat vind ik veel. Daar moet je toch eigenlijk wel een voorspelling mee kunnen doen. Nou, kijk wie er.
+
+[EQI] 13:45:46
+Meededen in. Petitie zesendertig heb je misschien niet direct paraat, maar ik denk: je hoeft niet heel, erg veel, heel, erg goed te zitten, in je geschiedeniskennis.
+
+[EQI] 13:45:55
+Maar ik denk dat we wel weten wie er gaat winnen.
+
+[EQI] 13:45:57
+Nu he achteraf. Degene die je niet kent, waarschijnlijk niet.
+
+[EQI] 13:46:06
+Dat klopt degene die je niet kent. Die gaat inderdaad niet winnen.
+
+[EQI] 13:46:10
+Uh, Dus dat zou dan ook wel de voorspelling zijn, maar.
+
+[EQI] 13:46:14
+Dat was niet een voorspelling. Twee komma drie miljoen. Dat verdedigde echt heel erg veel.
+
+[EQI] 13:46:20
+Uh, dat kan je zeggen: ja, is een ingewikkeld systeem. Amerika zou misschien hier en daar net dat die zo'n staat net anders is en zo, en dan werken ze met die kiesmannen. Dus dan.
+
+[EQI] 13:46:27
+Valt het net even de andere kant op.
+
+[EQI] 13:46:34
+Wat een uitslag he. Het heet niet voor niets een land slide, want dit is een land slide, dus echt een heel erg duidelijk.
+
+[EQI] 13:46:43
+Wie hier gewonnen heeft. Roosevelt. Dus dat is H. Natuurlijk het kan missen. Het is heel erg moeilijk. Dat hebben we nu ook weer gezien. De afgelopen keren.
+
+[EQI] 13:46:51
+Maar uh, en het is dus heel erg moeilijk. Dus veel data.
+
+[EQI] 13:46:55
+Nou, hij heeft niet geholpen. Waarom heeft het niet geholpen? Heeft iemand een idee.
+
+[EQI] 13:47:04
+Geen replic. W Wat bedoel je daar precies mee?
+
+[EQI] 13:47:09
+Nee, ze hebben ze de data is netjes. Ze hebben eerst gekeken. Die tien miljoen. Dat is netjes verspreid over de kiezers van de Verenigde Staten.
+
+[EQI] 13:47:18
+Ze hebben niet alleen. Uh, daar zitten peilen. Nee, ja. Dat had gekund.
+
+[EQI] 13:47:22
+Anders ja.
+
+[EQI] 13:47:27
+Inderdaad, maar ik weet niet zo goed hoe ze dat hebben gedaan. Dat zou dan een probleem zijn, ook weer in wat hij ook zegt met hoe representatief, maar.
+
+[EQI] 13:47:35
+Ik vermoed ook dat het niet alleen alfabeten zijn die roosvol hebben gestemd. He.
+
+[EQI] 13:47:43
+Ja dat is. Het dat is het waarschijnlijk. Trouwens, We weten natuurlijk niet, want we kunnen niet terug in de tijd.
+
+[EQI] 13:47:48
+Maar er zijn best wel onderzoeken naar dit ding gedaan.
+
+[EQI] 13:47:51
+Maar Uh, goed, al die dingen van representatief. Je moet dus dat dat versturen naar iedereen Uh, die die gaat meedoen.
+
+[EQI] 13:47:58
+Niet een groep de voorkeur. Volgens mij hadden ze het gedaan naar autobezitters.
+
+[EQI] 13:48:03
+En dan zou je denken: ja, zo'n beetje republikeins meer. Maar dat bleek in de Verenigde Staten toen al, ten eerste al heel veel te zijn.
+
+[EQI] 13:48:08
+En het bleek niet heel erg, uh. Een kant op gebaeisd.
+
+[EQI] 13:48:13
+Uh. Maar inderdaad, wa wat wat je wel hebt, ook van die tien miljoen.
+
+[EQI] 13:48:18
+Eh: Ja, het is het stadje vrij om te reageren, of niet.
+
+[EQI] 13:48:20
+Dus wat er waarschijnlijk is gebeurd, is dat mensen die buitengewoon ontevreden waren over Roosevelt, die toen al een tijd aan de macht was.
+
+[EQI] 13:48:26
+Die voelden H toch een soort van Uh, Uh, ja meer drang, om te laten weten.
+
+[EQI] 13:48:32
+Bijna een soort van. Hoe noem je dat dat soort magische invloed op uitoefenen van door te reageren gaat het ook gebeuren? Misschien.
+
+[EQI] 13:48:39
+Uh, terwijl heel veel mensen, uh, die een minder sterke mening hadden en die waarschijnlijk echt wel gaat. Wel goed zo en ik ga dit nog een keer doen.
+
+[EQI] 13:48:45
+Ja, die hebben dat niet gedaan. Dat zie je super. Vaak dat soort dingen in.
+
+[EQI] 13:48:50
+In vragenlijsten. Ik word vaak geevalueerd bij cursussen. Dan krijg je vaak ook mensen die heel enthousiast over je zijn, Die vinden dat vaak leuk om te laten merken, en mensen die.
+
+[EQI] 13:49:00
+Die het helemaal helemaal niks vonden, die vinden dat nog veel belangrijker om te laten werken, tenminste niet iedereen, maar Sommige mensen. Hebben toch heel erg de neiging.
+
+[EQI] 13:49:07
+Als de meerderheid het wel prima vond, denken we: Nou, ik heb wel geleer wat geleerd. Het was Oke.
+
+[EQI] 13:49:12
+Die hoor je dus niet. En dat denk ik dus dat betekent dan dus dat het Wel Oke is in mijn geval Zo leg ik het maar uit.
+
+[EQI] 13:49:18
+Uh: in dit geval voordoen van voorspelling. Ja, dan is 't natuurlijk wel vrij, uh funest.
+
+[EQI] 13:49:22
+En W: wat je? Ja. K: Dus Dus 't belangrijkste hier.
+
+[EQI] 13:49:27
+Uhm. Ja Bigger is niet per se better, want eigenlijk, ik zou bijna willen zeggen: het is slechter.
+
+[EQI] 13:49:32
+Want doordat je zegt: twee komma drie miljoen. Uh, ontstaat er veel meer vertrouwen in je voorspeen als je statistisch gaat kijken. Ook dat.
+
+[EQI] 13:49:41
+Volgens mij. Heb. Ik die sluit er niet meer bij.
+
+[EQI] 13:49:43
+Je kunt dan laten zien dat je op het percentage, dan zit je er echt iets van tienduizendste procentpunten vanaf. Zou Je er moeten zitten.
+
+[EQI] 13:49:50
+Als het een nette willekeurige steekproef is, representatief. Dus twee komma drie miljoen, dan kan je eigenlijk niet mis.
+
+[EQI] 13:49:58
+Nou ja, en dat hebben we ook weer gezien met onze verkiezingen.
+
+[EQI] 13:50:02
+En daar zitten er ook. Eh: ook de exitpolls en zo zitten dan toch ook nog best een stukje naast. Als je kijkt naar de aantallen.
+
+[EQI] 13:50:10
+Is dat meer dan wat je zou verwachten. Als het allemaal echt voorkomen, netjes is.
+
+[EQI] 13:50:17
+Ja, met allerlei problemen zei je al die pols die we op tv krijgen. Die zijn natuurlijk nog problematischer, want dat zijn vaak mensen die willen meedoen. En nou ja, en dan.
+
+[EQI] 13:50:26
+Iedereen heeft d'r zijn ook verschillende Pools, dacht ik.
+
+[EQI] 13:50:29
+Tegenwoordig gebruiken ze in een nieuws, een soort van samengesteld Iets zag ik later. Ik kijk er het liefst bijna niet naar.
+
+[EQI] 13:50:34
+En dat samenstellen is, denk ik, wel een aardig idee, Maar dat betekent dus ook: wat stel je precies samen? En dat komt omdat. Iedereen heeft een andere manier om de verschillende groepen mee te wegen, zodat ze willen dat het representatief is.
+
+[EQI] 13:50:45
+En hoe komen ze op die gewichten? Ja, Uh: aan de hand van de vorige verkiezingen toe Hoeveel ze D'rna zaten.
+
+[EQI] 13:50:50
+Dus je weet gewoon echt niet waar. Als je het echt zou willen, dan moet je bij de mensen langs.
+
+[EQI] 13:50:56
+Echt aanbellen bij de kiezers. Willekeurig uit Nederland en ze dwingen ook echt een antwoord te geven, Want het punt is dat heel veel mensen die zeggen: Nou, dat weet ik nog niet, Ga ik niet doen.
+
+[EQI] 13:51:07
+Die moet je niet hebben. Goed. Ok, Dus ja, He, Heel belangrijk, in statistiek en da 's eigenlijk. Dus. H Dus Dus denk nou niet, we hebben internet. We hebben zoveel data die die je wat was het Chris van der Heijden en al die andere mensen.
+
+[EQI] 13:51:20
+Je hoeft niet meer na te denken, Geen theorie meer nodig. Er is zoveel late data spreken.
+
+[EQI] 13:51:25
+Want ja, dan laat je inderdaad afspreken, dan komt er wel onzin uit.
+
+[EQI] 13:51:29
+En eigenlijk kun je, kun je, uh, heel vaak.
+
+[EQI] 13:51:32
+Uh, je moet eigenlijk van tevoren daar goed over nadenken.
+
+[EQI] 13:51:35
+En dat staat hier een belangrijk te weten wat je wel. We.
+
+[EQI] 13:51:38
+En niet hebt het wel. Is relatief makkelijk.
+
+[EQI] 13:51:43
+Het niet is natuurlijk veel ingewikkelder. Want je hebt heel erg veel, niet. Maar We bedoelen het natuurlijk niet wat de.
+
+[EQI] 13:51:50
+Het deel dat je niet hebt, wat wel van belang is bij de skiezers.
+
+[EQI] 13:51:54
+We hebben dus niet die mensen die op Roosevelt gestemd, maar het gewoon niet zo belangrijk vinden om hun mening te laten horen. Hoe weet je dat van tevoren.
+
+[EQI] 13:52:00
+Maar soms, weet je het wel van tevoren.
+
+[EQI] 13:52:06
+Eigenlijk? Ja, dat valt me toch. Deze week en vorige week een beetje opviel met allerlei dingen die ik ging opzoeken en voorbeeldjes, dat dat er echt ook heel erg veel.
+
+[EQI] 13:52:16
+Van voorbeelden die. Dit is best een oud voorbeeld van Out Wayer. Die heeft een leuk boek over statistiek geschreven.
+
+[EQI] 13:52:21
+Ik denk dat dit verzonnen is hoor, maar er zijn best veel uit de praktijkdingen waar deze fouten gemaakt worden. Dus uit onderzoek van gevechten in Cafes.
+
+[EQI] 13:52:31
+Blijkt dat negentig procent uh, zijn die begonnen. Door de persoon die is overleden.
+
+[EQI] 13:52:37
+Dus dan denk je Nou, prima, niks meer aan doen, laat ze gewoon lekker vechten want de schuldigen die gaan toch dood.
+
+[EQI] 13:52:43
+Het is eigenlijk heel erg handig. Dus, Dus, en we hoeven niks. Niks. Uh, Nie niet verder, niet naar te kijken.
+
+[EQI] 13:52:48
+Nou, ik hoop dat je wel inziet dat, Ja, dat is waarschijnlijk toch niet een heel erg betrouwbare negentig procent. Zeker. Nog Je moet denken.
+
+[EQI] 13:52:56
+Die tien procent. Wat een sukkels. Ja, die je moet natuurlijk die dooden de schuld geven.
+
+[EQI] 13:53:01
+Want dat is natuurlijk wat er gebeurt. Ja, die kan niet terug zeggen. Die kan zich niet meer verdedigen.
+
+[EQI] 13:53:09
+He. De een ook een heel oud voorbeeld. Schipbreukelingen die overleven die hebben overleefd omdat ze heel hard hebben gebeden.
+
+[EQI] 13:53:17
+En daardoor zijn ze gered en. Ja Een vraag is aan die mensen op de bodem van de zee, of ze hard hebben gebeden.
+
+[EQI] 13:53:23
+Ik vermoed dat die ook heel hard hebben gebeden, maar ze zijn toch.
+
+[EQI] 13:53:26
+Verdronken, dus je mist heel erg. Daar is er weer een selectie.
+
+[EQI] 13:53:30
+In je dingen in je, in je data. Uh, die daardoor de de boel behoorlijk kan.
+
+[EQI] 13:53:35
+Rtekenen. En nogmaals, dat is dat Dit is een vrij extreem voorbeeld.
+
+[EQI] 13:53:42
+Waar je vrij makkelijk dat achteraf wil. En ook omdat een beetje grappig is. Misschien Maar ja, dat is met heel veel dingen.
+
+[EQI] 13:53:49
+Zijn die selectie. Het probleem aan de hand. Ik: er zijn natuurlijk de. We hebben een.
+
+[EQI] 13:53:55
+De toeslagenaffaire gehad. Je hebt sowieso alle dingen over fraude. Wat we aan de hand van.
+
+[EQI] 13:54:00
+Artificial intelligence machine learning weet ik veel wat. Wil je fraudeurs vinden? Dat is superpopulair. Ik weet niet wie daar ook echt mee bezig is, maar is vast wel iemand die dat vast wel eens tegen is gekomen.
+
+[EQI] 13:54:10
+Kunnen we niet aan de hand van data beter profileren.
+
+[EQI] 13:54:13
+Nou ja, kijk wat je daarvoor voor doet. Je krijgt daar een aantal methodes voor die over een paar weken gaan we daarnaar kijken.
+
+[EQI] 13:54:19
+Maar de input om die methodes te laten werken is dat je groepje moet hebben van mensen die wel frauderen.
+
+[EQI] 13:54:24
+En niet frauderen. En daar ga je je methode op.
+
+[EQI] 13:54:28
+Het trainen, afhankelijk van hoe goed die data is en werkt je methode ook goed. En wat je allemaal mist in die echte wat je bijvoorbeeld mist, in die data zet.
+
+[EQI] 13:54:37
+Zijn de echt goede fraudeurs. Degenen die. Lijken geen fraude te plegen, maar dat wel hebben gedaan, maar dat heb je niet eens opgemerkt in je data.
+
+[EQI] 13:54:44
+Want die zitten dan in die groep, die, die, uh ja, hoe jouw model gaat voorspellen als niet-fraude.
+
+[EQI] 13:54:49
+Maar die hadden dat dus stiekem wel gedaan. Alleen, je bent er gewoon ingetrapt.
+
+[EQI] 13:54:52
+H. Dus dus. En D, dat is met alles wat we hier doen is: is dat een.
+
+[EQI] 13:54:57
+Haar groot probleem. Dus ja, we hebben nu Artificile Intelligence: O ja, daar wil ik dan iets over die term en over hoe fantastisch en slim, dat allemaal is.
+
+[EQI] 13:55:07
+Uhm. Ja, dat? Hangt er maar een klein beetje van af. Hoe definieer je intelligentie? He, Het is een superbeperkt, een beperkte manier van intelligentie.
+
+[EQI] 13:55:16
+Die die Uh methodes die on artificile intelligence. Uh die daaronder vallen.
+
+[EQI] 13:55:22
+Als je bijvoorbeeld een Uh, H Zo schaken gospel spelen? Kom, ik. Go! Heb ik straks ook nog die dingen van.
+
+[EQI] 13:55:27
+Maar Uhm. Hier staat een experimentje. Dan laat je een man, uh, Die moeten ergens iets op botbergen. Er zit een klein kindje zit ernaast. Die ziet het gebeuren. Ja, die man die botst twee keer tegen de kast op dat kindje stapt, op. Doet het kastje open.
+
+[EQI] 13:55:42
+Het is opgelost? Nou, probeer dat maar eens met een computer te doen. Dat gaat niet, Dus niet he, die Die man moet waarschijnlijk een miljoen keer z'n hoofd stoten.
+
+[EQI] 13:55:50
+En dan nog is het niet opgelost. Het moet voorgedaan worden, Hij kan alleen leren en.
+
+[EQI] 13:55:56
+Daardoor in feite de door heel veel herhalen. Door de situatie precies te herkennen zoals die was.
+
+[EQI] 13:56:04
+Uh, En dan gaat ie. 't uh uh nadoen.
+
+[EQI] 13:56:07
+En daar kun je enigszins. Flexibiliseren doordat te simuleren. Dus dan hebben we dit beroemde voorbeeld en Go.
+
+[EQI] 13:56:14
+Ook alweer een tijd terug, He, maar dat was wel een.
+
+[EQI] 13:56:18
+Methodologie, He. Het is heel goed over nagedacht. En als je dat ziet, dan.
+
+[EQI] 13:56:25
+Ja, is heel leuk, maar het is vooral heel erg veel.
+
+[EQI] 13:56:29
+Broedkracht, rijke kracht, in dit geval. Uh, Dit He, Fantastisch. Een heel moeilijk spel.
+
+[EQI] 13:56:36
+En Uh tweeduizend zestien wordt Uh, de dacht: Koreaanse wereldkampioen wordt verslagen.
+
+[EQI] 13:56:43
+Dat is veel sneller gegaan dan met schaken. Want ze hebben die systemen hebben ze anders gemaakt door tegen zichzelf te laten spelen, et cetera.
+
+[EQI] 13:56:51
+En een straf als het slecht gaat en een beloning als het goed gaat En nogmaals, allemaal superslim He.
+
+[EQI] 13:56:58
+Uh: Maar als je dan een beetje tussenouder da 's echt kunt da 's superintelligent: Wat zijn die computers toch slim? He.
+
+[EQI] 13:57:02
+Nou, dan dan dan. Kijk op de cupidia een beetje. We moeten allemaal. Ik ga niet die papers allemaal lezen. Voor jullie.
+
+[EQI] 13:57:10
+Maar dan? Ik denk van: ja, Hoe is dat nou precies? Een beetje noem of precies wa Wat is daar allemaal aan voorafgegaan?
+
+[EQI] 13:57:17
+Nou Uh drie dagen. Bijna vijf miljoen spelletjes tegen zichzelf. He. Dus dat is eigenlijk de manier om.
+
+[EQI] 13:57:24
+Te leren. Vijf miljoen. Als je dan Da, als je dat dan afzegt tegen wat wat wa wat die die arme Koreaan heeft gedaan, of wat je als mens berhaupt zou kunnen. Want als je als mens dus een.
+
+[EQI] 13:57:35
+Uh, wat staat er tien potjes op een dag. En als je dat dus iedere dag doet, en dus dan heb je eigenlijk geen geen pauze.
+
+[EQI] 13:57:42
+Duizend jaar. Mons op aan spelen om tot het trainingsfaillisse trainingsfase van dat uh ding te komen.
+
+[EQI] 13:57:51
+Eerlijk gezegd, dan denk ik: Ja, Ok, W vinden. We dit nou werkelijk slim?
+
+[EQI] 13:57:54
+Het is, moeten we niet eerlijk uh terugzeggen. Wat is die Koreaan vreselijk, slim.
+
+[EQI] 13:57:59
+Die heeft er met zoveel minder is die in staat om om zo lang op de been te blijven.
+
+[EQI] 13:58:05
+We vergeten dat het echt een beetje. We belonen dat nu ook iedereen zegt: O, ze zijn zo slim computers Tegenwoordig.
+
+[EQI] 13:58:10
+Nee, Nee, absoluut. Niet. Dus gewoon niet eerlijk. Het is. Uhm. Het is eigenlijk het domste jongetje van de klas.
+
+[EQI] 13:58:17
+Maar wel met heel erg veel. Tijd en oefenkracht en heel erg veel.
+
+[EQI] 13:58:24
+Dit is echt? Dit is natuurlijk. Inmiddels zijn die dingen nog veel meer he weer exponieel gegroeid.
+
+[EQI] 13:58:31
+Dus niet te vergelijken met wat wij kunnen. Ik heb studenten die moeten tentamens maken.
+
+[EQI] 13:58:37
+Een Luie studenten. Die oefenen dan ouwe tentamens. Nou, daar kunnen ze er twee, drie, vier kunnen ze allemaal wel een beetje vinden.
+
+[EQI] 13:58:43
+Ga je dan een beetje oefenen? En dan haal je, denk ik met gemak? Een zeven, misschien zelfs een acht.
+
+[EQI] 13:58:48
+Zonder dat je weet wat je doet, maar gewoon reproduceert wat er is.
+
+[EQI] 13:58:51
+Dat is exact wat Ctb doet. Heeft geen idee wat-ie doet, maar die reposeert Marchiti heeft niet vier tentamens gehad.
+
+[EQI] 13:58:58
+Hij heeft. Die heeft het hele internet gehad met soortgelijke tentamens naar andere docenten ergens op de wereld.
+
+[EQI] 13:59:05
+Met met deelssommen en zo. Dus het is totaal. Het is juist. Het is juist die persoon die zonder oefentertamen.
+
+[EQI] 13:59:11
+Maar puur naar het boek kijken en instructie en zelf nadenken.
+
+[EQI] 13:59:15
+Die dan zes of zeven Havo zitten, namelijk: die is vele malen slimmer.
+
+[EQI] 13:59:19
+Ja, dus helemaal niet intelligent. Het is een natuurlijke stompzinnigheid en.
+
+[EQI] 13:59:24
+Zekere zin, Wa Wa, wat ik er een beetje van.
+
+[EQI] 13:59:28
+Vindt. Maar nogmaals, het zijn natuurlijk prachtige methodes. Alleen en d'r zitten slimme klachten achter de mensen die die dingen gemaakt hebben.
+
+[EQI] 13:59:36
+Maar ik vind het altijd wel een klein beetje teleurstellend dat de echte slimheidssit is. Die wiskunde zit in mooie bewijzen. Mooie structuren vinden.
+
+[EQI] 13:59:44
+En in heel veel van die die V. Die methodes die we nu gebruiken.
+
+[EQI] 13:59:47
+Sommige mensen geven het ook bijna een beetje op zeggen van ja, ik kan het wel allemaal gaan uitdenken en verzin het theoretisch. Maar ik kan ook gewoon duizend keer simuleren. En dan weet ik wel ongeveer wat eruit komt.
+
+[EQI] 13:59:56
+Je weet dan, je krijgt dan wel waarschijnlijk resultaten. Maar je weet niet wat je doet.
+
+[EQI] 14:00:01
+Dat is een heel, en dat lijkt me een grote. Ik denk dat dat echt wel problemen gaat opleveren. Het viel me ook. Uh, ja, dat is een beetje de reden dat ik er.
+
+[EQI] 14:00:09
+Dat ik een beetje toch iets over wil zeggen, een keertje. En dan ga ik in de dingen Wat ik moest dus voorbereiden.
+
+[EQI] 14:00:14
+En jullie doen Python tegenwoordig? Uh, Ik deed Ar.
+
+[EQI] 14:00:18
+Dus ik moest van m'n ar naar Python. En dan, Uh, ja, dan komen d'r ook. Mensen die zeggen: Ja, gebruik gewoon Uh, Jppd: of iets anders.
+
+[EQI] 14:00:27
+En stukjes code van internet. Het viel me heel erg op dat er staat heel veel code op internet heel makkelijk in gaat.
+
+[EQI] 14:00:31
+Maar het is vaak net niet goed. En en ik denk eerlijk gezegd dat, Uh ja, ik weet dat het net niet goed is, want ik weet wel wat ik wat ik doe en wat het moet zijn.
+
+[EQI] 14:00:40
+Maar het is niet te zien voor mensen die het willen leren.
+
+[EQI] 14:00:43
+En als je dus niet echt goed liet wat je doet, ja, dan ga als je dan drie keer op een site ziet, iemand die code geeft en iemand anders gebruikt dat ook weer. En ja, Maar dan staat er bij Daterside Thist Ats.
+
+[EQI] 14:00:52
+Nadat die zal het wel weten, toch. Nou niet echt, want die persoon is kennelijk ook maar wezen plukken en plakken en.
+
+[EQI] 14:00:59
+Komt iets moois uit, maar die persoon begrijpt niet echt wat hij doet, want er zitten dingen in die toch eigenlijk.
+
+[EQI] 14:01:04
+Fout zijn. Gaat een keertje fout. O ja, dit was, dat is toen ik het aan het bekijken was. De Dus h Je kunt ook weer winnen.
+
+[EQI] 14:01:12
+Van de ei? Ja, want je weet op een gegeven moment dat het uiteindelijk was daar ook weer hulp van eye om te winnen van Eya, dus.
+
+[EQI] 14:01:19
+Dat ze dat volk dan weer minder erg mooi. Maar als je eenmaal weet hoe zo'n zo'n systeem misschien een beetje.
+
+[EQI] 14:01:25
+Het voorspelbare dingen doet, kun je dat misschien weer counteren.
+
+[EQI] 14:01:28
+Is kennelijk gelukt het. Vorig jaar of twee jaar geleden.
+
+[EQI] 14:01:34
+Uhm Ja. Nou heel belangrijk, en dat gaan we dus ook doen.
+
+[EQI] 14:01:39
+Gaan naar theorie niet aan de kant schuiven. Ik ga het over theorie hebben de komende weken. Ik ga ook We gaan ook alles doen.
+
+[EQI] 14:01:44
+Uh, maar ik wil wel alles uitleggen dat je in ieder geval.
+
+[EQI] 14:01:48
+Uh, de gedachte achter methodes. Begrijpt, ik ga.
+
+[EQI] 14:01:53
+Geen of weinig formules gebruiken, denk ik. Maar soms is de formule wel handig, omdat je dan uh ja met een paar symbolen.
+
+[EQI] 14:02:00
+Uh, drie pagina's tekst kunt samenvatten. Uhm. Maar wat er B Ja, belangrijk is, is goed nadenken. Wat Wat doen die dingen? Nou, wat ik een beetje hoop.
+
+[EQI] 14:02:10
+Is Dat allerlei dingen die heel ingewikkeld uitzien. En.
+
+[EQI] 14:02:15
+Eh: Ja, waar je computer dan voor nodig hebt, dat ik hoop dat je gaat doorzien. Eigenlijk dat, Ja, het is misschien wel ingewikkeld of het zijn moeilijke rekensommen.
+
+[EQI] 14:02:21
+Maar de gedachte erachterin als je begrijpt wat de structuur zijn. Dat is helemaal niet zo ingewikkeld. Dat is best logisch.
+
+[EQI] 14:02:26
+En als je dat begrijpt, kun je ook een beetje gaan inschatten. Wanneer Uh, is dit nou wel of niet een goed idee of.
+
+[EQI] 14:02:32
+Wat zou er fout kunnen gaan. Goed Geen begrip Ja, voor begrip.
+
+[EQI] 14:02:37
+Dat is Het. Daar is ons onze ei. Die zijn echt zo zo ver. Sublie Kijk, het is een beetje de vraag: uh, de al die uh.
+
+[EQI] 14:02:46
+Al die modellen nu. Larges Language moddles. Uh: Hoe noemen ze dat.
+
+[EQI] 14:02:53
+Dat heeft allemaal één type structuur: neurale netwerken. En dat eigenlijk is gebaseerd. Heel simpel op het voorspellen van het meest waarschijnlijke volgende.
+
+[EQI] 14:03:05
+En uh, het zegt: Prachtig! Wat je ermee kan. H: Want je kunt er heel ingewikkeld door. Je kunt de toon Laten veranderen.
+
+[EQI] 14:03:10
+Maar uiteindelijk is dat gedaan door in die context dan helemaal na te gaan. Wat is nou het meest waarschijnlijke volgende woord.
+
+[EQI] 14:03:17
+Volgende stukje, en dat is intelligentie is voor een deel natuurlijk herkennen iets en dan gewoon doen wat daar normaal gesproken op volgt.
+
+[EQI] 14:03:26
+Uh tenminste. Ik. Dat is Dus ik weet niet of dat intelligentie is, maar in ieder geval, dat, uh, dat helpt je wel verder in het leven.
+
+[EQI] 14:03:31
+Maar echt begrip. He, hoe dat werkt. Dat weten we niet zo goed. En dat zit niet in de modellen.
+
+[EQI] 14:03:36
+H dat dat jongetje dat het uh. Twee keer ziet.
+
+[EQI] 14:03:38
+En ook wijzelf. Als je de regels van een spelletje verandert, verandert, dan is een mens, in staat daarin een paar interraties iets mee te doen.
+
+[EQI] 14:03:46
+En uh, ja, Jezy bedient niet. H En sterker nog, er zijn van die beroemde voorbeelden, dat je die geef je de regels, van schaken.
+
+[EQI] 14:03:54
+En ook al heel veel andere dingen. Die speelt gewoon vals.
+
+[EQI] 14:03:56
+Die gaat gewoon die regels aan zijn laars lappen, omdat dit geen enkel besef is over die regels. Ze worden wel meegenomen.
+
+[EQI] 14:04:03
+Maar als toch gegeven al die dingen iets anders waarschijnlijk is, dan doet-ie dat.
+
+[EQI] 14:04:07
+Dus er komen gekke dingen uit. Dit Ja, koester het gebruik, het.
+
+[EQI] 14:04:13
+Dus elke keer de grote vrees is dat we maar zeggen: van ja, doe maar wat? Want het gaat veel sneller hoef ik niet zelf na te denken.
+
+[EQI] 14:04:21
+Ten eerste, nadenken. Ook leuk, denk ik Persoonlijk. En je kunt eigenlijk met veel minder kun je veel sneller ergens komen.
+
+[EQI] 14:04:30
+Dat noemen ze dan. De A. I Winters.
+
+[EQI] 14:04:46
+Die kun je bijna niet doorrekenen. Stoppen ze een tijd. Jaren zeventig is een enorme hype geweest.
+
+[EQI] 14:04:51
+En dat liep dan ook aan tegen rekenkracht. Maar nu, je bent niet zo goed of er een winter komt.
+
+[EQI] 14:04:56
+Kijk, het is wel zo dat die die rekenkracht en zo die uh.
+
+[EQI] 14:04:59
+Ja, die is zo ges gegroeid daar. Eigenlijk W: wa wat wat te gebruiken voor een groot deel is zijn hele oude ideeen alleen dan S.
+
+[EQI] 14:05:06
+Super opgeschaald, er. Ik denk dat dat ja waar je nu tegenaan loopt, is Nu, op een gegeven moment heb je alles gekopieerd he.
+
+[EQI] 14:05:14
+Dus op een gegeven moment moet je toch wel misschien iets slimmer gaan doen.
+
+[EQI] 14:05:17
+En uh, ik denk wat er nu gaat gebeuren, ook want nu traint die.
+
+[EQI] 14:05:20
+Ik zei net dat ik allerlei code vond die niet klopten.
+
+[EQI] 14:05:23
+Daar wordt hij wel op getraind. Verder he. Dus het lijkt mij. Ik weet niet zo goed wat, uh, wat de toekomst gaat brengen. Maar 't lijkt mij uh.
+
+[EQI] 14:05:29
+Dat lijkt me problematisch Wel, he dat de. Over een winter komt komen. Nu het moet zijn, maar.
+
+[EQI] 14:05:37
+'k vind het wel opvallend dan dat.
+
+[EQI] 14:05:44
+Heb. Ik toch lijkt alsof het hele zakenleven zich daar met Uh.
+
+[EQI] 14:05:49
+Ja, en dat geloof ik wel aan de andere kant, die Big Day, dat het woord is weg. Dus op die manier is de hype weg maar is telkens vervangen door iets wat eigenlijk een beetje Hetzelfde is.
+
+[EQI] 14:05:57
+Het Big Day Dayders Science en Day the Science wordt Artificial Intelligence.
+
+[EQI] 14:06:01
+Of ik weet niet algoritmes ook een woord dat op een gegeven moment heel erg uh, werd gevonden. Overal is Ja, dat zijn gewoon.
+
+[EQI] 14:06:06
+Receptjes. Dat is wat we hier doen. Dus ja, goed, ja, ik heb ge wel wat er gaat gebeuren? Ik uh, ik heb geen idee. Natuurlijk.
+
+[EQI] 14:06:15
+Uh, maar. J: Je gaat niet. Kijk uh, No. Nogmaals, Uh, Data.
+
+[EQI] 14:06:19
+Er voor statisticus data zijn, zijn een vorm van bewijzen.
+
+[EQI] 14:06:22
+Dus die kun je gebruiken. Maar ga niet los van theorie.
+
+[EQI] 14:06:25
+En en uh, ook al die dingen die men zeggen van ja, daar hoef je niet zo over na te denken Dat vraag Ik Zdpp.
+
+[EQI] 14:06:31
+Ja, dat dat kan. H En dan krijg je een snel antwoord, wat best een grote kans heeft om goed te zijn, tenminste als de meerderheid.
+
+[EQI] 14:06:37
+Uh, Wat er op uh, wat rondgeh. Is in die data. Die heeft ook het juiste antwoord. Dan komt dat terug. Inderdaad.
+
+[EQI] 14:06:44
+Maar als we nu allemaal vervuiling krijgen, dan ben ik eigenlijk een beetje benieuwd, uh wat dat gaat opleveren.
+
+[EQI] 14:06:48
+Misschien krijg je dan weer. We hebben natuurlijk, we leven ook in de tijd van Uh.
+
+[EQI] 14:06:52
+Alternatieve waarheden. En zo ja, dat vind ik ook iets heel ingewikkelds, want dat is gewoon niet? Waar. Maar die gaan ook maar door, en mensen blijven dat ook herhalen. Dus je.
+
+[EQI] 14:07:02
+Maar goed, dit was het enige wat ik daarover ga zeggen, dus het en verder. Ik ben gewoon heel enthousiast over artsenwisseling, intelligence. Natuurlijk.
+
+[EQI] 14:07:10
+Over die methodes en ik zou maar ik zou eigenlijk een beetje wat ik met je mis in al die dingen is dat het zo'n grootste bezwaar tegen de term trouwens.
+
+[EQI] 14:07:19
+Is. Uh, We praten over die dingen alsof het mensen zijn.
+
+[EQI] 14:07:22
+We praten erover alsof er nagedacht wordt. Dus die dingen van ja.
+
+[EQI] 14:07:26
+Maar Chiti vertelde me dit: nee. Citi vertelt Ja, helemaal niks. Uh, J Jij geeft invoer en die kopieert een een ding uit, wat eigenlijk dus heel erg veel mensen kennelijk hebben.
+
+[EQI] 14:07:35
+Gezegd eerder en dan luister je naar Maar waarom.
+
+[EQI] 14:07:39
+En ga dan, als je dat doet, als aanknopingspunt. Want dat kan natuurlijk, je kunt er heel prima denk ik mee brainstormen, want wat je dan krijgt.
+
+[EQI] 14:07:46
+Is dus allerlei andere ideeen van het andere. Maar die Imrance heeft verzonnen. Al he.
+
+[EQI] 14:07:50
+Dan kun je zelf gaan nadenken. Wat betekent dat nou eigenlijk.
+
+[EQI] 14:07:52
+Dus Dus de ja, kan super. Bruikbaar, maar het zijn geen mensen. Er is geen begrip.
+
+[EQI] 14:07:59
+En dus doe dat niet. Het zijn. Het is een rekenmachine. Het zijn nul en eenen.
+
+[EQI] 14:08:03
+Die echt echt bizar snel. Achter elkaar heel veel berekeningen.
+
+[EQI] 14:08:09
+En ik moet eerlijk zeggen, ik vind het zelf nog steeds ongrijpbaar hoe groot ze die dingen zijn Inmiddels want.
+
+[EQI] 14:08:14
+Wij kunnen zelf. Ik weet niet Zo O ja, we hebben doen niet meer neurale, net in dit ding. Dat krijgen jullie denk ik apart in een cursus.
+
+[EQI] 14:08:20
+Maar dat is een beetje de basis van uh, van van de.
+
+[EQI] 14:08:23
+Uh, die Uh, die modellen. Maar die basis is eigenlijk wat er gebeurd is. Dat is wat er is. Die basis.
+
+[EQI] 14:08:30
+En uh, ja, die doe je dan? Uh, Nou, een triljoen keer groter en complexer.
+
+[EQI] 14:08:36
+En dan geef je een bak data en laat je het gewoon zoveel keer doorheen lopen Doorheen loop doorheen lopen dat die de meest waarschijnlijke dingen doet.
+
+[EQI] 14:08:43
+And that's it. Maar het basisidee is echt supersimpel.
+
+[EQI] 14:08:47
+Allee ja, het wordt dus enorm opgeschaald. Wij gaan gewoon machinemethodes doen.
+
+[EQI] 14:08:53
+En ik heb er best veel. Ik heb trouwens ook. Het viel me ook een beetje op.
+
+[EQI] 14:08:56
+Laag dat ik superveel slides heb. Uh, vandaar ik weet dus niet zo goed hoe ver ik kom. Even K: D: Ik moet zeggen: Ik denk.
+
+[EQI] 14:09:03
+Dat ik andere jaren zover kwam en. Vond het wel heel veel, maar anders gaan we gewoon volgende week verder met waar we vandaag.
+
+[EQI] 14:09:10
+Stoppen. Ik ben ook een klein beetje, namelijk Uhm.
+
+[EQI] 14:09:13
+Het moet een beetje zien hoe dat gaat met python.
+
+[EQI] 14:09:16
+En interactie. Omdat ik dus uh, daar niet zo erg goed in ben, of niet goed helemaal niet goed in ben.
+
+[EQI] 14:09:21
+En omdat uh, nou met Ark Uh, wat we eerder deden. Daar zaten een aantal hele handige dingen in.
+
+[EQI] 14:09:28
+En qua lesgeven. En die in Python iets minder tenminste. Ik heb ze nog niet helemaal.
+
+[EQI] 14:09:33
+Uh, ontdekt. Maar we gaan kijken vandaag ook heel erg veel theorie. En O ja, dat is ook nog misschien wel.
+
+[EQI] 14:09:40
+Een goede waarschuwing. Vandaag is wel de moeilijkste. Dus als je denkt van Jezus. Wat is dit? Een abstracte, lastige, ingewikkelde methode? Wat moet Ik hier nou mee.
+
+[EQI] 14:09:49
+Uh, eigenlijk. Ik Ik begin een beetje met uh, met de.
+
+[EQI] 14:09:53
+Met, ik denk een hele belangrijke methode die ook in andere dingen gebruikt gaat worden. Daarom begin ik er ook mee.
+
+[EQI] 14:09:58
+Maar het is wel best een abstracte methode. Ehm: Ik ga proberen een beetje beeldend uit te leggen.
+
+[EQI] 14:10:07
+Hebben de gedachte, maar mijn ervaring is dat het het moeilijkste wordt gevonden.
+
+[EQI] 14:10:12
+Uh, van alle methodes die je krijgt. Goed. Dus dus een beetje gewaarschuwd.
+
+[EQI] 14:10:18
+Uhm twee. Types. Ik gebruik weer een de methode uit de boeken supervised en non-superviast.
+
+[EQI] 14:10:27
+Het is natuurlijk allemaal onder supervisie van ons. Maar wat bedoelen we ermee? Uh, Als we het hebben over supervised machine learning, dan is er iets wat je wil voorspellen? Ja.
+
+[EQI] 14:10:44
+Ja, dit is supervel. He. Maar als je, en als ik nou hier ga staan, zou dat beter zijn.
+
+[EQI] 14:10:55
+Ja, o, dat is, ook want het is ook erg warm daar aan het worden. Ja.
+
+[EQI] 14:11:00
+Maar daar, kan ik verder niks aan doen. Dat is de som en misschien dus een.
+
+[EQI] 14:11:04
+Ja, zonneschermpje dat? Uh. Kan ik dat zelf doen.
+
+[EQI] 14:11:18
+Goed Goed punt. Uhm. Ja, superfieze is, uh, Dan heb je in al je variabelen? Heb je een of wat kunnen er meer zijn, maar laten we voor het gemak eentje nemen.
+
+[EQI] 14:11:28
+Die je wil verklaren aan de hand van de anderen.
+
+[EQI] 14:11:31
+Verklaren of voorspellen? Uh. Dus Dus die lintje Uh, aan een aan een set andere.
+
+[EQI] 14:11:37
+Variabelen H, en dan, dan wil je dat. Dan wil je een methode vinden die die die zo goed mogelijk en dat noemen we dan je X-variabele.
+
+[EQI] 14:11:44
+We weten matchen naar je. Ei. Dus dan dit soort eerder, noemde ik al fraude. Nou, aan de hand van achtergrondskenmerken kun je voorspellen of Iemand veilig gaat plegen. Jaap.
+
+[EQI] 14:11:55
+Nee, Uhm: nee, Iets uh avontuurlijke dingen. Kun je eigenlijk puur aan de hand van.
+
+[EQI] 14:12:00
+Tekst zien of een man of vrouw? Zijn er dingen in het ontdekken, patronen.
+
+[EQI] 14:12:05
+Uhm: Nou ja, uh, oh, ja. De De. Nummerbordherkenning als je een parkeergarage inrijdt. Vroeger moest je altijd kaartje in en dan moest Je betalen. Moest je het kaartje ook weer erin doen. Nu is het bij de meesten wel. Als je wegrijdt, hoef je het kaartje er niet meer in te doen.
+
+[EQI] 14:12:17
+Want dat is gekoppeld aan je nummerbord. Dat ze aan de hand van een foto aan de hand van pixels en ga die gewoon kijken wat daar is, gezien.
+
+[EQI] 14:12:25
+En dan uh, nogmaals, die computer weet dus niet wat jouw nummerbord is, maar die weet wel wat die pixels zijn.
+
+[EQI] 14:12:30
+En jouw pixelstream wordt dan twee keer aan elkaar gematcht bij elkaar, en dan kun je wegrijden als Je betaald hebt.
+
+[EQI] 14:12:39
+Uhm. Dat is superviast. En supervis ga ik vandaag.
+
+[EQI] 14:12:42
+Niets doen. Het voordeel van supervisor, Waarom? Ik denk dat het concept wel iets makkelijker is om mee te werken, is, is eigenlijk die structuur die erin is.
+
+[EQI] 14:12:52
+Hebben eigenlijk een heel duidelijk probleem. Je wil eigenlijk.
+
+[EQI] 14:12:54
+De ene weten aan de hand van die andere.
+
+[EQI] 14:12:57
+H: dat dat? Uh, geeft direct. Ordestructuur.
+
+[EQI] 14:13:02
+Een superwijst. Ja, daar. G: Daar is de data. Helemaal helemaal los.
+
+[EQI] 14:13:07
+Daar hebben we eigenlijk alleen maar X-variabelen. Uh. Dus we nemen dingen waar maar.
+
+[EQI] 14:13:13
+En je wilt daar structuren in vinden. Het patronen? Ja.
+
+[EQI] 14:13:17
+Gebeurt Wat Ehm. En daar wil je dan iets van leren. Soms wordt dat gemaar gebruikt als een soort eerste stap. Dus dat je.
+
+[EQI] 14:13:26
+Dat je eerst wil kijken in, inderdaad, en dat je vervolgens wel.
+
+[EQI] 14:13:30
+Ga denken. Misschien is er een verband tussen een bepaalde variabele en andere. Daar.
+
+[EQI] 14:13:34
+Kan je dat in een vol onderzoek onderzoeken? Maar uh, exploratief is dit de.
+
+[EQI] 14:13:38
+In eerste instantie. H dan uh, uh, En dan zit daar h ook allerlei voorbeelden, uh.
+
+[EQI] 14:13:46
+Voor te verzinnen. Uhm.
+
+[EQI] 14:13:50
+Uh, die die eerste dit uh z'n methode die ik uh.
+
+[EQI] 14:13:54
+Die we ook gaan doen, kun je groepjes. De klanten vinden in jouw beste.
+
+[EQI] 14:13:58
+Stand en de school zonder van tevoren iets daarover te zeggen. Maar.
+
+[EQI] 14:14:03
+Bepaalde groepen die op elkaar lijken. En dan kun je later gaan kijken van ja, en hoe lijken ze dan op mekaar? Want misschien kan er in groepen van mensen die op elkaar lijken.
+
+[EQI] 14:14:11
+Uh, kan ik die uh, M: op een andere manier benaderen dan mensen die daar niet op lijken.
+
+[EQI] 14:14:16
+Maar ook weer om elkaar. Dus je kunt een beetje gerichte.
+
+[EQI] 14:14:20
+Benadering doen van een typische. Het toepassing. En het probleem is, je weet van tevoren helemaal niet of dat wel bestaat. En ook wat je gaat vinden.
+
+[EQI] 14:14:30
+Je vindt dan een groepje dingen die hetzelfde zijn, maar dan moet je er zelf een naam aan geven, min of meer.
+
+[EQI] 14:14:35
+Uhm en uh, ja, en of je d'r wat aan hebt, dan of het dan ga ik daarna uiteindelijk weer van af.
+
+[EQI] 14:14:42
+Uh, of er dus meer waarde ziet in de ene groep.
+
+[EQI] 14:14:44
+Als die anderen. Maar het lastige gedaan Dus is eigenlijk dus dat je dat je dus uh. Ja, een superviast uh. Dus dat je dus dat er niet een soort van onderliggende waarheid is over wat je gaat vinden.
+
+[EQI] 14:14:54
+En dat aan hem. Ik zeg lastig, uh, Kijk het makkelijke d'raan is. Dan heb je dus ook een hele hoop vrijheid. H.
+
+[EQI] 14:15:00
+Kun je ook gewoon zelf zeggen: van: Dit komt er gewoon uit.
+
+[EQI] 14:15:03
+Uh maar ja, het lastige is nog wel een beetje als iemand anders dan gaat zeggen: ja, Maar waarom en uh, vertel me, dan moet je dat kunnen beredeneren. En dat wordt.
+
+[EQI] 14:15:10
+Vaak wat subjectiever. Nou, want dat is een beetje het ding vandaag. De methodes.
+
+[EQI] 14:15:17
+Harde wiskunde. Maar bepaalde keuzes die gaan. Eh: Ja, Daar blijf je toch een beetje.
+
+[EQI] 14:15:23
+Heb je wat vrijheid in, vind ik persoonlijk mooi, maar dat vindt niet iedereen.
+
+[EQI] 14:15:27
+Hier doet even fijn. Goed dus.
+
+[EQI] 14:15:31
+En de methodes dan die we gaan doen op het gebied van insuropperfield die heten.
+
+[EQI] 14:15:36
+Principale componentenanalyse. En daar heb ik een uitbreiding van die Uh, speciaal voor categorische gegevensies. Daar kom ik vandaag niet aan toe.
+
+[EQI] 14:15:47
+Ken die man principale component. Analyse. Ja, psychologie gestudeerd.
+
+[EQI] 14:15:52
+Psychologiesteert of zoiets. Hoe dan.
+
+[EQI] 14:15:58
+Was toegepast. Zelfs: Nou, kijk, dat is Eh. Dat hij jou uh 't Is uh, maar verder niet. Zag ik of of iedereen houdt zich een beetje stil gegeven.
+
+[EQI] 14:16:06
+Ja. Oke niet bij toegepast. Geluk tot nu toe niet snapte.
+
+[EQI] 14:16:11
+Dat is ja. Daar hopen we wat aan te doen. Dan.
+
+[EQI] 14:16:13
+Maar ja, het is namelijk een principalecomponentanalyse, een factoranalyse.
+
+[EQI] 14:16:19
+Uh: in Uh, psychologie, sociologiestudies is het heel populair, en daar heb ik ook wat voorbeelden van. Denk niet vandaag, maar.
+
+[EQI] 14:16:26
+Maar volgende week Uhm, andere gebieden. Het is nu ook heel erg populair in Uh, dingen als Finance, maar dan. Is het als een soort tussenstap en ook eigenlijk machine learning, dan wordt het eigenlijk als een soort.
+
+[EQI] 14:16:36
+We doen dit eventjes om een reductie. Maar me variabele aan te brengen en dan een volgende stap te doen.
+
+[EQI] 14:16:43
+Maar de oorspronkelijke idee is niet eens zozeer alleen maar dat.
+
+[EQI] 14:16:47
+Ik ga dat proberen uit te leggen. En dan gaan we volgende week dus naar de categorisch en.
+
+[EQI] 14:16:54
+Uhm. Plus de analyse. Kijken. Klus Geanalyse is eigenlijk het voetbal. Wat ik net noemde, vindt groepen van mensen, bijvoorbeeld, of van dingen.
+
+[EQI] 14:17:03
+Die op elkaar lijken.
+
+[EQI] 14:17:09
+Uhm.
+
+[EQI] 14:17:13
+Goed. O ja. En dus, wat doet. Dat principale component dan wil, of moet ik zeggen hoofdcomponentanalyse. Is Het mooi in Nederland.
+
+[EQI] 14:17:22
+Het idee stel. Ik heb heel erg veel variabelen.
+
+[EQI] 14:17:25
+Het wordt lastig, misschien om in mijn model te doen of het lastig om te interpreteren.
+
+[EQI] 14:17:31
+Misschien zitten er wel allerlei samenhangen in die daardoor een beetje het beeld wat wat de.
+
+[EQI] 14:17:37
+Vertroebelen, kan Ik daar structuren in vinden en kan ik die heel veel terugbrengen naar het.
+
+[EQI] 14:17:42
+Minder of het liefst eigenlijk heel. Weinig dat is wat we.
+
+[EQI] 14:17:48
+Gaan doen. Nou, zit ik een klein beetje denken we. We willen je nu even een klein klein pauze koffieshots. En dan verder, of Uh, kun je nog wel een kwartiertje door.
+
+[EQI] 14:17:58
+Kwartiertje door. Nog. Ik had wisselende dingen, dus we.
+
+[EQI] 14:18:03
+Maar ik zie niet in die idee niet mensen direct na het koffiezetapparaat rennen. Dus dan ga ik nog heel even door.
+
+[EQI] 14:18:09
+Met het. Met het idee van deze methode.
+
+[EQI] 14:18:17
+Het staat wel in dit boek trouwens. Maar toch wel behoorlijk anders, Dan denk ik dan wel wat ik.
+
+[EQI] 14:18:23
+Wat ik, Uh, hoe ik het ga uitleggen. Uhm: Ja, Wa Wa: Hoe Hoe wil je nu? We willen dus van veel variabelen.
+
+[EQI] 14:18:32
+Naar minder. Nou ja, veel kan zijn duizend Het kan zijn: honderd.
+
+[EQI] 14:18:36
+Het kan zijn, tienduizend Ik ga nu een voorbeeldje met tien of twaalf, en dan zeg ik: dat is veel. Is Er iets behapbaarder.
+
+[EQI] 14:18:43
+Uh, kun je een klein beetje afvragen of twaalf echt veel is. Maar goed.
+
+[EQI] 14:18:46
+Het is meer dan twee. Dus kan ik van in mijn voorbeeld worden, denk ik twaalf of tien.
+
+[EQI] 14:18:52
+Kan Ik uh, zonder al te veel te, want je gaat natuurlijk iets verliezen. En je kunt niet zomaar dingen weggooien, of dat kan wel. Maar ja, als je wat weggooit, dan ben je wat kwijt.
+
+[EQI] 14:19:00
+Dus wat je nou eigenlijk? Maar En en oh ja, dat is de eerste gedachte, is dan: ja, weet je Wat haal d'r. Gewoon een paar weg.
+
+[EQI] 14:19:06
+Zeg gewoon Dit vind ik niet interessant. Deze variabel, die gooi ik uit m'n data doe ik niet. Dat is dimensie-reductie.
+
+[EQI] 14:19:11
+Uh, Maar ja, dat is natuurlijk niet helemaal. Misschien de beste manier per se.
+
+[EQI] 14:19:15
+H. Want want hoe kies ik dan wat ik eruit gooi, uh, op welke grond dat H dat doet me is in verlies ik dan niet een beetje te veel.
+
+[EQI] 14:19:23
+Uh, Dus misschien kunnen we dat wat slimmer doen.
+
+[EQI] 14:19:25
+En dan is de gedachte hier eigenlijk: dat is de oorspronkelijke gedachte.
+
+[EQI] 14:19:29
+Uhm. Van: Nou, weet je wat? Als ik nou in plaats van die dingen allemaal afzonderlijk.
+
+[EQI] 14:19:34
+Als ik ze nou samenvoeg. H, een een een manier vindt om ze samen te voegen.
+
+[EQI] 14:19:39
+Een nieuwe variabele die bestaat uit die informatie van al die tien losse samen, neemt op een bepaalde manier.
+
+[EQI] 14:19:47
+En op zo'n manier dat ik toch zo veel mogelijk van die informatie in die tien.
+
+[EQI] 14:19:52
+Behoud in die ene nieuwe. Dat is het doel.
+
+[EQI] 14:19:58
+En als ik er eentje heb. Dan weet ik dat ik natuurlijk dingen verlies. Ik ging van tien naar één, dus dan ben je toch wel een waarschijnlijk een stukje kwijt.
+
+[EQI] 14:20:05
+Dan kan ik kijken misschien wat er nog overblijft aan wat ik niet verklaard heb met die ene nieuwe variabele.
+
+[EQI] 14:20:11
+Misschien kan ik kijken of die ook kan beschrijven aan de hand van een combinatie van de tien oorspronkelijke.
+
+[EQI] 14:20:17
+Nou, dat is uh. Ik beschrijf in woerden het wiskundige.
+
+[EQI] 14:20:22
+Principe, waarbij de gedachte ook nog is. Dat die tweede combinatie, die ik vind.
+
+[EQI] 14:20:26
+Van die tien. Die moeten iets anders zijn dan de eerste.
+
+[EQI] 14:20:31
+Dus die moet daar los van staan. Dat noemen we Ortogan. Die moeten loodrecht op staan in een ruimte.
+
+[EQI] 14:20:37
+Ja, zodat jij of iets statistischer zien, onafhankelijk van.
+
+[EQI] 14:20:40
+De eerste, zodat je echt die tweede pikt iets anders op.
+
+[EQI] 14:20:44
+En de eerste peer pikt dus al het meest op.
+
+[EQI] 14:20:47
+En de tweede pikt dan het meeste op van wat er nog over is.
+
+[EQI] 14:20:51
+En de derde het meeste op van wat er dan nog over is. Dat is eigenlijk de.
+
+[EQI] 14:20:54
+Dat was het idee van meneer Piersen. Negentien, honderd, één of zoiets.
+
+[EQI] 14:21:00
+En Uh, zo kun je, kun je voortgaan. Er tot je tot je uiteindelijk weer tien hebt. Maar dan ben je weer terug waar je begon.
+
+[EQI] 14:21:06
+Dus dan heb je alles beschreven. Ook. En dan heb je ook geen reductie.
+
+[EQI] 14:21:09
+Dus tussen ergens. Waarschijnlijk moeten we of moeten we mogen.
+
+[EQI] 14:21:12
+Afkappen. Goed. Dat is de de oorspronkelijke uitleg.
+
+[EQI] 14:21:18
+De oorspronkelijke paper. Uh, W. En wiskundig is een heel mooi probleem.
+
+[EQI] 14:21:22
+Want we gaan die combinaties. Die kun je zien als je gaat een gewichtje geven aan iedere variabele, en je neemt dus een gewogen gemiddelde van de variabele.
+
+[EQI] 14:21:30
+Dat is. Daar is een hele elegante formule voor op te stellen.
+
+[EQI] 14:21:33
+En je kunt dan vervolgens een een een functie op stellen, zeggen: Ok, kies nou zo dat mijn.
+
+[EQI] 14:21:39
+Een functie dat gewogen gemiddelde van de oorspronkelijke dingen.
+
+[EQI] 14:21:42
+Dat, als ik de variantie daarvan bekijk dat die zo hoog mogelijk is.
+
+[EQI] 14:21:46
+Dat je zoveel mogelijk meepakt van. De totale variatie.
+
+[EQI] 14:21:52
+Dat is Uh de oorspronkelijke. Een combinering van problemen. Heel mooi een prachtige oplossing.
+
+[EQI] 14:22:00
+Uh: dus niet dat je daar Uh, maar mee moet rekenen, rekenen en herhalen: nee, dat komt een exacte.
+
+[EQI] 14:22:05
+Er oplossingen uit. Altijd hetzelfde. Op wat minnen en plussen na.
+
+[EQI] 14:22:11
+Een andere manier. Die exact dezelfde oplossing geeft, maar een andere manier om ernaar te kijken.
+
+[EQI] 14:22:18
+Is om het in een soort van meetkundige setting te doen.
+
+[EQI] 14:22:22
+Wat we dan doen, en en je mag kiezen welke je handiger vindt om te onthouden of te.
+
+[EQI] 14:22:27
+Te bevatten. Ik vind eerlijk gezegd. Uhm. Wiskundig vind ik die variantie heel erg makkelijk, want dat is zo opgeschreven.
+
+[EQI] 14:22:34
+Maar voor begrip is, denk ik, het meetkundige. Het is ook heel.
+
+[EQI] 14:22:40
+Bruikbaar voor mij. Het lastige van meetkundige is dat we toch eigenlijk.
+
+[EQI] 14:22:45
+Maar drie dimensies aankunnen. En ik heb tien variabelen. Iedere variabele is een dimensie, dus je hebt de moed dan toch een soort van abstractie abstracte, tiendimensionale ruimte zien Nou, die gaan we niet zien.
+
+[EQI] 14:22:57
+Maar als je, als je dat kunt accepteren, dat zoiets bestaat.
+
+[EQI] 14:23:02
+Een ruimte met een assenstelsel met tien loodrechte richtingen.
+
+[EQI] 14:23:06
+Dat is. Uh, Dat is het uitgangspunt. Heel complex, dus kunnen we niet echt goed fysioticeren, maar gaat zet het dan in drie straks en dan gaan We kijken van drie, naar twee.
+
+[EQI] 14:23:15
+Goed. Ieder van jou is een aparte richting. Dat is de gedachte, en dat betekent dus dat iedere ieder punt of iedere waarneming.
+
+[EQI] 14:23:22
+Heeft eigenlijk Die dat? Was misschien een makkelijkere manier. Hij heeft dan tien waardes.
+
+[EQI] 14:23:25
+En dat kun je zien als de cordinaten. En dus als je er twee hebt, dan heb je een potje X-ei Xc koningin aan Eickhoorn. Nu heb je x, ij, z ja, en dan loop je al tegen het eind aan. Maar dan had je dan weer een team van moeten hebben.
+
+[EQI] 14:23:39
+Goed of P. Algemeen dat.
+
+[EQI] 14:23:45
+Psv is heel makkelijk. Dat is wat ik zeg ik z'n ei. En dan kan ik, denk ik Uh, drie. Kunnen We trouwens ook nog wel een beetje, maar dan zit je al wel aan je scherm, vast bijvoorbeeld.
+
+[EQI] 14:23:54
+En en dat is toch weer twee, D. H.
+
+[EQI] 14:23:57
+Dus. Dit is voor twee.
+
+[EQI] 14:24:01
+En eigenlijk een belangrijke eerste soort soort Uhm. Sprong die je dan moet maken is van als ik dit doe. Ik heb een variant. Ik heb een x, en een ei, dan maak ik een plaatje dan de X-waarde.
+
+[EQI] 14:24:12
+Doet naar rechts. De ijwaarde, doe ik naar boven op.
+
+[EQI] 14:24:15
+Van onder. Dat is eigenlijk, Dat is wat we een beetje leren wat we gewend zijn. Ze lijkt ook heel natuurlijk. Ik weet niet of dat.
+
+[EQI] 14:24:21
+Natuurlijk is omdat we dat hebben geleerd, of dat het gewoon echt heel erg. Ik denk eigenlijk dat het gewoon heel erg natuurlijk.
+
+[EQI] 14:24:26
+Is omdat de wereld ook. Zo gezien wordt Maar de eerste ding wat je moet beseffen is: Oke, dat kan je wel doen.
+
+[EQI] 14:24:34
+Maar als ik dan bedoel, als ik genteresseerd ben in de relatie tussen die punten en hoe die zich tot elkaar verhouden.
+
+[EQI] 14:24:39
+Dan is die keuze naar rechts en naar boven.
+
+[EQI] 14:24:42
+Ja, is een beetje arbitrair.
+
+[EQI] 14:24:46
+Het is logisch en zo. Maar ik had ook dit kunnen. Ik had ook met mijn xas zo schuin kunnen tekenen. Maar hij was ook zo schuin. Dan krijg je eigenlijk dus dezelfde relatie is niks aan veranderd.
+
+[EQI] 14:24:57
+Dat is eigenlijk een beetje wat we met principale componenten.
+
+[EQI] 14:25:00
+Gaan gebruiken dat we de assen zoals we die tekenen.
+
+[EQI] 14:25:05
+En dat het een keuze is, en of we kunnen dat ook anders kiezen.
+
+[EQI] 14:25:10
+Verandert niks. Ja, het ziet er anders uit. Maar eigenlijk, tussen de data zijn niet veranderd. De onderlinge.
+
+[EQI] 14:25:15
+Verhoudingen niet verandert, varianties en zo alles is precies hetzelfde. Links en rechts.
+
+[EQI] 14:25:19
+Dat gaan we gebruiken. Hoe dan dat.
+
+[EQI] 14:25:28
+Uhm. Wat we met principale componenten gaan doen is. We gaan dus dat assenstelsel gaan we een hoek van vinden.
+
+[EQI] 14:25:35
+Uh, Gaan we dus aanpassen? En dat doen we op een manier.
+
+[EQI] 14:25:39
+Dat, uh la laten we zeggen, Ik heb drie dimensies. Om te beginnen.
+
+[EQI] 14:25:44
+Ik ga dan een hoek kiezen die alle informatie in die in die ruimte in die driedimensionale ruimte.
+
+[EQI] 14:25:50
+Dat als ik hem. Uh draai.
+
+[EQI] 14:25:55
+Ik ga er tegenaan kijken. Op zo'n manier. Dat ik zoveel mogelijk van die informatie zie in mijn plaatsje.
+
+[EQI] 14:26:01
+Uh, Maar nu zie ik de twee die mensen eigenlijk: is het: Uh, wat je wat een filmmaker doet of een fotograaf.
+
+[EQI] 14:26:06
+Die maakt een plaatje van een. Ik kan een plaatje van jullie maken. Ook.
+
+[EQI] 14:26:10
+Er dan? Wordt Het twee D en ik wil in mijn plaatje wil ik zo min mogelijk van informatie verliezen.
+
+[EQI] 14:26:17
+Dat is wat wat Pc. Doet.
+
+[EQI] 14:26:23
+Dus bijvoorbeeld. En uh zetje, punten.
+
+[EQI] 14:26:28
+Nou, als ik daar een drie d plaatje. Bang kan maken. Dus dan moet je die eigenlijk denken we die derde dimensie er nu bij? Natuurlijk.
+
+[EQI] 14:26:37
+En misschien kan ik het beter op een volgende slide.
+
+[EQI] 14:26:39
+Zou ze wat beter? Ja. Dus dit zijn diezelfde punten. He.
+
+[EQI] 14:26:42
+Die zien we dan. De meeste software kun je soms een beetje draaien en zo, nou weet je dat eigenlijk is dat wat we gaan doen.
+
+[EQI] 14:26:50
+Wij zijn. We gaan dat draaien en we gaan zodanig draaien dat we een goede.
+
+[EQI] 14:26:54
+Hoek vinden. Dus we kunnen het zo draaien. Zelfde data.
+
+[EQI] 14:27:00
+Alleen gewoon een beetje eraan. Sleuren, of je kunt het ook zo dragen.
+
+[EQI] 14:27:08
+Wat is de principale componenten oplossing.
+
+[EQI] 14:27:18
+Ik hoorde het laatste. Wordt rechtlijn het is die of de eerste.
+
+[EQI] 14:27:31
+Uh, Wat willen We willen geen informatie verliezen. En rechts boven verlies je juist heel erg veel informatie.
+
+[EQI] 14:27:38
+Want je ziet dus niet meer. Het lijkt alsof deze hier liggen. Twee punten, het lijkt dat die hetzelfde zijn.
+
+[EQI] 14:27:44
+En hier kijken we er rechtop dat ding. En verliezen we dus nul. Nul.
+
+[EQI] 14:27:49
+Het idee van Pca is de foto te maken dat we zoveel mogelijk eigenlijk blijven zien.
+
+[EQI] 14:27:53
+Dit is. Dit is wat je in een in een film ziet. Als iemand Uh.
+
+[EQI] 14:27:57
+Uh, Iemand anders op z'n gezicht slaat. Dan lijkt het alsof hij op z'n gezicht geslagen wordt, maar hij gaat er eigenlijk aan voorbij he.
+
+[EQI] 14:28:03
+En En dit is dan de hoek waarbij je ziet dat die vuist voortgezet langs.
+
+[EQI] 14:28:08
+Dus speciaal is Uh, Rechtsboven is een goochelaar. Dat is wat de goochelaar probeert te doen op zijn podium en die daaronder is juist wat je wel eens ziet in die verklaringsvier, de video dat je opeens ziet dat er Ja, hoe.
+
+[EQI] 14:28:22
+Hoe eigenlijk hoe je bedonderd wordt of gedrukt wordt.
+
+[EQI] 14:28:26
+En eigenlijk, is dat wat bij hetzelfde? Met Ik zei: Ik kan een foto hier maken.
+
+[EQI] 14:28:31
+Als ik een foto zo hier maak en ik daal een beetje zo, dan heb ik maar een persoon in deze rij.
+
+[EQI] 14:28:35
+Geen goede pc-oplossing. Ik moet een beetje zo kijken dat ik er overal op en dat ik iedereen erin krijg.
+
+[EQI] 14:28:40
+Dat zou mijn pca-foto. Worden verbazing met dat die variatie zo groot mogelijk is. Ja, dat is eigenlijk Dus die hier zie je dat ook.
+
+[EQI] 14:28:50
+De variantie in deze puntenwolk variant is gewoon alle afstanden tot het middenste punt.
+
+[EQI] 14:28:55
+Hier enorm. Hier is die veel minder, want dat is die afstand gewoon daar naartoe.
+
+[EQI] 14:29:00
+En Eh: Ja. Dus dat dat is inderdaad die F, die H, Dus daar is de variantie maximaal.
+
+[EQI] 14:29:05
+Daar is die minima in dit geval. Het is natuurlijk een beetje gek. He, dit is natuurlijk die. Dat is. Natuurlijk heb ik zo gemaakt.
+
+[EQI] 14:29:12
+Ik heb driedimensionale data. Gemaakt die eigenlijk tweedimensionaal is.
+
+[EQI] 14:29:17
+Want dit is per Vvd. Als je dit hebt.
+
+[EQI] 14:29:20
+Dan, uh, dan heb je, dan verlies je nul informatie. Dus je hebt. Ik kan net drie kolommen.
+
+[EQI] 14:29:24
+Hebt er maar twee nodig. Geen enkele h oorspronkelijk wat ik drie had. Ja, kennelijk ligt het.
+
+[EQI] 14:29:30
+In een vlak. Dus die derde dimensie is helemaal niet nodig voor mei.
+
+[EQI] 14:29:34
+Dat zien d'rin. H Dat zullen we natuurlijk niet zo vaak tegenkomen.
+
+[EQI] 14:29:37
+Meestal wat je gaat zien. Maar meestal zullen hier dan wel wat afwijkingen zijn. Dus.
+
+[EQI] 14:29:42
+He, dan. En dan is dit. Gepoliteerd. Dus je mist wel wat maar het liefst zomin.
+
+[EQI] 14:29:48
+Mogelijk.
+
+[EQI] 14:29:54
+Goed. Ja. En wiskundig is. Het nogmaals, is dit een heel fraai.
+
+[EQI] 14:30:00
+Probleem is heel makkelijk op te schrijven. En heel makkelijk op te lossen.
+
+[EQI] 14:30:06
+Uhm. Wat Wat de methode ook zo aantrekkelijk maakt, moet ik zeggen, en het gaat hier om variantie, de som van de gekalateerde afstanden.
+
+[EQI] 14:30:12
+Is zo klein mogelijk in de speciaal oplossing krijgen. Dus de als je de afstanden in die pc-oplossing gaat bekijken tussen de punten.
+
+[EQI] 14:30:19
+Is dat niet exact. De afstand tussen de punten, maar dat is de best mogelijke benadering.
+
+[EQI] 14:30:25
+Van die afstand.
+
+[EQI] 14:30:33
+Zinloos dit, want dit. Had. Mij. Eigenlijk is alles wat ik nodig heb.
+
+[EQI] 14:30:38
+Dus het. En wat krijgen we dan? De De aanpak is: We gaan iedere variabele.
+
+[EQI] 14:30:45
+Een gewichtje geven. He. Als je iedere variabele gewicht ngeeft, krijgt het gemiddelde.
+
+[EQI] 14:30:50
+Maar n gedeelte wordt. Het aantal van jou krijgt gemiddelden.
+
+[EQI] 14:30:54
+Uh, maar wel, dat gaan we. Dus we gaan anders doen. We gaan de ene gaan we een groot gewicht geven een andere kleine. De ene krijgt een positief en de andere negatief.
+
+[EQI] 14:31:00
+H die die gewichtigs, die gaan, Maar we gaan dat op zo'n manier doen.
+
+[EQI] 14:31:04
+Dat als ik vervolgens kijk naar die combinatie die ik krijg, dat het zo goed mogelijk.
+
+[EQI] 14:31:09
+Die variatie beschrijft. Dus lineaire combinaties vandoor en we kunnen natuurlijk straks ook weer krijgen. Dus die combinaties die kunnen we gaan bekijken.
+
+[EQI] 14:31:17
+Je krijgt ook nieuwe punten.
+
+[EQI] 14:31:23
+En we gaan al die dingen. Interpreteer of kijken of of die ons iets.
+
+[EQI] 14:31:30
+Vertellen. Ja, het is lineair.
+
+[EQI] 14:31:35
+Ja, er zijn ook non lineur. Peace-ading wordt Het ingewikkeld.
+
+[EQI] 14:31:37
+En dan is het niet zo makkelijk meer op te lossen.
+
+[EQI] 14:31:40
+Uh, ook. Ook dan wordt het ingewikkelder. Dan heb je niet meer je dat lineaire Dat komt overheen met die draaiingen met die rotaties.
+
+[EQI] 14:31:47
+Als je niet lineair gaat transformeren, dan. Dan wordt het allemaal een stuk ingewikkelder, je foto's. Dan zit je niet alleen te draaien, maar dan zie je ook dingen, bijvoorbeeld in de rekken op. Dus het.
+
+[EQI] 14:31:56
+Wordt het veel moeilijker om te begrijpen. Dus dit is altijd lineair. Ja.
+
+[EQI] 14:32:03
+En altijd op variantie, dus op afgekwaletteerde afwijkingen, zo klein mogelijk ook. Dat kan anders allemaal. Maar het woord wiskundig. Dit is een van de redenen dat dit zoiets verzonnen is. Volgens mij.
+
+[EQI] 14:32:14
+Een intutie is helder, maar ook de wiskunde schitterend.
+
+[EQI] 14:32:18
+Prachtig goed op te lossen. Dus wat jij zegt, Uhm zouden we ook andere transformaties kunnen doen.
+
+[EQI] 14:32:24
+Zouden we ook wat andere mensen ook wel eens zeggen, zouden we ook niet naar varianties, maar naar absolute afstanden kunnen kijken en zo.
+
+[EQI] 14:32:30
+Kan allemaal. En sommige dingen zijn ook relatief makkelijk.
+
+[EQI] 14:32:35
+Maar uh, allemaal minder elegant. Wiskundige en meestal een.
+
+[EQI] 14:32:40
+Uh, is dit als startpunt In ieder geval. Ruim voldoende.
+
+[EQI] 14:32:45
+Ja, en wat we dan ook willen doen. Dat is natuurlijk een.
+
+[EQI] 14:32:48
+Ik zeg: Je kunt het blijven doen. H: Dus.
+
+[EQI] 14:32:50
+Je begint met tien, dan ga je naar N, dan kun je de volgende zoeken. De volgende volgende tot je d'r weer tien hebt. Maar dan ben je terug. Het idee is dus ergens te stoppen, Net als die foto een foto is, altijd dan gaat het naar twee dimensies terug.
+
+[EQI] 14:33:01
+Compliment niet per se naar twee. Maar als we naar twee teruggaan, dan kunnen we namelijk ook de data weer in een plaatje zetten. Dat gaan we vandaag ook wel doen.
+
+[EQI] 14:33:09
+Dat is handig. Ja, in de realiteit. Is Het heel vaak niet voldoende.
+
+[EQI] 14:33:13
+Dus er moeten op een andere manier gaan nadenken hoe we het kunnen.
+
+[EQI] 14:33:16
+Het bekijken. En sowieso, Dus ja, als je de als je van tien teruggaat naar negen.
+
+[EQI] 14:33:23
+Dan, Uh, ja, dan is dat toch wel een grote teleurstelling, want dat wat W waarom zoveel moeite doen, dan.
+
+[EQI] 14:33:29
+Ja. Dat je dingen door mekaar.
+
+[EQI] 14:33:43
+Is dat dan dat die individuele dimensies. Daar wil je de varianties zo klein mogelijk hebben. Nee, de lineaire combinaties moeten zoveel mogelijk varianties beschrijven.
+
+[EQI] 14:33:53
+En wat eigenlijk een soort gevolg daarvan is, is die nieuwe punten.
+
+[EQI] 14:33:56
+In die Uh, wat we net in die in dat dat plaatje hadden.
+
+[EQI] 14:34:00
+Uhm. In twee dimensies. Dit plaatje.
+
+[EQI] 14:34:04
+Wat ik daar wilde zeggen, en dat is misschien wel verwarrend. Inderdaad, dat als je kijkt naar de afstand tussen de punten hier, he.
+
+[EQI] 14:34:11
+Uhm. Uh, als ik die afstanden. Vergelijk met de afstanden in de in de driedimensionale ruimte.
+
+[EQI] 14:34:17
+Dan moet het verschil zo klein mogelijk zijn. Dus de afstanden worden niet klein, maar.
+
+[EQI] 14:34:23
+De afstanden die ik in mijn benadering vind. Dus dit is een ja. In dit geval is het een perfecte benadering.
+
+[EQI] 14:34:28
+Maar de afstanden die ik in mijn foto waarneem.
+
+[EQI] 14:34:31
+Als ik die vraag Verga ga vergelijken met de afstanden in de totale ruimte.
+
+[EQI] 14:34:35
+Dan moeten ze het zo dicht mogelijk daarbij liggen.
+
+[EQI] 14:34:38
+Dus eigenlijk wel echt Het is inderdaad klein, dan, maar het is een heel ander iets. Eigenlijk een andere manier om tegenaan te kijken.
+
+[EQI] 14:34:54
+Ja, Nou nu gaan we heel erg passie. En dan gaan we een voorbeeldje doen.
+
+[EQI] 14:34:58
+Na een uur te praten, al. Jongens, ja. Oke, nog een vraag. Ja.
+
+[EQI] 14:35:08
+De box, de box.
+
+[EQI] 14:35:13
+Ze zijn twee Uh, voordelen van Pc dat er N Uh: die mensenreductie en de ander is. Uh, mult. Uh, Je hebt geen multiculan coline h want 't is orthogonaal. Ja.
+
+[EQI] 14:35:25
+Dus als je nou uh, tien uh, dimensies hebt voor tien variabelen, dan heb je honderd procent van de variantie te pakken in principe of ja.
+
+[EQI] 14:35:32
+Gewoon even, wil ik gewoon even, ja eerder. Ja. En dus w wat jij zegt: Uh, Kijk, multicorialiteit is echt een typische regressieprobleem he dat de.
+
+[EQI] 14:35:39
+Variabelen mogen niet of mogen niet, het is onhandig.
+
+[EQI] 14:35:42
+Als ze samenhangen voor de interpretatie van je cofficient en voor andere dingen.
+
+[EQI] 14:35:48
+Gebruikt juist die relaties en die probeert die zo goed mogelijk te gebruiken om de totale variatie. Maar als je er tien gaat nemen.
+
+[EQI] 14:35:55
+Dan zijn dat tien onafhankelijke dimensies weer.
+
+[EQI] 14:36:02
+Ja Pauze.
+
+[EQI] 14:36:30
+Dan Uh, Xxx. De arbeid, naast haar.
+
+[EQI] 14:37:33
+Ja. Ja. Ja. Ja.
+
+[EQI] 14:38:16
+'t is niet goed.
+
+[EQI] 14:38:50
+Een treintje langs.
+
+[EQI] 14:39:05
+Ah ja.
+
+[EQI] 14:39:27
+Ja, die onzin,
+
+[EQI] 14:39:51
+Voor 't Uh.
+
+[EQI] 14:40:12
+Ah da 's wel lastig.
+
+[EQI] 14:40:58
+Ja, jullie ook
+
+[EQI] 14:41:27
+En
+
+[EQI] 14:42:54
+Ah ja.
+
+[EQI] 14:43:00
+Met z'n handen.
+
+[EQI] 14:44:14
+En dat? 'k ik,
+
+[EQI] 14:44:48
+Ja, jawel.
+
+[EQI] 14:45:22
+Laat dieje.
+
+[EQI] 14:46:09
+Xxx. Maar ik.
+
+[EQI] 14:46:40
+Toen dacht ik, dan ga ik nogmaals tweede. Dat ging ook niet goed.
+
+[EQI] 14:47:05
+Ja, dat dat soort dingen.
+
+[EQI] 14:47:17
+Van die paar meidjes, misschien. Maar we zien, namelijk duizend keer gedaan moet zijn. Ja.
+
+[EQI] 14:47:33
+Dat was de naam. Ja, daar zijn ze dan.
+
+[EQI] 14:47:56
+Achttien dertig fout.
+
+[EQI] 14:48:10
+Ja.
+
+[EQI] 14:48:25
+Ja. Ja.
+
+[EQI] 14:48:54
+Kunnen ze niet langer. H. En was er iets? H.
+
+[EQI] 14:49:20
+En dat was wel zo druk.
+
+[EQI] 14:49:35
+Nee. Nee.
+
+[EQI] 14:49:46
+Uitbazen.
+
+[EQI] 14:50:04
+Nou uh, zijn we allemaal? Uh. Hier. Ja, dat zou ook een mooi experiment, want je hoort nooit degene die er niet is.
+
+[EQI] 14:50:14
+Maar als ik zo kijk, dan zie ik: uh, dat is koffie nog. Dus dan is iedereen.
+
+[EQI] 14:50:20
+Aanwezig. Ja, dan gaan we Ja, Alles wat ik net heb verteld met met m'n handen, met m'n plaatjes.
+
+[EQI] 14:50:27
+Het de gedachte erachter. Gaan we met een klein voorbeeldje.
+
+[EQI] 14:50:32
+Het doen, en ik heb daarna een. Nog een voorbeeld. Hopelijk gaan we dan.
+
+[EQI] 14:50:36
+Erin slagen het zelf te doen. Uhm. Uh, om. Uh, dat is natuurlijk een beetje een Uh, een voorbeeld. Wat Uh.
+
+[EQI] 14:50:46
+Dat heb ik. Eh. Bewust gekozen, omdat het vee ik denk dat je daar wel veel makkelijker een soort van.
+
+[EQI] 14:50:53
+Uh wat gedachtes over kunt vormen en kunt interpreteren.
+
+[EQI] 14:50:57
+Ehm, het is wel echt het data ook. Het is wel oude data. Trouwens, het is.
+
+[EQI] 14:51:01
+Ooit is. Toen mijn zoon naar de middelbare school ging.
+
+[EQI] 14:51:04
+Er kwam ik dat tegen in de krant of zoiets als een linkje daarna. Ik: denk Nou, laat 'k 'ns kijken wat erin zit.
+
+[EQI] 14:51:09
+En maar dat is best. Nog een tijd. Geleden moet ik zeggen: ik heb de data van. Ik werd dus eigenlijk niet eens meer welk jaar dit was, of een B, of waarschijnlijk kun je dit.
+
+[EQI] 14:51:19
+Ieder jaar staat dat vast wel ergens het finresultaten op het.
+
+[EQI] 14:51:24
+Van die scholen Ik heb daar een selectie van gemaakt. Zelf Ik heb alleen gekeken naar de vwo's.
+
+[EQI] 14:51:30
+En de Gymnasia, heel Nederland en de scores op het centraal examen. Ja, volgens mij had ik oorspronkelijk ook die data. Dat heb ik misschien nog met de.
+
+[EQI] 14:51:40
+Uh, De sch de schoolonderzoeken. Ik kijk alleen het centraal, want dat is overal hetzelfde.
+
+[EQI] 14:51:44
+En dan. Kijk ik naar eigenlijk wat de gemiddelde uitkomt op een school.
+
+[EQI] 14:51:49
+Per vak. En dan heb ik twaalf vakken.
+
+[EQI] 14:51:54
+Uh, die daar dan uh, Uh, gegeven worden. Ik hou, haal dus Uh Latijn en Grieks weg.
+
+[EQI] 14:51:59
+Ja, volgens mij, wiskunde D of zoiets? Uh, of die heb ik misschien juist wel. Nou ja, dan H dingen die waar de wat niet overal gegeven wordt, is niet zo handig. Dus die heb ik weg-gelaten.
+
+[EQI] 14:52:09
+Twaalf vakken Hou ik over? Dan heb ik voor iedere school.
+
+[EQI] 14:52:12
+Het gemiddelde cijfer op dat ding. Op dat vak. En dan zou je twaalf dimensionale data kan ik dat terugbrengen naar minder.
+
+[EQI] 14:52:22
+En dan zou je kunnen gaan denken aan hoe.
+
+[EQI] 14:52:25
+Hoe waarom zou dat wat kunnen opleveren? En wat zou dat dan kunnen opleveren? En.
+
+[EQI] 14:52:30
+Nou ja, uh, je zou dan kunnen denken van: ja, misschien is een school Uhm.
+
+[EQI] 14:52:35
+Hebben een hele sterke talensectie. En misschien zie je dat dan eigenlijk terug in die resultaten. Dus dat er niet dan toevallig uh, Duits goed is, maar dat op scholen waar Duits goed is, dat ook misschien wel Engels heel goed is.
+
+[EQI] 14:52:47
+En misschien dat zijn dat dan ook nog eens scholen.
+
+[EQI] 14:52:50
+Er waren waar ze. Waar dan waar ze dan heel slecht zijn in wiskunde.
+
+[EQI] 14:52:56
+En en D. Dus de de Bta-vakken bijvoorbeeld. Of misschien kunnen we dat soort samenhangen.
+
+[EQI] 14:53:01
+Vinden, nou. Dus wat we gaan proberen. We gaan kijken of we die twaalf kunnen terugbrengen naar.
+
+[EQI] 14:53:09
+Minder we gaan twee nemen, straks. Of misschien drie, maar ik denk dat we met twee gaan beginnen.
+
+[EQI] 14:53:14
+En kijken of daar de dingen in zijn te ontdekken.
+
+[EQI] 14:53:19
+Nou, dit is een Snapchat. Van de data zoals dat er in ar uit ziet, zie ik, maar daaronder we. Gaan nu echt de.
+
+[EQI] 14:53:27
+Uh, Ik heb wat dingen op. O ja. Helemaal vergeten. Ik heb wat dingen op de kamfast staan, dacht ik: he staan er een spaarstukjes. Ik gebruik Uh, van die notebooks.
+
+[EQI] 14:53:37
+Wat gebruiken jullie.
+
+[EQI] 14:53:47
+Uhm. En dan heb ik ook, want dan dacht ik ook van: ja, want dat viel me een beetje op.
+
+[EQI] 14:53:56
+Dat je dan? Uh, Ja, je moet allerlei uh, uh, Hoe noem je die dingen libris of zo? Die moet je dan Uh wel of niet Uh gaan gaan importeren.
+
+[EQI] 14:54:04
+Of moet je eerst nog installeren, maar dan hoop ik dan dat je dat al hebt gedaan.
+
+[EQI] 14:54:08
+Of dat je anders weet hoe je dat moet doen.
+
+[EQI] 14:54:12
+Uhm. Maar in dit dingetje, dat staat op canvas dan.
+
+[EQI] 14:54:16
+Uh, en dat is een jupert a notebook. Volgens mij.
+
+[EQI] 14:54:19
+Daar heb ik volgens mij dit hele ding. Staan al Trouwens, volgens misschien heb ik 't gister weer.
+
+[EQI] 14:54:24
+Heb ik die numpie eruit gegooid, want die heb je helemaal niet nodig. Ben ik niet helemaal zeker meer.
+
+[EQI] 14:54:29
+Het maakt niet uit He, als je te veel erin hebt.
+
+[EQI] 14:54:33
+Ehm: Maar he. Dus dit hebben we dus nodig.
+
+[EQI] 14:54:35
+En ik denk van ja, voordat we daar allemaal.
+
+[EQI] 14:54:38
+Dus hoef je niet over te typen, want 't staat erin. H.
+
+[EQI] 14:54:41
+Even kijken wat hebben we nog meer nodig. Ja, dan kunnen we de data gaan bekijken.
+
+[EQI] 14:54:47
+Weet niet, haal ik die regel er ook in staan.
+
+[EQI] 14:54:51
+Ja, En dat werkt ook nog allemaal. Oom. Ja.
+
+[EQI] 14:55:06
+In informatie. Inderdaad, dat is eigenlijk wat wat we daar als een.
+
+[EQI] 14:55:10
+Een maat in feite voor hebben is de variantie.
+
+[EQI] 14:55:13
+In de hedendaagse. Dus wat je hoe je dat kan zien voor die twaalf vakken je kunt kijken, ik heb: uh, ik weet niet hoeveel scholen vierhonderd vijfhonderd of zo.
+
+[EQI] 14:55:20
+Als je kijkt naar het gemiddelde per vak, overal scholen.
+
+[EQI] 14:55:24
+Het twaalf gemiddelde cijfers, krijg ik dan. Uhm. En als je dan voor ieder vak afzonderlijk de afwijking neemt van die school.
+
+[EQI] 14:55:32
+Tot het gemiddelde in de groep. Uhm. Dat dat is enig, dat quadrateert dat allemaal optelt, dan krijg je de variantie in je hele datacet. Hoe ver ligt het allemaal.
+
+[EQI] 14:55:42
+Uit elkaar. In feite die twaalf mensen, en dat willen we.
+
+[EQI] 14:55:45
+Die wil je beschrijven. Ja. Dus dus in je nieuwe ding wil je, als je gaat kijken naar als ik dan ga kijken, dan kijk ik dus een twee dimensies. Een factor van die dingen.
+
+[EQI] 14:55:55
+Als ik dan kijk naar hoeveel variantie vind ik in die tweedimensionale ruimte. Dat gaat minder zijn.
+
+[EQI] 14:56:00
+Uh, Maar dat moet eigenlijk, uh, ja, relatief aan wat je eerst had. Ja.
+
+[EQI] 14:56:05
+Dat is wat we willen gaan doen. Daar gaan we straks ook. We gaan ook zien hoeveel dan.
+
+[EQI] 14:56:10
+Wel. Ok, Dus dit werk, ik ga straks ook naar mijn Python ding.
+
+[EQI] 14:56:15
+Maar o ja. Dus heb ik gevonden.
+
+[EQI] 14:56:20
+Dat Uh, dat je via. Die Pca-functie. Kun je dit.
+
+[EQI] 14:56:27
+Doen? En dan zo ja, het punt een beetje. Dus dan ja, hoe krijg ik dan Wat h dan? Dit? Kun je makkelijk runnen. Daar.
+
+[EQI] 14:56:37
+Ja, En dan heb ik wat. Maar wat heb ik dan precies? En hoe ga ik het bekijken?
+
+[EQI] 14:56:42
+Uhm. Uh, ja, daar daar. Ja, eigenlijk Wa wat je nu op deze manier hebt, Want er staat daar, uh, de manier waarop ik het doe.
+
+[EQI] 14:56:48
+Je, kies niet een reductie in dimensies. Ik kies eigenlijk de alles.
+
+[EQI] 14:56:53
+Bij Brabant, een mooi ding aan die Uh, aan die oplossing is van Pca.
+
+[EQI] 14:57:00
+Uhm dat de oplossingen zijn zogeheten Genest. Dus dat wil zeggen dat een.
+
+[EQI] 14:57:06
+Uhm Als ik de vierde minsionale oplossing hebt, dan heb ik ook de driedimensionale oplossing. Die heb ik namelijk gewoon door die vierde weg te gooien.
+
+[EQI] 14:57:12
+Dus als ik de tiendimensalen oplossing bereken, Dat doe je hier in feite, dan kan ik gewoon de tweedimensionale oplossing vinden door gewoon alleen naar de eerste twee te kijken.
+
+[EQI] 14:57:21
+Dus het is, Uh, He, heel erg handig. Je hoeft er niet aparte runnen voor twee of voor drie of voor vier een keer runnen voor alles.
+
+[EQI] 14:57:28
+En dan gewoon eraf gooien wat wat je wil.
+
+[EQI] 14:57:33
+Ja.
+
+[EQI] 14:57:41
+Nee, want dat weet ik eigenlijk niet zo goed wat best subset in recessie is, Maar we gaan niet een subset doen, we nemen een combinaties.
+
+[EQI] 14:57:49
+Subset klinkt voor mij als dat je er een aantal pakt en een aantal niet.
+
+[EQI] 14:57:54
+We niet precies wat dat betekent. Best subset in de regressie. Zo.
+
+[EQI] 14:58:06
+Staat die d'r. Ook nog allemaal in dat ding of moet, je dit zelf uh typen.
+
+[EQI] 14:58:10
+Staat er nog in hadden, dan werkt het ook allemaal nog.
+
+[EQI] 14:58:13
+Dus dus ja, een beetje de afweging, Ja, wat moet ik allemaal.
+
+[EQI] 14:58:18
+Doen? Wat zien We staat er nu. Wat zien jullie.
+
+[EQI] 14:58:26
+Zien jullie dit. Dat is, fijn.
+
+[EQI] 14:58:32
+En wat is dit dan. Enig idee. Wat we hebben gedaan is weer mooi.
+
+[EQI] 14:58:40
+Je hebt nog niks zelf hoeven doen, ook volgens mij alleen maar run.
+
+[EQI] 14:58:47
+Uh ellebogen. Ja, Maar Wat ja. De wat?
+
+[EQI] 14:58:53
+Ja, is dat duidelijk. Dat is wat we hier zien. Dus dan zien we dat die eerste.
+
+[EQI] 14:58:57
+Combinatie die hij heeft gevonden. De variantie daarvan is. Een.
+
+[EQI] 14:59:04
+Uh onder de veertig. Ik dacht zesendertig of zevenendertig zoiets.
+
+[EQI] 14:59:07
+Het getal zelf eigenlijk zegt, niet zoveel hangt van de data af en van je meeteenheden.
+
+[EQI] 14:59:13
+De tweede I. Maar dus. Dus dan dan eigenlijk wat je dan doet, dan gooien we die eerste dat dat deel wat wat die A beschrijft en.
+
+[EQI] 14:59:21
+Halen we weg van de data, en dan kijken we wat in de tweede richting loodrecht op de eerste.
+
+[EQI] 14:59:27
+Wat daar nog eh te beschrijven is. Nou, die die vindt zoveel variatie.
+
+[EQI] 14:59:32
+Dan zoveel, En zo loopt dat een beetje af. En dan zit je hier weer een sprongetje.
+
+[EQI] 14:59:37
+En uiteindelijk hebben we er elf te pakken. Twaalf min één.
+
+[EQI] 14:59:44
+Uhm. En dat die Ei-penning hoeveel varianties zo'n ding beschrijft.
+
+[EQI] 14:59:49
+Eerst het meeste, en dan loopt het naar beneden.
+
+[EQI] 14:59:55
+Ja, en dan.
+
+[EQI] 15:00:01
+Een ding wat jou kan doen. Is Een.
+
+[EQI] 15:00:05
+In plaats van die absolute varianties. Als je nou gaat kijken, want ik zei: Je wilt zoveel mogelijk.
+
+[EQI] 15:00:10
+Uh, nu, heb ik eigenlijk alleen die absolute waarde. Dus je kunt ook gaan kijken van hoe. Hoeveel heb ik dan met die eerste.
+
+[EQI] 15:00:15
+Dan kun je kijken naar hoeveel variantie en dan neem je de variantie in totaal, en dan deel je dat. En heb je een percentage.
+
+[EQI] 15:00:23
+Staat dit ook nog in jullie ding. Ja, dat gaat, denk ik. Dat ga ik ook niet naar mijn eigen code. Nog.
+
+[EQI] 15:00:34
+Ja, nou moeten we kiezen. Want ik heb nu alles in feite nog he.
+
+[EQI] 15:00:40
+En ik wil terug, en ik zie nu de eerste. Die heeft het meeste. En je kunt met die.
+
+[EQI] 15:00:46
+O wacht, ik ga toch wel even runnen, want dan zie ik die getallen ook.
+
+[EQI] 15:00:57
+Hoop ik dat het bij mij ook werkt.
+
+[EQI] 15:01:06
+Tjonge.
+
+[EQI] 15:01:13
+Waarom duurt het zo lang. Na de eerste keer alleen maar hierna gaat het volgens mij tussen. Maar ineens een reden, en ik weet niet wat mag. Oke, Dit was het. Dat hebben we u ook. Data: Zie je die gemiddelde cijfers.
+
+[EQI] 15:01:26
+Dit noem ik een screen. Plots. O ja, wat gebaren. Dit is ook in een vrij random. Allemaal.
+
+[EQI] 15:01:33
+Ik gebruik hier. Hoe heet het ding? Positron. Gebruiken jullie niet? Ja?
+
+[EQI] 15:01:39
+Dus uh. Ja. Waarschijnlijk He ja.
+
+[EQI] 15:01:45
+Maar, J, Wa, wat we wat is, Wat is is er een soort van standaard, uh, die jullie.
+
+[EQI] 15:01:50
+Ja, vier scoten, Had ik eerst ook Yesco gebeld. Dus je hebt dus eigenlijk hetzelfde. Ja.
+
+[EQI] 15:01:55
+Precies. Dit heeft een groot voordeel vond. Ik. Ik heb dus eerst zat ik via Eesco te doen, en dan zat Ik een beetje te denken, want ik ken natuurlijk niet al die functies nog zo goed.
+
+[EQI] 15:02:03
+Uh, ik vind dit heel mooi hier. Rechts dit deel.
+
+[EQI] 15:02:06
+Je ziet dan uh, wat je wat je hebt geladen. En zo in de data. Je ziet weljes, Er staan hier staan ook die ja, dat doen ze dus kennelijk. Weljuus.
+
+[EQI] 15:02:14
+Zijn, Uh, Uh, de en en de de functies ook een klein beetje.
+
+[EQI] 15:02:19
+En dan kan je ook zien wat hierin zit en zo in die output. Dat is een.
+
+[EQI] 15:02:23
+Nou in dit geval niet zo heel inzichtelijk zie ik.
+
+[EQI] 15:02:27
+Uh, maar Vi vind 'k handig. Maar goed, dat maakt allemaal niet uit die die notebooks geven die plaatjes hier. Dat is ook mooi. Dit hadden We net ook al.
+
+[EQI] 15:02:39
+Moest Ik deze nog doen. He. Ja, Wat we.
+
+[EQI] 15:02:48
+Ja, Hier heb ik die. Dan kun je dus zien. Ehm.
+
+[EQI] 15:02:53
+Dat het. De eerste.
+
+[EQI] 15:02:58
+Een principale component. Die heel.
+
+[EQI] 15:03:02
+Computers Science-achtig nummer nul krijgt. Die eerste die heeft tweentwintig procent verklaarde variantie.
+
+[EQI] 15:03:09
+Die tweede heeft vijftien procent, verklaarde variantie dus de variantie van dat ding, gedeeld door de variantie, totaal.
+
+[EQI] 15:03:15
+En dan staat in de laatste kolom. Dat netjes opgeteld. Ja, je ziet dus.
+
+[EQI] 15:03:20
+Dat het uiteindelijk alles is. En dat de eerste twee, heb je slechts zevenendertig procent. Dus als ik, ik ga, daar straks naar twee kijken.
+
+[EQI] 15:03:27
+En dat geeft dus uh, niet niet de hele realiteit. Het is een benadering.
+
+[EQI] 15:03:33
+Dus wat is, hoog? Wat is Lana? Hoe kies ik Waarom niet? Twee? Waarom niet drie dan of vier.
+
+[EQI] 15:03:39
+Op vijf. Hoe maak je zo'n keuze. Dan komen we toch weer bij dat.
+
+[EQI] 15:03:44
+Plaatje. En dan is de eerste m manier om dat te doen. Ik hoorde net ook al iemand zeggen: van een elleboog werd genoemd.
+
+[EQI] 15:03:53
+Ja we gaan kijken naar een elleboog. Maar als het.
+
+[EQI] 15:04:02
+Lastig he twee ellebogen.
+
+[EQI] 15:04:07
+Uhm. En hoeveel kiest u dan. Laat ik er eigenlijk be, laat ik zeggen: hier zit een knikje, een elleboog, maar ik wil weinig, dus laten we hier maar niet naar kijken.
+
+[EQI] 15:04:17
+Maar de eerste elleboog. Hoeveel dimensies moeten kiezen.
+
+[EQI] 15:04:29
+Dit is één. Dit is twee. Dit is drie.
+
+[EQI] 15:04:33
+Nog steeds twee is dat voor iedereen duidelijk. Want dat is verrassend dat goede antwoord.
+
+[EQI] 15:04:41
+Wat de intutie voor de meeste mensen is. Er zijn hier wat slimmere mensen die dat direct doorzien is. Ja, die elleboog is toch hier. Dus ik moet drie dimensies hebben.
+
+[EQI] 15:04:50
+Maar je moet bij Psa moet Je moet je nadenken wat het nou betekent.
+
+[EQI] 15:04:55
+He, die wat bij ieder ding betekent. Kijk naar hoeveel varianten je er wordt verklaard door dat ding, en.
+
+[EQI] 15:05:01
+En als je dus drie neemt. Uh, want dit is op het kruispunt. Maar als je drie neemt, dan kun je net zo goed die ook nemen.
+
+[EQI] 15:05:09
+Die verklaren. Dan wordt er nog nog wat extra's, uh evenveel verklaard.
+
+[EQI] 15:05:14
+Eigenlijk wat je doet, Je neemt je neemt de dimensies voor de knik.
+
+[EQI] 15:05:18
+Want die daarna. Dat is kennelijk te weinig, Dat dat dan dan kennelijk? Die voeg ik niet zoveel meer toe.
+
+[EQI] 15:05:24
+Als je wel zegt dat dat wel genoeg toevoegt, ja, dan moet je ook die de volgende nemen want die doet net zoveel.
+
+[EQI] 15:05:29
+Et cetera. Dus Dus uh. Bij Pca is dat.
+
+[EQI] 15:05:33
+Uh, als je die elleboog gebruikt. Hier zien we. Ik had eerder niet gezien dat die dus Uh, ook hieraan telt met nul. Dat vind ik niet zo heel erg handig.
+
+[EQI] 15:05:41
+Dit is één. Dit is tweede is drie. Twee dimensies. Dat is voor de elleboog.
+
+[EQI] 15:05:47
+Uh, en dat is aan de hand van het de screppot die tijdens de squeer plots.
+
+[EQI] 15:05:52
+Is de het aantal dimensies. Er zijn heel veel manieren om het aantal dimensies te kiezen. Ik ga er later nog op terugkomen. Andere dingen.
+
+[EQI] 15:05:58
+Erover nadenken, Maar het blijft eigenlijk: h De D'r blijft wel een bepaalde subjectiviteit. De.
+
+[EQI] 15:06:03
+In hangen. Want kijk, hier hebben we een redelijk sterke elleboog aan de andere kant. Je hebt er hier
+
+[EQI] 15:06:10
+Je zou kunnen zeggen, ja, zoveel moeite nemen. Uh, Dus wat je zou kunnen gaan doen, ook wat vrij gebruikelijk is, je die al die oplossingen? Of dit dus een.
+
+[EQI] 15:06:20
+Als er wat twijfel is, bekijken ze alle twee, en dan kijken of dat nog een.
+
+[EQI] 15:06:25
+Het interpreteren is en welke beter het interpreteren is, dan mag je die gewoon kiezen.
+
+[EQI] 15:06:31
+Er zijn ook, maar er zijn ook vaste regels voor wiskundig.
+
+[EQI] 15:06:34
+Kom. Ik denk ik vandaag niet aan toe, maar volgende week.
+
+[EQI] 15:06:37
+En ook die ook die uh, is vaak toch het echte, juiste antwoord is van nou, het hangt ervan af.
+
+[EQI] 15:06:45
+Goed, maar wij kiezen.
+
+[EQI] 15:06:50
+Goed. Dus twee. Uhm.
+
+[EQI] 15:06:55
+Wat hebben we dan gekregen? Nou, we hebben dus een lineaire combinatie en het tweede de volgende.
+
+[EQI] 15:07:01
+Uhm. Wat we nou kunnen doen nog om een beetje te helpen en interpreteren.
+
+[EQI] 15:07:06
+Uhm. We kunnen dan kijken wat we hebben. We hebben dus nu je je we, we. We. We We hadden d'r. Uh de elf. Ik ga er het n en ander weg.
+
+[EQI] 15:07:14
+Gooien. Als je twee dimensie skiest, dan heb je dus eigenlijk coordinaten in een nieuw plaatje.
+
+[EQI] 15:07:19
+En wat we dus ook kunnen gaan doen, is: we kunnen dat plaatje dan maken in dit geval, en eigenlijk kan dat altijd.
+
+[EQI] 15:07:25
+Je neemt gewoon de eerste twee principale componenten, en die kun je gewoon.
+
+[EQI] 15:07:29
+En Uh, die kunnen we in een plaatje gaan.
+
+[EQI] 15:07:32
+Zetten. Uh: Score heet dat. Er zijn in feite dus nieuwe Coördinaten ten opzichte van.
+
+[EQI] 15:07:39
+Die geroteerde assen. Zo. Moet Je dat zien. Ik had dat eerste plaatje al van. Je kunt het.
+
+[EQI] 15:07:43
+En zo doen. Maar je kunt het ook draaien. Nou, we hebben nu een draaiing gevonden.
+
+[EQI] 15:07:48
+Als we dan kijken naar die zogenaamde scores. Dan zijn dat de coordinaten.
+
+[EQI] 15:07:53
+Na die. Een draaiing, het.
+
+[EQI] 15:07:58
+Ja, het. Ja, nou bleek er niet een functie te zijn. Standaard in Bighton.
+
+[EQI] 15:08:04
+Dus toen kwam ik bij, uh, of eigenlijk 'k moet zeggen. Dat Ik heb iemand dat laten doen, en die kwam hierop uit en daar kwam vervolgens achter dat dat dan niet helemaal goed was wat er stond.
+
+[EQI] 15:08:12
+Dus ik heb hem wel gevonden. Het is een leuke functie. Mooi het maar niet perfect nog. Dus we hebben dat een klein beetje moeten aan.
+
+[EQI] 15:08:20
+Passen en die functie. Die staat er ook in. Hoor, Oke, gelukkig. Jan, dat is al een hele.
+
+[EQI] 15:08:28
+Hij kluivert. Ja. I M: Ik denk: H: Als je echt wil begrijpen, wa wat je wat je doet. Natuurlijk Kijk, heel veel is natuurlijk om te plotten.
+
+[EQI] 15:08:35
+Zijn er heel veel dingen die waar je rekening mee moet houden. Dat staat dan in die Dev Byplot.
+
+[EQI] 15:08:40
+Uh: maar je kunt natuurlijk een klein beetje nagaan, Wa Wa wat wat er gebeurt. H: en eiken heel simpel uit de pc-oplossing.
+
+[EQI] 15:08:46
+Komt. Aan de ene kant komen daar scores, dat zijn coordinaten.
+
+[EQI] 15:08:50
+In die mindere dimensies. Of eigenlijk, hij geeft eerst alles, maar we kiezen dan minder.
+
+[EQI] 15:08:55
+Uh ten opzichte van de nieuwe Hasse. Dus na die draaiing.
+
+[EQI] 15:08:58
+En wat er ook in staat, zijn de ladingen dus eigenlijk wat die draaiingen definieert.
+
+[EQI] 15:09:05
+Dus er staat voor iedere die gewicht is voor die variabele.
+
+[EQI] 15:09:08
+Die staan er ook in en wat we nou gaan doen. We gaan ze alle twee tegelijk in een plaatje doen.
+
+[EQI] 15:09:12
+Dus we gaan dus voor ieder punt, de nieuwe coordinator gaan we weer geven, en voor iedere variabelen geven we dan die gewichtjes neer.
+
+[EQI] 15:09:20
+En dat kan je dan gebruiken om eigenlijk een soort van terug te rekenen. Wat je data.
+
+[EQI] 15:09:26
+Was, of wat in ieder geval je data Bij benadering is.
+
+[EQI] 15:09:29
+Dat gaan we. Dat heet een byplot. Kijk dat. Uh, daar staat het.
+
+[EQI] 15:09:36
+Ik moet zeggen: die ga ik de komende weken best veel gebruiken met kleine aanpassingen in hoe je de labels eraan hangt en wat je wel en niet weergeeft.
+
+[EQI] 15:09:45
+Uhm. Wat je wat wat erin moet. In ieder geval.
+
+[EQI] 15:09:48
+Zijn die nieuwe coordinaten. En de ladingen.
+
+[EQI] 15:09:53
+Hij heeft ook die pca nodig. Dus die die outputwand Uhm. Eigenlijk wat Ie nodig heeft aan die varianties.
+
+[EQI] 15:10:00
+H. Dus dat had misschien ook anders gekund. Maar en dat heb je.
+
+[EQI] 15:10:05
+Waarom heb je dat nodig? Want dan wil ik bij de assert, zodat je een beetje ziet hoe goed je plaatje is.
+
+[EQI] 15:10:10
+Keuzes keuzes. Nou ja, dit. Zou moeten werken.
+
+[EQI] 15:10:18
+Werkt dit? Ja. Mooi? Mooi? Ga ik me ook nog even doen, denk ik: Ja, dit is dit ook wat wat eruit komt.
+
+[EQI] 15:10:26
+En er trouwens niemand iets anders. Iedereen exact hetzelfde.
+
+[EQI] 15:10:34
+Nou, dat is wel want wat er kan gebeuren.
+
+[EQI] 15:10:36
+Je moet met die met die met die draaiingen bedenken.
+
+[EQI] 15:10:39
+Dat een plus en een min die kunnen gewoon omgedraaid worden. En dan verandert er niks.
+
+[EQI] 15:10:43
+H: Dus wat wat ik met Arnie gevallen wel 'ns had, is dat dat, uh, de ene helft uh, die die had dan.
+
+[EQI] 15:10:49
+Het ding gespiegeld. In de xas en dat kan. Dat maakt helemaal niet uit.
+
+[EQI] 15:10:55
+Juiste oplossing. Kennelijk was dat in de manier waarop het algoritme dat ding breekde, afhankelijk van je computer of je systeem, of je versie.
+
+[EQI] 15:11:02
+Uh, kon dat kennelijk verschillen. Na Python heeft dat kennelijk wat de.
+
+[EQI] 15:11:05
+Wat robuuster opgezet. Ja, Wat zien we.
+
+[EQI] 15:11:11
+Nou ja, wat zien we.
+
+[EQI] 15:11:18
+We zien. Ik denk dat het duidelijk is dat die rode pijlen, Daar zie je een letter bij staan.
+
+[EQI] 15:11:25
+Voldoet dat Frans en Duits. He. Dus dat is duidelijk. Het zijn er ook minder.
+
+[EQI] 15:11:29
+En dan kun je de ook direct afleiden, dan zullen die bouwen wel de scholen. Zijn Dat is helemaal goed als je dat hebt, de.
+
+[EQI] 15:11:34
+Bedacht. Dat zijn inderdaad de scholen. Uh, maar wat doen, Hoe interpreteer ik dat dan?
+
+[EQI] 15:11:40
+Wat doe ik daar verder mee? Kan ik bijvoorbeeld in dit plaatje zien. Wat een wat een slechte
+
+[EQI] 15:11:51
+Waarschijnlijk. Heeft iemand een idee waar ik dan moet kijken of ik dat kan zien.
+
+[EQI] 15:12:04
+Slechte school. Dus een. Coris, die Uh.
+
+[EQI] 15:12:08
+Ja, beneden. Het gemiddelde liggen laag zijn. Is Dat hieruit af te leiden. Ik doe dit trouwens eigenlijk het idee zo'n beetje mensen. Ik.
+
+[EQI] 15:12:18
+Zeggen: ja heel intuitief hoe dat werkt. Dus laten we dat testen. Is dat echt intutief. Kom eens met een ja met een gok.
+
+[EQI] 15:12:26
+Links onder Quadrant.
+
+[EQI] 15:12:31
+Eh: slecht Waarin. Er zit geen school he. Maar daar zou je dus deze nemen. Bijvoorbeeld.
+
+[EQI] 15:12:38
+Ja, slecht in van z'n Duitse school. Maar is-ie slecht in wiskunde.
+
+[EQI] 15:12:50
+Ja, gemiddeld? Ja. Heel goed. Ja. Ja, echt slecht. Is dit.
+
+[EQI] 15:12:56
+Uh, maar de intutie is er dus wel. H. Want de.
+
+[EQI] 15:13:00
+Eigenlijk wa wat je dan doet of wat je zou moeten doen, is hoe je dit kunt interpreteren. Je kunt ieder punt.
+
+[EQI] 15:13:06
+Eigenlijk moet je loodrecht op zo'n. Richting van zo'n vak schieten.
+
+[EQI] 15:13:11
+Dus, en wat je dus mag doen en wat eigenlijk mooier is in de bibot is als je de lijntjes wat verder trekt.
+
+[EQI] 15:13:16
+Zoals buiten de oorsprong. En dan kun je zien dat deze school inderdaad linksonder H, Als je die dan projecteert.
+
+[EQI] 15:13:23
+Op dit ding, dan is die dus uh. Uh: ja, heel erg aan de negatieve kant van de pijl. Nou, de.
+
+[EQI] 15:13:28
+Dit is het gemiddelde cijfer. En en en Uh, Als we in in de richting van de pijl zitten, we boven het gemiddelde.
+
+[EQI] 15:13:37
+En tegenovergesteld, zitten we beneden het gemiddelde. Dat werkt voor alle scholen. Dus deze.
+
+[EQI] 15:13:42
+Eh: Ja, als we die moeten gaan projecteren of.
+
+[EQI] 15:13:44
+Frans, dan komen we hier ergens of zoiets en.
+
+[EQI] 15:13:47
+Wiskunde zit in beide City onder het gemiddelde. Uhm, de goeie school.
+
+[EQI] 15:13:53
+Hier zit, echt die heeft zitten eigenlijk overal scoort die behoorlijk hoog op.
+
+[EQI] 15:14:00
+Als trouwens zevenendertig procent. He. Dus dit is, ik mis misschien wel iets heel belangrijks.
+
+[EQI] 15:14:05
+Dus, uh, maar bij benadering lijkt het erop dat.
+
+[EQI] 15:14:09
+Dat, uh, dit niet per se de scholen zijn waar je.
+
+[EQI] 15:14:13
+Uh, die het beste resultaten hebben. En dan moet trouwens, dan weten we niet eens of de goede scholen 's avonds.
+
+[EQI] 15:14:17
+Maar de resultaten zijn gemiddeld lager. En Uhm en en aan deze kant zitten dus degenen die bovengemiddeld.
+
+[EQI] 15:14:30
+Maar Oke, dat was een. Intutie. Nog een stukje intutie. Die vakken.
+
+[EQI] 15:14:37
+Wat dan als ik, en ik zie daarvan z'n duit, wat betekent dat dat ze dezelfde richting.
+
+[EQI] 15:14:51
+Dat is heel erg op elkaar lijken. Uh, A eigen kamer.
+
+[EQI] 15:14:59
+Samenhangen. Dat ze eigenlijk? Dat betekent eigenlijk dat scholen die dus kennelijk gemiddeld goed doen Voor Frans doen, het gemiddeld ook goed voor Duits.
+
+[EQI] 15:15:09
+Blijkt en andersom ook he die het gemiddeld slecht doen op Frans doen het waarschijnlijk gemiddeld ook slecht op Duits. Over het algemeen h we nogmaals een benadering. Het zal niet overal zo zijn.
+
+[EQI] 15:15:18
+Maar grofweg lijkt dat wel een beetje aan de hand te zijn als je als een school, als ze daar gemiddeld hoog scoren op wiskunde B of D.
+
+[EQI] 15:15:25
+Dan schoren ze kennelijk gemiddeld ook hoog op scheikunde. Natuurkunde.
+
+[EQI] 15:15:32
+Dus dit is samenhang, korrelatie, Eigenlijk. Die je pakt, nou dan.
+
+[EQI] 15:15:37
+Wat betekent dat dan. Loodrecht. Dus als we kijken naar Frans en wiskunde.
+
+[EQI] 15:15:46
+Negentig graden, hoek, zo'n beetje.
+
+[EQI] 15:15:52
+Geen samenhang dat. Geen samenhangb, dus het betekent niet een tegenovergesteld. H dat wil soms mensen ook nog wel eens denken nee, het betekent gewoon geen dat betekent.
+
+[EQI] 15:16:02
+Dat als een school, Uh, in in onze daadwerkelijk lijkt het erop dat als een school nou heel erg goed is, in Frans.
+
+[EQI] 15:16:08
+Uh, dan kun je eigenlijk helemaal niks zinnigs zeggen over of ze ook goed of slecht zijn in wiskunde.
+
+[EQI] 15:16:13
+Dat geeft eigenlijk helemaal geen relevante informatie lijkt, want het lijkt geen samenhang te zijn.
+
+[EQI] 15:16:19
+En andersom ook He, Als ze goed zijn in wiskunde, ja, dan kunnen ze goed zijn in Frans, maar hoeft niet. Ze kunnen ook slecht zijn in Frans, je weet het gewoon, eigenlijk niet het geeft. Dit helpt je totaal niet.
+
+[EQI] 15:16:29
+Om iets te zeggen over die andere. Zegt hij nogmaals zevenendertig procent. Dus we missen waarschijnlijk wel wat nuances en.
+
+[EQI] 15:16:37
+Maar zo, zitten en soms zijn in dit geval dus niet.
+
+[EQI] 15:16:39
+Soms vind je de spijlen die tegenovergesteld liggen. Dan breng ik dus eentje hoog.
+
+[EQI] 15:16:43
+Heeft bij die anderen een laag. Effect Ja.
+
+[EQI] 15:16:47
+Ouder was je vraag: ja, ja, dus dan moet je echt een pijl, de andere kant, Als je hier ergens een pijl had gelegen had, betekent hoog op een ons betekent laag op die.
+
+[EQI] 15:16:56
+Of betekent. Het gaat vaak samen met. Dus uh, ja. Dus dus eentje aan de ene kant en eentje aan de andere kant, betekent eigenlijk een sterke correlatie, maar een korrelatie van min één zo'n beetje.
+
+[EQI] 15:17:08
+In dezelfde kant is de korrelatie richting. En.
+
+[EQI] 15:17:13
+Nou, ik vind eerlijk gezegd dat het dan. He de claim? Ja. Tuurlijk.
+
+[EQI] 15:17:28
+Ja, ze hangen er een beetje tussen he. Ja. Nee. Ja. Maar.
+
+[EQI] 15:17:33
+Ik zou daar niet te niet te veel, niet te hard over willen zeggen.
+
+[EQI] 15:17:37
+Die lijken wel samen te hangen die cijfers. Maar nogmaals, ik denk eerlijk gezegd dat we hier misschien toch wel een beetje aanlopen tegen die zevenendertig procent dat we wel wat dingen missen.
+
+[EQI] 15:17:45
+We kunnen het in ieder geval niet zo heel duidelijk. Uh, daar Waarom zou dat Zo zijn?
+
+[EQI] 15:17:48
+Dat ze eigenlijk, denk ik ook een beetje wat je wil.
+
+[EQI] 15:17:53
+Ja, dit is het. Ja, dit is wel echt echt. Hoe heet het Beta: En dan eh, Als we maar Engels zou ik dan toch liever daar ook willen zien, toch.
+
+[EQI] 15:18:03
+Ja, dat is niet zo ja, het is echte data. En wat ik zeg.
+
+[EQI] 15:18:07
+We gaan. Straks, denk ik ook nog wel naar de drie D-oplossing kijken, misschien dat dat een klein beetje helpt.
+
+[EQI] 15:18:12
+Of het naar een soort gamma-richting in vinden, maar dan.
+
+[EQI] 15:18:15
+Het biologie wil je daar misschien wel in, maar Engels niet.
+
+[EQI] 15:18:18
+Dus ik heb er geen verklaring voor gehad. Wel, ik weet niet zo goed dat ik dat heb staan. Heb ik dat.
+
+[EQI] 15:18:27
+Een grijze punten. Trouwens, zijn dus blauwpunten.
+
+[EQI] 15:18:32
+Uhm. Ja, Ik weet niet of ik straks nog maar laat laat 'k. 't nu eventjes: We waren nu bij die pijlen.
+
+[EQI] 15:18:38
+Uhm? Heeft iemand enig idee waarom sommige pijlen langer zijn.
+
+[EQI] 15:18:41
+Dan anderen. Pardon grootere spijning.
+
+[EQI] 15:18:47
+Dat is. Het is echt super intutief. He jullie zonder enige formule gezien te hebben, wordt. Het plaatjes worden perfect geinterpreteerd.
+
+[EQI] 15:18:55
+Merk. Dat is toch fijn Aan de methode, zou ik zeggen.
+
+[EQI] 15:18:58
+Ja, dit eigenlijk wat je gaat zien. Waarschijnlijk als je de data bekijkt. En dat zou je kunnen doen met bokspots of er gewoon op drukken of zoiets.
+
+[EQI] 15:19:05
+Dat dat ik vermoed dat de spreiding in die wiskunde-cijfers, wat groter is. Er is meer variantie in de gemiddelde cijfers voor de scholen.
+
+[EQI] 15:19:12
+Dan Engels. Het. En biologie. Waarschijnlijk zit het allemaal dichter bij het Gewest. Allemaal scoren ze Daar weet ik veel. Wat is zes en een half over zeven gemiddeld op alle scholen.
+
+[EQI] 15:19:21
+Gewoonweg. Er gebeurt hier meer in de spreiding tussen de scholen.
+
+[EQI] 15:19:29
+Even kijken wat betekent dat schooljaar wat betekent? Dat scholen dicht bij elkaar liggen.
+
+[EQI] 15:19:38
+Als ik die inderdaad dan zou opzoeken. Je zult eigenlijk dezelfde gemiddelde cijfers. Dus ja, als je kijkt naar de en nogmaals, he.
+
+[EQI] 15:19:48
+Ik mis wat Dus ik kan er echt wel naast zitten. Maar als ik kijk naar alle verschillen.
+
+[EQI] 15:19:52
+Tussen al die afstanden tussen die scholen. Dan is de benadering in deze twee ruimtes is zo goed als Het kan kan niet beter.
+
+[EQI] 15:19:59
+Dus ik verwacht dat twee scholen die dicht bij elkaar liggen. Als ik dan de gemiddelde cijfers voor al die cijfers ga bekijken.
+
+[EQI] 15:20:05
+Dat die vrij dicht bij elkaar liggen. En op dezelfde manier.
+
+[EQI] 15:20:12
+Deze en die. Als je kijkt naar de gemiddelde voor die scholen, dan zal dat heel erg verschillen.
+
+[EQI] 15:20:17
+Je kunt ook wel een beetje zien, dan heeft-ie daaronder hoger op wiskunde. Waarschijnlijk en die daarboven hogeropvangs.
+
+[EQI] 15:20:25
+Maar dat is allemaal. Dus dat, uh, ja. Toch wel intutief. H Gelukkig! Dat dat werkt. Ja, die is heel mooi, maar maar d'rachter.
+
+[EQI] 15:20:34
+D'r zit niks magisch achter.
+
+[EQI] 15:20:42
+Nou, Precies. Maar Maar B bedoel je met met bew Wil je precies weten in de hand aan de hand van Uh, formules, wat we wat we zien. O, want de.
+
+[EQI] 15:20:51
+Ja, Ik denk dat er in het boek wel, maar ik weet eigenlijk niet zo heel goed wat ik me kan herinneren, staan er ook niet heel erg duidelijke afleidingen in. Ik heb straks wel iets met wat formules.
+
+[EQI] 15:21:03
+Maar je komt heel snel. Het wordt het zijn Uh 't is hoog dimensionaire ruimtes. Het zijn factors-uh-ruimtes.
+
+[EQI] 15:21:11
+En eigenlijk maar ja. Uhm. Ja. Dus Dus afstanden tussen factoren, Dat zijn gewoon verschillen.
+
+[EQI] 15:21:18
+Tussen die getallens. Al die verschillen individueel qualateren optellen.
+
+[EQI] 15:21:23
+En uh, dan zul je vinden. Dat als je dat in die twaalf dimensies doet, al die verschillen.
+
+[EQI] 15:21:28
+Opgeteld en dat vergelijkt met die twee verschillen in deze ruimte.
+
+[EQI] 15:21:33
+Uh dat ie hier veel kleiner is, uh, dat dat deze dichtbij die twaalf dimensionale ruimte komt. Dat is wel kleiner.
+
+[EQI] 15:21:40
+Maar het komt in de buurt van wat het werkelijk is.
+
+[EQI] 15:21:44
+Ja, nou als je wil ik Het kan natuurlijk veel.
+
+[EQI] 15:21:49
+Ik Ik zal straks nog even kijken in het boek ook Wat? O, ik denk niet dat ze daar veel in staat.
+
+[EQI] 15:21:55
+Maar wat ik zei, de methode is juist. Ja superelegant in een liniaal gebouw. Ze is heel mooi en.
+
+[EQI] 15:22:03
+Maar dat vereist wel dat je daar een beetje comfortabel mee bent, want anders blijft dat ook heel magisch.
+
+[EQI] 15:22:08
+Het verschil tussen de afstanden in de kleine ruimte.
+
+[EQI] 15:22:19
+Uh, Uh, benadert heel goed. De verschillen in de grootte ruimte.
+
+[EQI] 15:22:22
+Dus dat verschil tussen die twee. Hier. En die twee in de twaalf dimensies.
+
+[EQI] 15:22:28
+Zo klein moeten zijn. Kan je allemaal na gaan zitten regelen en doen. En wat ik zei, wat je kan doen.
+
+[EQI] 15:22:37
+Uhm en dat kan ook serieus met wat goede wil en een rekenmachine en pen en papier.
+
+[EQI] 15:22:44
+Je kunt hier met H kijken. Wat is de rechte hoek?
+
+[EQI] 15:22:47
+Dan, Uh, breek je dit, dan ga je kijken.
+
+[EQI] 15:22:50
+Want de lengte is, dan moet je ook nog weten wat dit is. Maar dat weet je, de coordinaten.
+
+[EQI] 15:22:55
+Dan kun je als je die formules gebruikt, dan kun je uitrekenen.
+
+[EQI] 15:22:59
+Wat de voorspelbare waarde is voor deze school op het vak Wiskunde Bd.
+
+[EQI] 15:23:06
+Ja, Ik raad het hier niet aan, maar het kan wel.
+
+[EQI] 15:23:10
+H: Want je? K: ja, nou ja, goed, Je kunt al die dingen ook in een keer eruit trekken.
+
+[EQI] 15:23:20
+Ja, dan is eigenlijk. Mijn idee is dan: Laten we eens kijken.
+
+[EQI] 15:23:25
+Of nu heb je een stukje code. En Uh, Volgens mij heb ik daar weer een een zo van die beginningen heb ik weer gegeven. Wel.
+
+[EQI] 15:23:34
+Maar ik denk niet dat ik, nu de Pca.
+
+[EQI] 15:23:38
+Ding Hebt gij voor.
+
+[EQI] 15:23:43
+Denk dat ik alleen maar heb gegeven die functies die je nodig hebt.
+
+[EQI] 15:23:47
+En uh, misschien de data inlezen Of misschien dat niet eens.
+
+[EQI] 15:23:55
+Nog even bekijken. Maar doe nu eens speciaal. En uh, ja, mijn type zou dan zijn.
+
+[EQI] 15:24:00
+Ja, gewoon die code van daarnet. Hier naartoe in een cel kopieren.
+
+[EQI] 15:24:06
+En kijken wat er gebeurt. He. Want o ja, dat is wel iets wat ik zoveel mogelijk heb geprobeerd te doen.
+
+[EQI] 15:24:13
+En ook probeer te doen. Uhm. Wacht. Ik zal even, gewoon. Uh.
+
+[EQI] 15:24:20
+De code je erbij pakken.
+
+[EQI] 15:24:24
+Kijk, als we hier kijken waar we die Pca doen. Dat doen we hier.
+
+[EQI] 15:24:28
+Met een skreetpot. Ik gebruik heel veel probeer ik een beetje een soort van generieke manier m'n data als Df te doen.
+
+[EQI] 15:24:36
+En. Ja, want dan kun je heel makkelijk koffie pacen. Als je dan je nieuwe data zet, ook weer Df: noemt.
+
+[EQI] 15:24:42
+Dan werkt het meteen. Dus probeer zoveel mogelijk, want het zal niet overal zo zijn.
+
+[EQI] 15:24:47
+Vroeger gaf ik het dan de naam van de data en zette zo ja, maar dan moet je heel veel veranderen.
+
+[EQI] 15:24:51
+Misschien. Dus ik ik wil eigenlijk niet, uh.
+
+[EQI] 15:24:56
+Deze hebben jullie ook. He. Dus je hebt weer die byplotfunctie.
+
+[EQI] 15:25:04
+O, ik heb ook een pca-functie Voor je gemaakt, maakt het iets makkelijker. Al.
+
+[EQI] 15:25:13
+Nou, we weet je wat laten zeg, zeg, heb tien minuutjes en je mag ook volgens mij, want ik had de pauze verkeerd gepland zie. Ik.
+
+[EQI] 15:25:21
+We liggen nu allerlei hapjes en dingetjes. Mag je ook nemen tussendoor.
+
+[EQI] 15:25:26
+Dan gaan we straks een beetje kijken of het jullie gelukt is en.
+
+[EQI] 15:25:30
+Het dit te doen. En dan ga ik ook kijken of het mij nog een keer lukt.
+
+[EQI] 15:25:33
+Om het te doen.
+
+[EQI] 15:28:06
+Ik zou me ergens.
+
+[EQI] 15:28:17
+Ja. Ja. Nee, dat weet ik niet. Zo Uh.
+
+[EQI] 15:28:23
+Niet gewoon geschreven, moet ik wel even zeggen. Is best een leuk boek. Uh, Hoe oud boven een man.
+
+[EQI] 15:28:35
+Ja, ja, bij mij Wel ja. Want hij heeft ook met uh.
+
+[EQI] 15:28:40
+Bij een Arghe Pop hebben.
+
+[EQI] 15:28:51
+Dat is nog iets.
+
+[EQI] 15:28:57
+Dus daar heeft ie denk ik wel wat meer. Hij doet sowieso veel accualisatie.
+
+[EQI] 15:29:01
+Ja, de sleutel van: Mag hij? Zo Ja, 'k heb hem een keer gezien. Dan.
+
+[EQI] 15:29:04
+Ook helder, snel gepensioneerd is en.
+
+[EQI] 15:29:17
+Ook H. Ja. Da 's zeker?
+
+[EQI] 15:29:39
+Ons leveren.
+
+[EQI] 15:30:06
+Als u iets geks vindt, dan ben je van wat is dat dan? Lukt het goed.
+
+[EQI] 15:30:14
+We wachten nog heel even, Maar als je wat gekte wil, de wat je kan gaan doen, dan is kan nadenken van waarom zie ik wat geks.
+
+[EQI] 15:30:23
+Wat zie ik dan wel precies van.
+
+[EQI] 15:34:04
+Nou, ik heb Uh. En toegevoegd.
+
+[EQI] 15:34:11
+Want ik had een functie gemaakt waar ik? Uh.
+
+[EQI] 15:34:13
+Herhalen wat we net deden. En die puch heeft. Pc, A, Funk.
+
+[EQI] 15:34:18
+En als ik die doe met de data. Dus maar niemand deed ervoor.
+
+[EQI] 15:34:24
+Nee, misschien even de voet naar boven scrollen, Wat ik allemaal.
+
+[EQI] 15:34:27
+Heb je de uitvoering hier, dit? Jullie hebben dit allemaal gekregen. Heb ik allemaal gerund.
+
+[EQI] 15:34:33
+En de data. Ben ik ook snel. Uh, Hup, kan er niet naar kijken.
+
+[EQI] 15:34:40
+Anders. Dan moet je dus wel doen. H. Kan erop terug zo. En dan heb ik dit. Uh, dit. Dit uh, een nieuwe cel gemaakt, waar ik Eh.
+
+[EQI] 15:34:48
+Uh, die functie die ik eerder heb gemaakt, en die functie voerde ze uit dat ik eerder ook deed. Dus we kijken die verklaarde varianties, en dan kijk ik dat spreetpotje.
+
+[EQI] 15:34:54
+Je kunt ook al verder gaan, maar Uhm. Eigenlijk.
+
+[EQI] 15:35:01
+Moet je hier even naar kijken. Nu ook naar de stallen.
+
+[EQI] 15:35:06
+En wat zien we hier? Nou eigenlijk? Wat betekent dit.
+
+[EQI] 15:35:12
+Ik kan ze niet tegelijk laten zien. Dus laten we het plaatje bekijken.
+
+[EQI] 15:35:19
+De elleboog zien we een hele duidelijke elleboog. Ja, dat is dus n keer sparende component.
+
+[EQI] 15:35:31
+En hoeveel variant heeft verklaren dan.
+
+[EQI] 15:35:36
+Ja, bijna alles.
+
+[EQI] 15:35:40
+Bijna alles even kijken, want 't is om precies te zijn: Nou.
+
+[EQI] 15:35:46
+Negenennegentig, uh, Ja, en dan nog acht zelfs. Dus uh.
+
+[EQI] 15:35:52
+Dus fantastisch, toch? Want hoeveel variabelen hebben we daar.
+
+[EQI] 15:35:56
+Twee-en-dertig. En als u één prins bepalen component pak.
+
+[EQI] 15:36:03
+Dan verklaar ik zo goed als honderd procent, want.
+
+[EQI] 15:36:10
+Dus. Wat is er aan de hand.
+
+[EQI] 15:36:19
+Is dat goed?
+
+[EQI] 15:36:27
+Eigenlijk? Als je dat zegt, dan is 't de markt.
+
+[EQI] 15:36:36
+Maar er is iets geks dan aan de hand hoor.
+
+[EQI] 15:36:38
+Met alles wat we gaan dingen nog lager als ik had voorspellen.
+
+[EQI] 15:36:41
+En je vindt dat je voor spelfout nul is, dat je alles goed voorspelt.
+
+[EQI] 15:36:45
+Dan moet je niet gaan juichen, dan moet je direct terug naar icon. En dan moet je gaan nadenken van: Ik heb waarschijnlijk een super triviaals, verkeer.
+
+[EQI] 15:36:52
+H: want dit is, lijkt 'm mooi om waar te zijn.
+
+[EQI] 15:36:55
+Over het algemeen is het dan waar. Dus, maar wat is er dan wel aan de hand.
+
+[EQI] 15:37:02
+Waarom Indien ik met één prins palencomponent. Paar honderd procent van de varianten.
+
+[EQI] 15:37:10
+Ik zei daarnet van Ik wil laat de data zien.
+
+[EQI] 15:37:13
+En je moet wel naar de achterkijken.
+
+[EQI] 15:37:19
+Wat is er aan de hand? In sommige gevallen zijn heel groot om zo'n plein. Dus misschien schaal exact.
+
+[EQI] 15:37:25
+Zo simpel. Is Het uh. Zo'n naief. Is het.
+
+[EQI] 15:37:28
+Dit gaat over variantie, variantie is signaal, Minder milde garanderen Op hem.
+
+[EQI] 15:37:35
+Nou, we hebben populaties, en sommige daarvan uh, loopt ie. Nog honderdduizenden andere zijn we kleiner.
+
+[EQI] 15:37:41
+Maar we hebben ook uh werkloosheidspercentages. Die komen niet boven de tien procent af.
+
+[EQI] 15:37:48
+Die van veel en veel kleiner dan die populatie.
+
+[EQI] 15:37:51
+Dus als ik ga kijken naar een som van geparadeerde afstand.
+
+[EQI] 15:37:55
+Tussen de noorden. En ik heb een andere met getallen die van van van van van de honderd tot tienduizend of twintigduizend liggen. Dan gaat hij natuurlijk alleen die foto ophangen.
+
+[EQI] 15:38:06
+Dat zijn grote verschillen. Dus hij gaat n component vinden.
+
+[EQI] 15:38:11
+Volgens mij waren twee van die Uh, varianten die heel erg groot waren.
+
+[EQI] 15:38:15
+Die pakt ie waarschijnlijk ook nog een klein beetje mee.
+
+[EQI] 15:38:20
+Uh My That's It. Dus uhm.
+
+[EQI] 15:38:26
+Omdat je nu Uh, de variantie die wilden zoveel mogelijk varianties.
+
+[EQI] 15:38:32
+Kijk, en als die dus die vijanden van dat hele ding.
+
+[EQI] 15:38:35
+Ik zit eigenlijk als ik dan even op getal uit.
+
+[EQI] 15:38:37
+Maar het aandeel van een werkloosheidspercentage of percentage.
+
+[EQI] 15:38:46
+Uh, Ja, dat is de de getalletjes. Alles bij mekaar opgeteldeerd Uh, is: I is helemaal niks.
+
+[EQI] 15:38:52
+In verhouding met N Uh, anderen. Dus je kunt bijna niet zomaar doen.
+
+[EQI] 15:39:05
+Als ze allemaal op dezelfde schapen zit.
+
+[EQI] 15:39:18
+Dan is de volgende vraag: niet alles stond nog op op.
+
+[EQI] 15:39:26
+Mijn naam voor ons. Dus dus. Maar dit komt er natuurlijk niet.
+
+[EQI] 15:39:30
+Straks eventjes doen. Hij moet e-mail, mailen.
+
+[EQI] 15:39:36
+Uh Ja, goed. Nou ja, wat wat doen we d'raan?
+
+[EQI] 15:39:46
+Bijvoorbeeld. Analyseren. Meestal, Uh, als ik dat woord gebruik, niet van.
+
+[EQI] 15:39:56
+H. Dus Uhm. Ik. Wij zouden doen is: Uh.
+
+[EQI] 15:40:00
+Eviatie gebruiken.
+
+[EQI] 15:40:07
+En de meeteenheden. Als u deeltoestandaardde even aanzet. Die nieuwe meeteenheden zijn standaardwerkbla.
+
+[EQI] 15:40:13
+H. Dus dan uh, dan zit alles in feite om dezelfde schaal, namelijk de standaarddefinaties gaan.
+
+[EQI] 15:40:20
+En dus de grondweg zitten dan ook als je daar enigszins uh symmetrisch uh.
+
+[EQI] 15:40:25
+Normaal lijken. Paar lettertjes, de min twee en.
+
+[EQI] 15:40:34
+Die maakte zijn scores. Spanjaard. Dat is Uh, de operatie De die die we.
+
+[EQI] 15:40:41
+En wat je doet eigenlijk doet H wat je doet, zoveel mogelijk varianten te verklaren.
+
+[EQI] 15:40:49
+Uhm, Dat is leuk en aardig. Maar als je dus verschillende medegereden hebt, dan is variantie in z'n eigen hele rare maat, want die hangt dus af van die eenheden.
+
+[EQI] 15:40:56
+Je analyses, doe je dan niet op variatie, maar niet op operatie.
+
+[EQI] 15:41:03
+Operatie is Alliantie. Wilde bestanden. En dat? Is een uh.
+
+[EQI] 15:41:08
+Is dat ook een eigenlijk heel goed handig. Een mate. Dus hoe doen we dat.
+
+[EQI] 15:41:22
+Boudewijn. Ach, verdorie, maar dan Sorry, sorry.
+
+[EQI] 15:41:30
+Dat de microfoon stond uit.
+
+[EQI] 15:41:36
+Ja. Dus dit, dit moet je doen. Zet scores maken.
+
+[EQI] 15:41:39
+Van de oorspronkelijke data. En en vervolgens, als je dat doet, ik uh, Uhm.
+
+[EQI] 15:41:46
+Ja, ik maak hem D, maak er een soort van dupliceerende data. Daardoor Een beetje vind ik in zekere zin niet ideaal. Maar goed, het werkt wel.
+
+[EQI] 15:41:54
+Dan heb ik eentje de oorspronkelijke nog. En dan heb ik de nieuwe.
+
+[EQI] 15:41:59
+Dat is beter dan te overschrijven, vind ik trouwens, want misschien heb ik op een gegeven moment weer de oorspronkelijke nodig he.
+
+[EQI] 15:42:05
+Voor interpretatie, bijvoorbeeld. Nou, D: als je dit dus nu Uh, d'rtussen zet, wat gebeurt er dan? Krijgen we dan iets wat uh wat meer, Uh.
+
+[EQI] 15:42:15
+Ergens op lijkt. O, ik heb daar net niet het bypot laten zien.
+
+[EQI] 15:42:19
+Maar daar kwam in feite ook een Ja, Daar kon je dus ook niet zoveel mee, want dan.
+
+[EQI] 15:42:23
+Dat zag je dus vooral. Die twee grote zag. Je.
+
+[EQI] 15:42:52
+Daar staat het al. Als je Als je die doet, dan heb je 't al.
+
+[EQI] 15:42:57
+Die gemaakt Die ga ik nu Ook gebruiken? Ja.
+
+[EQI] 15:43:01
+Ja, ik ben zelf eigenlijk mijn. Complete Code kwijt.
+
+[EQI] 15:43:26
+Ja, in nummer drie kun je alvast misschien als je niet alles zelf wil wil intypen en overdiepen en copy pasteen.
+
+[EQI] 15:43:33
+Als je drie punt Peca Usa neemt. Dan uh, dan heb ik dat al voor je gedaan, Dan zie je ook.
+
+[EQI] 15:43:41
+Het bypotje hier. Als je het niet. Uh, eerst standaardiseert.
+
+[EQI] 15:43:45
+En dan zie je dat al die Uhm. Die blauwe puntjes, dat zijn dan de counties in de Verenigde Staten.
+
+[EQI] 15:43:50
+Ja, die liggen allemaal langs de Xas He, die andere is nog een beetje opgeblazen omdat het.
+
+[EQI] 15:43:56
+Uhm. Ja, die ladingen die moeten aan een bepaalde voorwaarde voldoen. Gemiddelde lengte één.
+
+[EQI] 15:44:01
+Dus dat zie je nog wel een kleine. Zit nog wel iets aan informatie in.
+
+[EQI] 15:44:12
+Heb ik hem ook al. Ja, En hier ga ik 'm.
+
+[EQI] 15:44:17
+Standaardiseren. Daar gaan we iets heel anders krijgen.
+
+[EQI] 15:44:22
+Dan zie je ook dat twee dimensies hebben om een veertig procent van de variantie.
+
+[EQI] 15:44:26
+Dat vind ik een stuk realistisch, vind ik daar best wel best. Wel, Oke, tweeëndertig variabelen.
+
+[EQI] 15:44:31
+Breng je terug naar twee, en dan pak je toch veertig procent. Dat is de.
+
+[EQI] 15:44:36
+Best fors is twee dimensies. Is dat een goede oplossing?
+
+[EQI] 15:44:41
+Nou best. Wel He, als je, als je een elleboog zoekt, dan vind je die op de. Derde. Dus twee lijkt hier eigenlijk best een goede keuze.
+
+[EQI] 15:44:49
+Kijk, het feit dat je natuurlijk niet de. Uh. Dus dat je veertig procent of zo pakt.
+
+[EQI] 15:44:57
+Afhankelijk van je toepassing. Natuurlijk. Maar het is natuurlijk niet zo heel gek. He, Dit is natuurlijk veel meer aan de hand dan die twee dingen die ik vind. Die twee dimensies.
+
+[EQI] 15:45:05
+Uh, maar kennelijk als ik er die twee pak, dan. Heb Ik al een heel, g heel deel van de verschillen tussen die.
+
+[EQI] 15:45:10
+Accounties zijn het het te pakken. Nou en en W, Hoe uit zich dat? En ik, volgens mij ga ik niet te veel Uh, hierover interpreteren. Ku mag je wel zelf over gaan nadenken.
+
+[EQI] 15:45:22
+We hebben straks nog wat andere voorbeelden.
+
+[EQI] 15:45:28
+Nou ja, he wederom, kijk dan weer een beetje naar naar de richtingen.
+
+[EQI] 15:45:34
+Uhm. Ik zie High School.
+
+[EQI] 15:45:39
+Minimaal een high schooldiploma. Is Dat volgens mij het percentage.
+
+[EQI] 15:45:42
+En inkomen. Die zit een beetje dezelfde richting. Dus ze staten waar veel.
+
+[EQI] 15:45:47
+De school afmaken. Er zijn ook staten waar mensen over het algemeen uh, meer verdienen. Veel verdienen.
+
+[EQI] 15:45:54
+En bachelor gaat er ook mee samen. Uhm: Nou, je kunt kunt dat Uh Pofferty.
+
+[EQI] 15:46:01
+Ja, die gaat samen met heel veel andere dingen waarvan je misschien niet allemaal zou willen.
+
+[EQI] 15:46:06
+Maar wat natuurlijk wel zo is. En ook heel duidelijk: h profity.
+
+[EQI] 15:46:10
+Hier hebben we dus de tegengestelde richting. Dus meer Uh, met een uh, met een met een om met een uh.
+
+[EQI] 15:46:17
+Met een opleiding met een goede opleiding. High school. Rijk, vrij minimaal nog he.
+
+[EQI] 15:46:21
+En als dat aantal toeneemt, dan neemt het aantal percentage onder de armoedegrens, neemt eigenlijk af.
+
+[EQI] 15:46:30
+En die hebben een tegengestelde richting.
+
+[EQI] 15:46:41
+Uh, welke. De eerste twee.
+
+[EQI] 15:46:44
+En wat er dimensies zijn. Dat is trouwens dat ze helemaal geen domme vragen. Maar kijk uh, welke dimensies kiezen. Kie Je kiest.
+
+[EQI] 15:46:50
+Uh, je laat altijd de de eerste B Uh, beschrijft de meeste variantie, de tweede hoeveel daarvan overblijft. Dus de eerste is de belangrijkste in het beschrijven.
+
+[EQI] 15:46:58
+De tweede daarna het belangrijkste en de derde daarna het belangrijkste.
+
+[EQI] 15:47:01
+Maar wat de dimensies nou zijn. Uh, dat is. Daar komen we dus weer met met Uh, Ja, dat dit toch best een lastige methode is en vrij abstract, en dat dat zal het blijven.
+
+[EQI] 15:47:11
+Ja, wat het is. Dat weten we eigenlijk niet. Het is de dimensie met de meeste variantie. Maar wat mensen dan vaak doen.
+
+[EQI] 15:47:17
+En laat ik die tweede nemen. Dat is kennelijk een dimensie die een een Uhm.
+
+[EQI] 15:47:24
+Die diverende armoede en tegenover hoge opleiding. Of inkomen eigenlijk. He, Dus een inkomen is boven rijk, onderarm.
+
+[EQI] 15:47:33
+Grof gezegd, en wat zien we eerste. Dat vind ik iets minder makkelijk te duidelijk al maar te duiden. Maar je kijkt dan dus eigenlijk naar die gewichtjes en dan hoop je dat daarin iets is wat je wat je dus, uh, waardoor je het een soort label kan geven.
+
+[EQI] 15:47:49
+Maar dat is een hele nuttige vraag, want dat is eigenlijk een beetje wat de.
+
+[EQI] 15:47:53
+Ja, dat dat is een beetje afhankelijk van wat er uitkomt. Uh, Eerder zagen we die vwo of die die scholen daar Ja Vwo-data.
+
+[EQI] 15:48:01
+Wat was dan de eerste dimensie in de tweede dimensie.
+
+[EQI] 15:48:03
+Is niet zo makkelijk te duiden. Want het ging, uh. Rechtsonder was wiskunde.
+
+[EQI] 15:48:09
+Niks boven staal. Dus ja, wat is de eerste dimensie? Wat z'n tween in die missie.
+
+[EQI] 15:48:15
+Maar maar dus dat kan niet. Maar dat wil je eigenlijk wel.
+
+[EQI] 15:48:20
+Het zou heel mooi zijn als we, zoals hier, die tweede dimensie, als je daar eigenlijk vrij snel iets aan kan zien aan, en dat kan je dan zien aan de hand van die ladingen.
+
+[EQI] 15:48:28
+Dus welke variabelen zijn nou belangrijk. Voor zo'n dimensie uhm als als die uh, dusdanig.
+
+[EQI] 15:48:36
+Aan een dimensie vastzitten, dan kun je er misschien gebruiken om te interpreteren.
+
+[EQI] 15:48:40
+In dit geval, nogmaals, die tweede lijkt hier best leuk te duiden.
+
+[EQI] 15:48:44
+Maar die eerste misschien wat minder en eigenlijk algemeen gaan we dat de.
+
+[EQI] 15:48:50
+En Uhm is het goed om daarover na te denken? Kunnen we daar wat.
+
+[EQI] 15:48:53
+Aan doen. Nou jawel.
+
+[EQI] 15:48:58
+Kan wel. O ja. Voordat ik dat ga doen. Nog een kleine.
+
+[EQI] 15:49:05
+Nog een kleine tussenwaarschuwing. Uhm. Wel. Uh. Dus de de E eerste waarschuwing voor waar je goed over na moet denken.
+
+[EQI] 15:49:13
+En niet zomaar pca doen op je datassetje, want je moet dus eerst rekening houden met verschillende meeteenheden.
+
+[EQI] 15:49:20
+Dus je moet standaardiseren. In de meeste gevallen. En eigenlijk wat je zou kunnen doen. Je k zou kunnen zeggen van Nou, bij twijfel, standaardiseren.
+
+[EQI] 15:49:30
+Want, uh, standaard is, hier is nooit echt fout.
+
+[EQI] 15:49:32
+Je verliest iets van informatie in de verschillende varianties.
+
+[EQI] 15:49:37
+Maar Uhm. Je je kijkt goed naar de samenhang.
+
+[EQI] 15:49:39
+Niets standaardiseren. Ja, dat kan echt fout zijn. Dus eigenlijk, het is een beetje.
+
+[EQI] 15:49:45
+Uh: Ja, de diefuncties in Uhm. In Python, maar ook in art. Trouwens, die doen dat niet. Die doen niet standaard zeer, en dat is.
+
+[EQI] 15:49:53
+Ik denk dat dat wel een beetje te verklaren is van waar die methode vandaan komt. Ook dat wordt ook beschreven aan de hand van variant die de oorspronkelijke papers.
+
+[EQI] 15:50:00
+Uh, maar een. Als je bekijkt naar een softwarepakket Als Spss.
+
+[EQI] 15:50:04
+Uh, die gaat sander altijd standaardiseren. Die Die kun je niet zomaar op de variantie doen.
+
+[EQI] 15:50:10
+Dus ik denk dus als je meer naar voren en meer software die echt statistische analyses voor je uitvoert, kant-en-klaar.
+
+[EQI] 15:50:18
+Ik vermoed dat de meeste daarvan juist dat probleem hier voor je omzeilen. Al.
+
+[EQI] 15:50:22
+Maar als je het zelf doet, dan moet je dus het is ook wel goed en moet je erover nadenken.
+
+[EQI] 15:50:26
+Uhm. Die wou je ook over moet nadenken, is over wat voor diepen data.
+
+[EQI] 15:50:30
+En dan staat hier interval. Dat betekent dat de verschillen in getallen die ik Daar zie. Die moet ik telkens op dezelfde manier kunnen interpreteren.
+
+[EQI] 15:50:38
+Dus het verschil tussen tien en acht is twee.
+
+[EQI] 15:50:41
+En dat is hetzelfde als het verschil tussen twee en nul of tussen dertig en tweeëndertig.
+
+[EQI] 15:50:45
+Dat klinkt uh, een beetje triviaal, zou je zeggen. Maar iets wat heel vaak bij Pesa heel vaak op ziet maar waar je wat wel het kan, wel maar je maakt een aanname.
+
+[EQI] 15:50:55
+Is. Uh: dingen als Uhm ratings. Je laat mensen aan iets van Uh, helemaal niet mee eens Tot helemaal wel mee eens of stormly disagree. Dat is het Engels voor hetzelfde. Dus Ok, dus dat soort schalen.
+
+[EQI] 15:51:09
+En er zitten dan getallen aan H Van één tot zeven. Loopt dat dan.
+
+[EQI] 15:51:12
+In je data zijn dat dan getalletjes. En daar kan je Bca op doen. Er gebeurt ook heel veel.
+
+[EQI] 15:51:18
+Uh. Dat betekent dus wel, als je dat doet, dat het verschil tussen tussen zeven en vijf.
+
+[EQI] 15:51:23
+In die rating dat dat hetzelfde is als tussen vijf en drie.
+
+[EQI] 15:51:27
+Of tussen zes en vier. En eigenlijk is dat N lang niet altijd helemaal. Ik ben niet of je zelf wel eens van die vragenlijsten invult, maar we hebben vaak mensen hebben vaak wel een soort van.
+
+[EQI] 15:51:36
+Dat loopt niet helemaal lineair hoe we dat doen. We gaan heel weinig Nederlanders gaan heel weinig naar de uitersten.
+
+[EQI] 15:51:42
+Uh. Dus die dus eigenlijk van zes naar zeven is vaak een groter verschil dan dan die ertussenin.
+
+[EQI] 15:51:49
+Ja, hoe doe je dat dan? Dat is ingewikkeld, dus daarom doen we dat vaak niet. We nemen aan dat we dat wel kunnen doen.
+
+[EQI] 15:51:55
+Maar het is dus een aanname. Die je moet maken.
+
+[EQI] 15:52:03
+Uh: Nou ja, de uh logaritmische schaal. Ja, hoe we dat? Als we dus je data hebt getransformeerd naar loggaritmes.
+
+[EQI] 15:52:09
+Dan gebruiken we gewoon vervolgens al die verschillen hetzelfde.
+
+[EQI] 15:52:13
+Je rekent er gewoon mee, je. Dus dus dan dan maar: ja, goed, dan is je nieuwe variabel, gewoon logitme, toch?
+
+[EQI] 15:52:19
+Dus ze noemen. Dat Dat lijkt me niet. Dat kan misschien ook wel. Voor interpretatie. Moet je een beetje nadenken wat dat gaat betekenen.
+
+[EQI] 15:52:26
+Maar dan heb je in feite gewoon de variabelen aangepast. Dus en dan is jouw logaritme jouw data na logitmentransformatie.
+
+[EQI] 15:52:33
+Al die verschillen als Uh. Ja netjes in de val.
+
+[EQI] 15:52:38
+Valt natuurlijk ook allemaal wel doen, toch? En er kan, sterker nog.
+
+[EQI] 15:52:41
+Als je variabelen hebt die inderdaad uh heel scheef verdeeld is.
+
+[EQI] 15:52:46
+Dan is dat misschien niet een goed idee, want daar geldt eigenlijk, dan is het logisch. We nemen vaak beter.
+
+[EQI] 15:52:50
+Want dat inkomen, dat soort dingen. Ja, als mensen gaan onderhandelen. Ik heb voetballers later. Als je dan over uh inkomens of Trumps. Voor sommigen gaat.
+
+[EQI] 15:52:59
+Dat gaat niet lineair. Hoe die dingen schuiven. Nee, een goede voetballer wil twee keer zoveel verdienen.
+
+[EQI] 15:53:05
+Als ze een minder goed teamgenoot. Dus die schaal die vloot, explosie en na lo. Dus dan zou je dat al niet meer ziender van kunnen doen.
+
+[EQI] 15:53:12
+Maar naloog ritme wel ja.
+
+[EQI] 15:53:18
+Ehm: Maar dit is eigenlijk een beetje een. Een waarschuwing, O ja, ook.
+
+[EQI] 15:53:23
+Categorisch is, natuurlijk helemaal. Lastig.
+
+[EQI] 15:53:27
+Want wat is het verschil tussen rood en blauw.
+
+[EQI] 15:53:32
+Een man en vrouw. En al dat soort dingen over.
+
+[EQI] 15:53:36
+Eigenlijk ook opleidingsniveau is min of meer categorisch gebruiken we vaak dan wel als een.
+
+[EQI] 15:53:41
+Als er numeriek iets, maar. De aanname is dat we dus voor Pezia moet het allemaal netjes numeriek zijn.
+
+[EQI] 15:53:48
+Uh, als we echt categorisch gaan hebben, en dat gaan we doen later. Ik heb bijvoorbeeld ook een.
+
+[EQI] 15:53:53
+Uh, waar mensen wonen bijvoorbeeld. Of ze op het uit de stad komen.
+
+[EQI] 15:53:58
+Of juist uit een. Een gehucht en dat soort dingen.
+
+[EQI] 15:54:02
+Nou, dat is categorisch dat, dan dan moet je gaan nadenken over hoe je dat gaat doen en na gebruik we een andere methode.
+
+[EQI] 15:54:11
+Later meer Zegt-ie. Goed, we gaan even terug naar de Vwo.
+
+[EQI] 15:54:17
+Dus je. Moet even je terug naar je code, ook voor Vwo.
+
+[EQI] 15:54:22
+En die werkt al goed. He. Maar ik heb daar twee en daar heb ik een plaatje van gemaakt. Dat is leuk.
+
+[EQI] 15:54:30
+Maar ik, zag eigenlijk ook dat dat de gew vlaar niet superveel variantie wat nou als ik een derde dimensie toevoeg.
+
+[EQI] 15:54:36
+En ik wil het toch interpreteren. Daar kan ik niet meer een plaatje maken. Ja.
+
+[EQI] 15:54:40
+Kan wel lastig lastig. Uhm. Hoe gaan we dan die dimensies interpreteren? Laten we die eerst eens even.
+
+[EQI] 15:54:50
+Kijken wat ik nog zie.
+
+[EQI] 15:55:03
+Even kijken. Ik heb dit gedaan. Squeerplot.
+
+[EQI] 15:55:13
+Want in die buipot al gedaan. Nee.
+
+[EQI] 15:55:26
+Nou ook dat bypotje. Maar dat is dus twee. Maar he hebben we net gezien.
+
+[EQI] 15:55:30
+Hebben jullie net wel allemaal gedaan? Maar Nou, staat hier wit rotation hoef je nog niet zo naar te kijken. We gaan eerst eventjes de.
+
+[EQI] 15:55:37
+Dingen bekijken. Dit ding.
+
+[EQI] 15:55:43
+En ik heb een kleurtje geven. Ja? Deze regel.
+
+[EQI] 15:55:48
+De ladingen. Dat zijn die gewichten die ik geef aan de.
+
+[EQI] 15:55:54
+Ehm aan de variabelen. Dat doe ik. Daaronder.
+
+[EQI] 15:56:02
+En dan kan ik dat. Afdrukken. En dan heb ik ook. Hier zie ik nu.
+
+[EQI] 15:56:09
+Nu moet ik Pca doen met drie componenten.
+
+[EQI] 15:56:22
+Even kijken. Hoor Ik ga 'm hier.
+
+[EQI] 15:56:34
+Ja.
+
+[EQI] 15:56:42
+Nog even de code erbij halen die vrij essentieel is. Hier.
+
+[EQI] 15:56:55
+Dit is heel essentieel. Die k is drie. En wat ik tot nu toe deed, was met met Uh, zonder een een a een dimensionaliteit te kiezen. Dus zonder hoeveel dimensie ik wil. Ik deed gewoon alles.
+
+[EQI] 15:57:08
+Uhm: Je kunt Uh, meegeven. Het aantal componenten en components.
+
+[EQI] 15:57:14
+Ik heb het een beetje generiek gemaakt door Ierse regeltje kaden. Kan je die verandering? Kun je Kun je wat anders kiezen Als je nog een keer runt.
+
+[EQI] 15:57:21
+Uhm. Al die andere dingen zijn volgens mij de dievels. Dus die hoeven d'r volgens mij niet eens bij. Ik weet niet helemaal zeker.
+
+[EQI] 15:57:27
+En uh, wat er dan belangrijk aan is, dan ga ik dus uh, hier doe ik die uh.
+
+[EQI] 15:57:33
+Daar doe ik de pc en dat. Hier. Ja, dat is dan een beetje onhandig, maar dat moet ik op die manier uithalen. Dat zijn die ladingen.
+
+[EQI] 15:57:40
+Ik zet ze even in een date frame, zodat ik ze een beetje mooi.
+
+[EQI] 15:57:43
+Je kan doen? Nou? Wat nu? Als ik. Ik kan dus niet een plaatje maken. Dus ik heb deze getallen.
+
+[EQI] 15:57:51
+Kan ik dat interpreteren?
+
+[EQI] 15:57:57
+Het zijn vooral heel veel getallen. Twaalf, keer drie En wat me ook een beetje opvalt, is.
+
+[EQI] 15:58:05
+Uhm. Ja naar Nederland, en daar kon je al een plaatje zien. Die heeft hier een twaalf, zestien.
+
+[EQI] 15:58:14
+Dat is een nul. Nul is een heel fijn getal qua interpretatie.
+
+[EQI] 15:58:18
+Ja betekent: gewoon dat hij niet meedoet in die derde dimensie.
+
+[EQI] 15:58:23
+En uh, we zien hier een aantal nullen Wel, Maar je ziet ook bijvoorbeeld deze. Die heeft overal een getalletje. Dat betekent. Dat die is dus kennelijk. Die variabel is belangrijk voor al die verschillende.
+
+[EQI] 15:58:33
+Principale componenten. Als ik nou makkelijk zou willen.
+
+[EQI] 15:58:37
+Uh, Wat nou fijn zou zijn. Is. Als ik veel nullen heb.
+
+[EQI] 15:58:42
+Het liefst het allermooiste is dat ik voor een variabele heb dat die alleen een groot getal heeft in een van die drie.
+
+[EQI] 15:58:49
+En voor de rest allemaal nullen. Dat zou prachtig zijn, want dan betekent het als ik bijvoorbeeld.
+
+[EQI] 15:58:54
+Uh. Voor die talen hier een grote score hebt en allemaal nullen, dan kan ik zeggen: die Eerste dimensie is kennelijk Uhm. Bepaald door die talen.
+
+[EQI] 15:59:03
+En die andere dimensjes niet. Dus wat je eigenlijk? Wat wat zou wat fijn zou zijn, is een paar grote getallen.
+
+[EQI] 15:59:11
+Uh aan een van de componenten en voor de rest nullen.
+
+[EQI] 15:59:18
+Ja, wat mooi zou zijn. Maar dat is dus niet zo.
+
+[EQI] 15:59:21
+Maar als je dan weer gaat nadenken over wat ik Iris zei: H Uh, Ok. Principile Componenten. Uh is een foto.
+
+[EQI] 15:59:26
+Die ik maak, Ik kies zodanig mijn hoek dat ik zo min mogelijk informatie verlies.
+
+[EQI] 15:59:31
+Heb ik mijn foto gemaakt? Dat is hier een driedimensionale foto heb ik gemaakt.
+
+[EQI] 15:59:37
+Dan staat het je natuurlijk weer vrij die foto gewoon om te draaien.
+
+[EQI] 15:59:40
+Je hoofd te draaien. He, dat blijft allemaal hetzelfde.
+
+[EQI] 15:59:43
+Dus wat je dan nog een keer kan doen nadat je al die.
+
+[EQI] 15:59:46
+Foto heb, gemaakt kun je die foto nog een keertje zodanig draaien dat die een beetje makkelijk wordt.
+
+[EQI] 15:59:52
+Om te interpreteren.
+
+[EQI] 16:00:02
+Ja, dat betekent in feite, dus dat uh, dat gewicht voor die ene gaat n richting op. Dus eigenlijk het uh plus een minder moet je alleen zien als tegengesteld aan mekaar.
+
+[EQI] 16:00:12
+Dus als als we he hebben we d'r eentje met een plus en een min in een en een ding.
+
+[EQI] 16:00:17
+Deze min en die plus hier. Uh, D D: Dus in die tweede dimensie.
+
+[EQI] 16:00:24
+Ja, gaan. Die gaan niet tegengesteld gewicht geven. Die dus dus die spelen eigenlijk te het tegengestelde rol.
+
+[EQI] 16:00:31
+In dat ding. Maar het had ook je man mag hier alle plusjes mag hamien geven. Als je aluminetjes een plus geeft.
+
+[EQI] 16:00:36
+Is de oplossing niet veranderd. Dus het het contra conso contrasteert. Dat is het enige wat het doet.
+
+[EQI] 16:00:49
+Negatief, zegt eigenlijk niks dus. Nee, want ik had het ook andersom kunnen doen.
+
+[EQI] 16:00:55
+Even kijken. Ik had dit eigenlijk wat ik net allemaal zitten vertellen, Had ik misschien ook wel op slide staan.
+
+[EQI] 16:01:04
+Ja. Ja, dus ladingen, geen doel. Dat doet er niet mee en een groot positief neeggetal, dan speelt hij wel een rol.
+
+[EQI] 16:01:13
+En alles ertussenin is een beetje lastig, als je tenminste in als je veel op alles hebt, dan wordt het heel moeilijk qua interpreteren.
+
+[EQI] 16:01:19
+Maar we kunnen. Terug naar die foto. We hebben nu een foto en drie dimensies.
+
+[EQI] 16:01:26
+En die foto, Ja, in tweeen is deze. Die mag je weer.
+
+[EQI] 16:01:29
+Draaien, het. Maar nu gaan we niet een draaiing zoeken.
+
+[EQI] 16:01:35
+Die Uhm, zo veel mogelijk variantie beschrijven, Want dat hebben we al. Hebben we al gedaan. Die foto heb je nu gemaakt?
+
+[EQI] 16:01:40
+Je gaat. 'm nu zodanig. Je gaat eigenlijk nu gewoon w Wat je mooi vindt, kiezen.
+
+[EQI] 16:01:44
+Alleen wat we mooi vinden. In dit geval we iets meer dan mooi vinden.
+
+[EQI] 16:01:50
+Wat ik mooi zou vinden. Zijn Veel nullen en hoge getallen.
+
+[EQI] 16:01:53
+Dus wat je kan doen dan? Je kunt een functie verzinnen die die cordinaten zo gaat draaien.
+
+[EQI] 16:01:58
+Dat hij gaat proberen een lading ofwel groot te maken.
+
+[EQI] 16:02:03
+Ofwel richting nul te krijgen. Nou, dat dat kan. Daar is een Uh, De makkelijkste functie Die heet Farimax.
+
+[EQI] 16:02:12
+Die, zoekt dan je je oplossing, en die gaat hij dan nog een keertje draaien.
+
+[EQI] 16:02:17
+Hopelijk dan als dat lukt. He want goed voor zover het mogelijk is, gaat hij dan.
+
+[EQI] 16:02:22
+En we. Ja, grote getallen en nullen.
+
+[EQI] 16:02:26
+Vinden. Nou ja, de wiskunde laat ik even zitten.
+
+[EQI] 16:02:34
+Maar dat kan dus in dezen. Die had je misschien dus al geopend, Ik net wel.
+
+[EQI] 16:02:39
+Daar staat een functie in. Hoe heet, hij ook alweer Roadator, of zoiets.
+
+[EQI] 16:02:47
+Dit hele stuk doen we. Deze.
+
+[EQI] 16:02:52
+Moeten we ook ergens erbovenaan. Maar je geeft je, Dat zit in dat in die code die in het noodbroek wat ik heb gegeven, zit dat al netjes.
+
+[EQI] 16:03:00
+En wat wat Uh, als we die hebben. Dan kunnen we dat gaan uitvoeren. Laten we dat maar eens doen.
+
+[EQI] 16:03:11
+Net allemaal gedaan. Dit is een regeltje wat je nog moet toevoegen.
+
+[EQI] 16:03:18
+En en en wat deze. Wat Uh wat dit roadator doet.
+
+[EQI] 16:03:24
+Is. Die gaat dus een. In dit geval die driedimensale oplossing.
+
+[EQI] 16:03:28
+Gaat ie. Weer een keer Uh, gaat ie. Die roteren zodanig dat je dat je zoveel mogelijk.
+
+[EQI] 16:03:33
+Uh dat het ofwel richting de nul gaat, of wel juist ver van de nul.
+
+[EQI] 16:03:38
+Verwijderd. En lukt dat hier.
+
+[EQI] 16:03:50
+Dit hebben we net gedaan. He. Nou, komt Roodhator.
+
+[EQI] 16:03:59
+Het verschil tussen Ar en Python is een klein beetje in dit soort functies. Dat.
+
+[EQI] 16:04:03
+Met Ar worden de keuzes voor je gemaakt. Al als je zo'n statistische methode gebruikt.
+
+[EQI] 16:04:08
+Dan gaat hij al dingen geven waar je die nodig hebt. En hier moet ik dat allemaal opschrijven. Dus ik zie daar staan.
+
+[EQI] 16:04:13
+Are is rothator rotation. Die heb ik straks denk ik nodig. Dus er staat een regel. Die heb je volgens mij nog niet nodig voor dit Deze cel.
+
+[EQI] 16:04:25
+Uhm. Nou dit is na rotatie. He.
+
+[EQI] 16:04:31
+Moeten we even kijken, want er staan nog steeds heel veel getallen.
+
+[EQI] 16:04:36
+Maar je ziet wel he Nederland daarnet in twee dimensies. Was dat de veertien of vijftien ongeveer vijftien.
+
+[EQI] 16:04:43
+Nu. In de eerste is Ie in de buurt van nul en in de derde ook.
+
+[EQI] 16:04:48
+Air. Voor Frans geldt dat ook een beetje. En voor Duits, ook.
+
+[EQI] 16:04:53
+Je ziet meer kleine getallen. En uh, je wa wat helemaal fijn is. Je ziet dus dat Nederlands dus in die tweede, dus wel scoort en die andere wat minder.
+
+[EQI] 16:05:02
+We kunnen dat wel mooier weergeven. Door. Kijk Als je bijvoorbeeld alles kleiner dan nou nul komma.
+
+[EQI] 16:05:10
+Uh nul komma N of zoiets wegschiet. Of kleiner dan het gemiddelde Zoiets.
+
+[EQI] 16:05:18
+Heb ik daar niet een functie voor verzonnen. Ja.
+
+[EQI] 16:05:24
+Dus als ik gewoon uh, ga afdrukken, als ik even alle kleine dingen weglaat uit dat dingetje, dan wordt het misschien wat overzichtelijker.
+
+[EQI] 16:05:32
+Wat Laat ik eerst dit doen. O.
+
+[EQI] 16:05:42
+Wat voor getallen stonden hier. Nou.
+
+[EQI] 16:05:52
+Klein nul komma één. Wat gebeurt er als ik dit doe?
+
+[EQI] 16:05:55
+O jee o. Streng, hoor.
+
+[EQI] 16:06:28
+Een beetje opschonen met een output.
+
+[EQI] 16:06:35
+Prachtig. Is wel jammer dat ik, eh, dat hij nu niet Alles geeft.
+
+[EQI] 16:06:41
+Hoe werkt dat? Mulisch collabel. Allen creer. Wat zeg je nou.
+
+[EQI] 16:06:49
+O ja.
+
+[EQI] 16:06:58
+Ja ik heb. Dus ik had daar de Preety of zoiets. Dan even, dat deed are frame. En dan had ik een kleine wegg. Daar staat ook de regel die er stond.
+
+[EQI] 16:07:05
+Je houdt er rekening mee die die de de lengte van ieder ding is. Vrij arbiteur opeengezet.
+
+[EQI] 16:07:12
+Uh. Dus als je dan deelt door Uh, n gedeelte door het aantal van die dingen.
+
+[EQI] 16:07:15
+Dat zou je als kut of doen, maar je kunt ook gewoon.
+
+[EQI] 16:07:19
+Ja, wat op het oog klein is. Wat Wat we nu zien is ja.
+
+[EQI] 16:07:27
+Het is niet de. Nog niet helemaal dat het superduidelijk is, maar dit is een dimensie die toch vooral talen hebben, maar er, zit ook wel. Die zitten nog een beetje in.
+
+[EQI] 16:07:38
+Uhm. De derde. En daar zitten de.
+
+[EQI] 16:07:43
+Eh: Nee, de hier zitten de exacte vakken heel duidelijk in.
+
+[EQI] 16:07:46
+En die zitten ook nog een beetje in de derde.
+
+[EQI] 16:07:50
+Helemaal. Uh Alfabetegamma, wordt het niet. Maar wel een beetje.
+
+[EQI] 16:07:55
+Uh, die die structuur erin. En eigenlijk wat we hopen en wat ik heb, Uh, daar mogen jullie de hele week nu allerlei data, sets en voorbeelden. Kunnen jullie daarmee aan de gang die je.
+
+[EQI] 16:08:06
+Ehm aan de hand van vraaglijn. Volgens mij heb je iets als human, welliuse en zo.
+
+[EQI] 16:08:11
+Uh, dat zijn grote vragenlijsten. Wat mensen belangrijk vinden.
+
+[EQI] 16:08:14
+En dan blijkt dat een aantal constructen, Uh, dingen als de Big five en zo. Die kun je daar misschien in.
+
+[EQI] 16:08:21
+Terugvinden. En en hoe vind je dat terug? Als Ik Uh, ja, Jullie kennen allemaal The Big Five. Vast Wel eens.
+
+[EQI] 16:08:28
+Zijn ook mensen, bijvoorbeeld een heel beroemd pvda-voorbeeld. In hoe dat gebruikt wordt er.
+
+[EQI] 16:08:34
+Is, zijn de culturele dimensies. Uh Hofstede 't zijn een stuk of negen, dacht ik, of zo, die d'r heeft, andere hebben dan weer iets anders verzonnen.
+
+[EQI] 16:08:42
+In feite is. Wat daar aan ten grondslag ligt, is principale componenten.
+
+[EQI] 16:08:46
+Er zit een. Wat een variant, zou ik zeggen.
+
+[EQI] 16:08:50
+Uh, maar dat zit daar aan ten grondslag. En hoe komt u aan die dimensies? Uh, door.
+
+[EQI] 16:08:56
+Bij ja te doen door te roteren en vervolgens te kijken van Oke? Welke Welke vragen? Welke stemmingen zijn belangrijk.
+
+[EQI] 16:09:04
+Hoeveel di ie ook alweer heeft. En die dan gaan duiden.
+
+[EQI] 16:09:09
+Nou, dat is dat is wat uh, hoe je dit heel goed kunt gebruiken.
+
+[EQI] 16:09:23
+Ja, het is allemaal de code Die hebben we je al gezien.
+
+[EQI] 16:09:30
+Ja, Je kunt er Ja. De nieuwe uitkomsten.
+
+[EQI] 16:09:37
+En. Want misschien is aardrijkskunde, wiskunde, ac.
+
+[EQI] 16:09:47
+Wiskundig B, natuurkunde, scheikunde. Dat zijn een beetje die clusters, ook van.
+
+[EQI] 16:09:53
+Ja, Nou ja, maar want ik de Ok? D. De gedachte was een klein beetje. En dat blijkt-ie wel een beetje te zijn dat er toch.
+
+[EQI] 16:09:58
+Hoe komt het dat kennelijk op een school. En is de kwaliteit van het onderwijs, en er is wel enigszins sectie afhankelijk dan dus het is dan niet alleen goed in wiskunde, dan zijn ze vaak ook goed in natuurkunde.
+
+[EQI] 16:10:08
+Dus dus plus ze bij elkaar. Ja, ik bedoel, de W. Wat je ziet is dat als er een school.
+
+[EQI] 16:10:19
+Uh, dat het vaak niet een goed iemand is in Nederland en dat vervolgens Frans en Duits er niks van bakken? Nee, die is zo'n hele taalsex.
+
+[EQI] 16:10:26
+Gaat dan kennelijk een beetje samen. Maar of ze goed zijn of dus op zo'n school goed scoort. Op die.
+
+[EQI] 16:10:34
+Een natuurtechniekdingen. Dat heeft dan weer geen invloed over of niet goed doet op andere dingen. Een school kan het goed doen op alle dingen of slechte behandelingen.
+
+[EQI] 16:10:44
+Maar het lijkt er wel op, dus dat het inderdaad wel een beetje.
+
+[EQI] 16:10:47
+Dat dat die dingen wel in groepen een beetje samenhang vertonen.
+
+[EQI] 16:10:56
+Uh Ja. Dus rotatie uh. Je Je kunt dan ook, nog uh, uh, de De De de die die uh, Die draaiing kun je ook bekijken als je wil, en je kunt ook.
+
+[EQI] 16:11:05
+Uhm. Ik zit me een beetje af te vragen of ik daar een voorbeeld van heb waarom ik dit heb gegeven? Misschien wel.
+
+[EQI] 16:11:11
+Maar wat we nu? Wat je dus roteert, zijn die ladingen h omdat je die wil interpreteren.
+
+[EQI] 16:11:16
+Maar dat betekent ook dat m'n scholen in m'n plaatje Ik heb dat van die scholen.
+
+[EQI] 16:11:20
+Die heb ik niet staan. He, maar. Uh, Waar was dat plaatje.
+
+[EQI] 16:11:34
+Kijk het tweedimensionale plaatje. Eigenlijk kun je ook al zelf al zien.
+
+[EQI] 16:11:38
+Dat je dat als je dat een beetje zo draait.
+
+[EQI] 16:11:41
+Dat die ladingen mooi langs die assen liggen voor die voor die.
+
+[EQI] 16:11:46
+Uh voor die twee groepjes daar. Dat is in feite wat we nu hebben gedaan Met een op een automatische manier heeft hij dat.
+
+[EQI] 16:11:51
+Gevonden zoals, en maar als je dat zou willen.
+
+[EQI] 16:11:54
+Weer een plaatje zou willen maken, dan moet je dus ook.
+
+[EQI] 16:11:58
+Moet niet alleen die draaien ik moet die puntjes natuurlijk ook meedraaien.
+
+[EQI] 16:12:03
+Dus dus, uh, om dat te vinden, moet je daar wat handelingen uitvoeren die daar in die code.
+
+[EQI] 16:12:09
+En op
+
+[EQI] 16:12:11
+Als je dat zou willen. Maar ik moet eerlijk zeggen, Dus de code staat erbij.
+
+[EQI] 16:12:15
+Kijk als twee dimensies werken. Dan heb je dat roteren, Dat vaar je max helemaal niet nodig.
+
+[EQI] 16:12:22
+Want dat is gewoon je, Dan draai je toch je computer of je hoofd of H: dat Dat is da. Maar dat is echt wat je doet. Dus.
+
+[EQI] 16:12:28
+Waarom zou je dat dan doen? Het wordt interessant als je drie, vier of vijf dimensies nodig hebt, want dan moet je naar die getalletjes gaan kijken.
+
+[EQI] 16:12:36
+Ja, en om naar die getallen te kijken. Als alles overal een waarde heeft, dan dan is het niet van elkaar los te krijgen.
+
+[EQI] 16:12:42
+Maar als ik iets krijg wat een beetje. Ja zoo'n soort patroontje heeft met met met met nullen.
+
+[EQI] 16:12:53
+Ja, met, sommige dingen wel belangrijk in een component en andere weer in een andere. Dan kan ik gaan duiden. De tweede component is hiervoor De eerste is hier voor et cetera.
+
+[EQI] 16:13:02
+Dus Dus daar is het handig voor. Ja.
+
+[EQI] 16:13:12
+Is hetzelfde? Nou ja, factoranalyse is Uh een klein subtiel ver verschil in dat er nog een term of voor de.
+
+[EQI] 16:13:18
+Hoe moet ze dat ook alweer specifieke varianties? Maar dit is een soort van de.
+
+[EQI] 16:13:23
+Simpelste vorm van factualyse. Ja Kleinse kroatenfactoanalyse.
+
+[EQI] 16:13:29
+Wenkbeelden. Ja, Dus dat paadje van we net hebben gewoon en wa Wat Wat ie heeft gedaan, is, Uh, is: Is Dat plaatje heeft ie inderdaad gewoon gedraaid. Ja.
+
+[EQI] 16:13:39
+Maar je moet dan wel weer bedenken. Hij heeft niet.
+
+[EQI] 16:13:42
+Hij heeft drie dimensies genomen en gedraaid, dus hij probeert ook. Het is iets complexer dan dat plaatje alleen maar als ik.
+
+[EQI] 16:13:49
+Als je hier. Nou, waar is een ding gebleven?
+
+[EQI] 16:13:59
+Als hier Ks twee kiest. Ja, dan, Uh, dan kun je gewoon Uh, alles herhalen en die B het bijplotje doen voor je nieuwe oplossing, dan is gewoon dat.
+
+[EQI] 16:14:08
+De eerste plaatje gedraaid. Op de beste hoek.
+
+[EQI] 16:14:13
+Ja, Dus D, dan is het echt als je, als je die K naar twee zou.
+
+[EQI] 16:14:17
+Vervangen. Dan. En voorschrij je dus de. Uh, de nieuwe uitkomsten ga je via dat de.
+
+[EQI] 16:14:26
+Er by plots afdrukken, dan krijg je gewoon het plaatje gedraaid.
+
+[EQI] 16:14:29
+Dus ja, dat is dus wel met wel wat stukjes code die daar staan. Een klein beetje gehannes.
+
+[EQI] 16:14:34
+En nogmaals, eigenlijk, het is leuk om te zien of het werkt. En of het klopt.
+
+[EQI] 16:14:39
+Uh, In de praktijk is het idee van die rotatie. Dus dat je niet naar de plaatjes gaat kijken, maar dat je naar de getallen moet kijken.
+
+[EQI] 16:14:47
+Ja, dat staat hier.
+
+[EQI] 16:14:54
+Nou ja. Vijfenzeventig slides erdoorheen naar.
+
+[EQI] 16:14:59
+Gejaagd. He Hee. En in kennelijk samenvatten. Ik weet niet of ik nog meer, uh, dan uh, Ik denk dat dat het wel is. Het is eigenlijk een beetje wat wat ik, uh.
+
+[EQI] 16:15:10
+Heb verteld. Dus ik heb nog meer dingen. Deze data. Ik heb meer data erop staan.
+
+[EQI] 16:15:18
+Uh eigenlijk? Uh Ja. Deze is een kwartiertje. Je Je mag het van mij nu doen. Je mag ook van mij.
+
+[EQI] 16:15:23
+Het naar huis. Ik weet niet, goed uh, wat de regels zijn.
+
+[EQI] 16:15:26
+Uh, ik ben hier nog wel eventjes. Maar uh, ja, je kunt het dus eigenlijk. Uh James Bond: Dat zijn alle James Bond-films met de.
+
+[EQI] 16:15:34
+Een aantal variabelen daarover. Ziet de samenhang in die variabelen, die zijn ratings en hoeveel het heeft gekost, Hoe lang de film duurt, Dat soort dingen.
+
+[EQI] 16:15:43
+Uh, daar kun je pse'aatje op doen is een heel klein databestandje.
+
+[EQI] 16:15:47
+En wat je ook kan doen. Daar zat een huisje.
+
+[EQI] 16:15:52
+Dus dat. Mag je nu ook doen. Maar dat mag je ook van de week doen en ga ik volgende week in ieder geval op terugkomen. Ook op James Bond ga ik volgende week terugkomen.
+
+[EQI] 16:16:00
+Uhm Oh ja, De De data van de stemwijzers.
+
+[EQI] 16:16:03
+Ik had al die van drieëntwintig. En toen dacht ik van Ja Shit.
+
+[EQI] 16:16:06
+Net weer geweest, is het ook een beetje raar om dan die ouwe te doen. Dus ik heb ook die nieuwe gepakt als we daar die daar zo'n stemwijzer zeg zo'n politieke partij.
+
+[EQI] 16:16:15
+Tenminste vroeger was, ja volgens mij nog steeds de politieke partij en geven dan aan of ze het eens of oneens zijn met de stelling.
+
+[EQI] 16:16:21
+Of neutraal. Als je dat ziet, als uhm, Uh, een een een een rating.
+
+[EQI] 16:16:28
+Uh van hoe ze het ermee eens zijn van één tot drie.
+
+[EQI] 16:16:30
+Dan zou je daar speciaal op kunnen doen dat.
+
+[EQI] 16:16:32
+Kunnen we doen wat daar een aardig aan deze toepassing en ook aan James Bond.
+
+[EQI] 16:16:38
+Wat waar dat in verschilt van die scholen. Uhm. En die Uh: counties.
+
+[EQI] 16:16:44
+Is dat rijen ook betekenis hebben. Hier h voor die James Bond zijn het films.
+
+[EQI] 16:16:49
+Dus als je je buipotje maakt. Moet je eigenlijk ook. Is het leuk als je ook die films.
+
+[EQI] 16:16:54
+Bij hangt, want dan kun je zien welke film.
+
+[EQI] 16:16:56
+Met welke dingen samenhangt voor de stemwijzer. De rijen zijn de politieke partijen.
+
+[EQI] 16:17:01
+En dan zijn er dertig stellingen. En dan kun je dus uiteindelijk een plaatje van die dertig stellingen. Uh, Je kieskompas maakt een plaatje dat zal anders zijn dan dit plaatje.
+
+[EQI] 16:17:11
+Weet ik, maar dat kun je wel zien, een beetje hoe het Nederlandse politieke landschap er deze keer volgens de stemwijzer uitslag en je zou zelf hier zo extra.
+
+[EQI] 16:17:21
+Ja, Je bent te laat, al, maar je kunt het nog invullen, dan moet je dat, dan moet je al die stellingen weer nazoeken.
+
+[EQI] 16:17:27
+Je kunt Ook dat ga ik volgens mij doen.
+
+[EQI] 16:17:30
+Het overal mee eens zijn en kijken wat iemand die het over me eens is, waar-ie terechtkomt.
+
+[EQI] 16:17:33
+Of overal niet mee eens. Best lastig, Best lastig.
+
+[EQI] 16:17:39
+Ga er over nadenken. Dan heb ik ook nog Ja, deze dit is een hele typische.
+
+[EQI] 16:17:44
+Speciaal opvattentoepassing, echt een. Ik heb er een een steekproef genomen om wat behapbaar te halen. Dat is het is groter.
+
+[EQI] 16:17:53
+Uhm. En daar heb ik Uhm. Er zijn eenentwintig vragen die gaan over wat je belangrijk vindt in het leven in verschillende landen.
+
+[EQI] 16:18:00
+En uh. Dus deze zou je kunnen kunnen linken aan uh aan aan, uh.
+
+[EQI] 16:18:05
+Nou je je, deze kun je gaan kijken van wat vinden mensen nou belangrijk? Kun Je later kijken naar landen of zo, of daar.
+
+[EQI] 16:18:10
+Iets van te maken. Is, heb ik er nog eentje.
+
+[EQI] 16:18:15
+Ja, voetballers. Ik heb heel veel voetbaldaden. Dit is een hele oude, wel.
+
+[EQI] 16:18:19
+Hebben ook veel nieuwe, maar. Uh, Ja. Kun je ook naar kijken.
+
+[EQI] 16:18:25
+Ik ga er allemaal op. Al die dingen ga ik volgende week.
+
+[EQI] 16:18:28
+Terugkomen en met code. Het is leuk om zelf een beetje te experimenteren.
+
+[EQI] 16:18:36
+En als je nu nog vragen hebt, Ja.
+
+[EQI] 16:18:42
+Die helemaal vol zijn. He ja. Maar ik had wel redelijk V. Die Die drie was al redelijk compleet of niet.
+
+[EQI] 16:18:50
+Ja, ja, logisch, ja. En ja, ik moet zeggen, ik zou net als zoeken. Ik was die hik.
+
+[EQI] 16:18:54
+Om eigen van de Usa niet terugvinden, meer. Maar die moet ik vast wel ergens anders maken. En de vwo die, Uh, die zet ik ook objectie heb gedaan, zet ik gewoon op.
+
+[EQI] 16:19:21
+O ja, dan zijn ze allemaal lager dan je kuthof. Dus ik weet niet wat je voor Kuthof hebt ingevuld.
+
+[EQI] 16:19:37
+Ik had er een regel die gebruikte, gewoon ingedeeld op de som van de dingen zoals dat is.
+
+[EQI] 16:19:42
+Het is een beetje conservatief, dan krijg je, dan blijft er te veel, vind ik, blijf zien. Maar dat is wel.
+
+[EQI] 16:19:46
+Nog enigszins objectief. Die maat is. In die zin wel wat beter. Misschien.
+
+[EQI] 16:19:57
+Dat probeer ik meestal. Ik bereid de mensen woensdag voor.
+
+[EQI] 16:20:01
+Dus dan kom ik de nieuwsluitsel. Woensdag. Maar Cillibus, Wat bedoel je met voor nog meer.
+
+[EQI] 16:20:18
+O ja, dat is wel goed. Dan hebben hebben we niet. He.
+
+[EQI] 16:20:20
+Nee, Oke, zal? Zal ik de. Daar zal ik iets over doen. Welke onderwerpen, welke week? Ja.
+
+[EQI] 16:20:28
+Ja, niks. H.
+
+[EQI] 16:20:34
+Wat stel je voor. Eind van het jaar.
+
+[EQI] 16:20:40
+Ja het gaat niet eerder zijn. Hoor, want de bedoeling ene assignment.
+
+[EQI] 16:20:44
+In Indie Simon zit een. Ja, twee of drie opdrachten hangt een klein beetje van af hoe groot en hoeveel subdingen.
+
+[EQI] 16:20:51
+Uh, d'r zit een deel over de kijk. Het punt is: ik: uh.
+
+[EQI] 16:20:54
+Ja, ik kan moeilijk dat hele ding er nu opzetten of ja kan wel, maar er kan natuurlijk allemaal methodes die komen pas in de laatste week aan bod. Dus meestal doen we het helemaal aan het einde, en dan laten we het in inleveren, ook nog.
+
+[EQI] 16:21:04
+Willen we ook nog over. Kerst maar. Ben niet zo goed. Wie kijkt er na.
+
+[EQI] 16:21:11
+Oke, Sarah, moeten we even met Sarah praten. Ook.
+
+[EQI] 16:21:15
+Maar ik: ja, uh, wat wat is wat? Wat is Uh: nee? Volgens mij doen we standaard is. 't Uh, begin van 't volgende blok.
+
+[EQI] 16:21:23
+Moet wel daarvoor zijn, want anders zit je te werken aan dingen.
+
+[EQI] 16:21:27
+Terwijl er al nieuw ding begonnen is. Uh ja, wij hebben een kerstding. Maar goed, daar gaan sommige mensen zeggen: ja, maar dan wil ik vakantie.
+
+[EQI] 16:21:33
+Dus dan. Wil je al een deel, ja, dan hebben we ook volgens mij wel eens geprobeerd. Daar kan ik ook naar kijken dat ik naar mijn deel al een deel van de opdracht doe.
+
+[EQI] 16:21:45
+Nou ja, goed, ik ben flexibel. Ik zal dat uh. Kijken of we dat kunnen.
+
+[EQI] 16:21:49
+Dus dan zeg je van: uh, H. De komende twee weken komt er geen opdracht op. Nog een.
+
+[EQI] 16:22:03
+Ja, ik ga de onderwerpen. Ga ik. Want dat weet ik al wel. Dus dat kan ik makkelijk, Uh, ergens opschrijven. En dan kunnen we ook kijken naar welke hoofdstuk in het boek. Dat zijn.
+
+[EQI] 16:22:13
+Ik ga vrij Chrisost doorboeken qua onderwerpen, want ik vind die volgorde van hun niet niet handig.
+
+[EQI] 16:22:19
+Ik heb nog nooit een boek gevonden dat ik wel goed vind. Dus.
+
+[EQI] 16:22:24
+Nou wel eens aan gedacht, een hoop werk, en ja, niemand leest meer boeken. Dus, uh.
+
+[EQI] 16:22:30
+Ja. Ik volgorde ja. Oke. Andere vragen.
+
+[EQI] 16:22:46
+Eh: Ja, dat Da: daar kan ik ook makkelijk wel opzoeken. Ja, en dus dan zal het niet overal precies hetzelfde meer zijn. Maar.
+
+[EQI] 16:22:52
+Het zou moeten werken. Ja. Dat zou ik Goed. Ja.
+
+[EQI] 16:22:58
+Oke, iedereen tevreden.
+
+[EQI] 16:23:12
+Omdat ik die lijst vaak niet nu doe, maar dat wil ik wel maandag wel doen.
+
+[EQI] 16:23:17
+Of misschien wel eerder, maar hangt er een beetje vanaf wat ik.
+
+[EQI] 16:23:21
+Ga geen beloftes doen. Oke, hé dan.
+
+[EQI] 16:23:26
+Dat was het wat mij betreft voor vandaag
+

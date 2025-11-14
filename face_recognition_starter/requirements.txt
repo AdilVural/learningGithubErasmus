@@ -1,0 +1,3 @@
+# Minimale vereisten
+opencv-contrib-python>=4.8
+numpy>=1.23

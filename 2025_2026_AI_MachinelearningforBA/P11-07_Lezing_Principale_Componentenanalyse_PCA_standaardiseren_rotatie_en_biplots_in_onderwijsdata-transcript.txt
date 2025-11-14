@@ -1,0 +1,315 @@
+
+00:00:30 Speaker 1
+Ik heb daar een selectie van gemaakt zelf. Ik heb ook gezien uit de TVO's. In Asia. Heel Nederland. En de sporen zoeken ze inderdaad samen. Normaal gesproken hadden ze daar... ...met... ...de schooldocentrie. Eigenlijk alleen de schooldocentrie. En dan... ...kijk ik naar eigenlijk wat de gemiddelde uiterlijk van de school... ...per vak. En dan heb ik... That's my apartment, and you guys are on the...
+00:01:00 Speaker 1
+Ik denk voor de kaasbouwers uiteindelijk iets vertrekt bij deze ideeën, zoiets, hiervoorzieningsopdraaden met dingen die van die oorlogsgevers, die de handen toch weer vertrekt hadden gehad, vastpakken. Nou, overigens is het niet een school, het gelingenzijde op het gelingen, dat is vast, en dan zou je, he, een kaasbouwer instaan, daarna kan je dat gelingen, en dan zou je die naar beneden halen, waarom zou het, wat de bedrijf wil weten, en wat zou er van die bedrijf willen weten, nou ja, je zou natuurlijk denken, misschien is de school, we hebben een heel sterke taalrestrictie,
+00:01:43 Speaker 1
+en misschien zie je dat dan eigenlijk, toen je dat gesproken hebt, dat het niet van die taalrestrictie valt, en dat het een Duitse school is, maar dat het een school van Duitsers is, en misschien zijn dat de mogelijke scholen, waar ze het eigenlijk, waarom, waarom niet? Ευχαριστούμε! Misschien kunnen we dat zo samenhangen. We gaan het proberen, we gaan kijken of het duidelijk is.
+00:02:14 Speaker 1
+We gaan twee nemen straks. Dekker. Nou, dit is een snapshot van het data. Ik heb het niet meer op... Oh ja, helemaal vergeten. Ik heb het niet meer op... Ik gebruik die nodes. Wat gebruik ik die nodes? Iedereen heeft een node?
+00:02:48 Speaker 1
+Dat is wel fijn, want dan heb ik ook gedaan. Dan kun je een stukje doen en zo. En dan dacht ik ook van ja, ik doe het een beetje op. Ik moet eerst nog installeren, maar waarom dat ik dat al heb gedaan, dat weet ik nog niet. Maar in dit dingetje, dat is een dupe geloof ik volgens mij, daar heb ik op een gegeven moment geen idee van.
+00:03:26 Speaker 1
+Ik heb gisteren een nummer uitgevoerd, maar die heb ik helemaal niet nodig. Ik ben hier in een museum geweest. Het maakt niet uit hé. Maar ik heb het gemotigd. En toen dacht ik van ja, ik wil dat we daar allemaal... Zoals een studio. Ja, dan kunnen we de basisschermen bekijken. Denk ik, dan houd ik die regel wel mee samen. Ja?
+00:03:57 Speaker 1
+Ik denk dat we moeten kijken hoe we kunnen helpen om mensen op een goede manier te helpen. Dat is informatie inderdaad, dus eigenlijk wat we daar als maat te kijken hebben is de parimantie in de hele data, dus hoe je dat kan zien op de vlakken. Je kunt kijken, ik heb een link naar school gegeven ofzo, als je dan kijkt naar het gemiddelde per vlak overal in school, 12 gemiddelde cijfers zijn er dan.
+00:04:31 Speaker 1
+En als je dan voor ieder vak het zonder afwijking neemt van die school tot het gemiddelde toe, dan krijg je de parimantie in de hele data. Hoe ver ligt het allemaal uit elkaar? Parimantie behouden, met een nieuwe cijfer. Dus in je nieuwe link, als ik dan naar de v-dimension spectra ga kijken, als ik dan naar hoeveel parimantie ik vind in die v-dimensionale ruimte, dat gaat minder zijn.
+00:05:04 Speaker 1
+Maar dat moet eigenlijk relatief aan wat je eerst had gezegd. Dat is ongelukkig. Daar gaan we straks over gaan op 10 minuten. Oké, dus dit beestje gaat straks ook naar mijn spijsendienst. Maar, oh ja. Dus ik vond dat je via een beestje aan een functie kunt doen. En dan zie jij het puntbeetje van, ja, hoe krijg je het dan op?
+00:05:35 Speaker 1
+Dan kun je makkelijk runnen daar. Ja, dan heb ik wat. Maar wat heb ik nog? Ja, eigenlijk wat je nu van deze manier hebt, want het staat daar, wat je nu hoeft te doen, is ik kies niet een reductiekip, of een dimensies. Ik kies eigenlijk alles. Het mooie ding aan die oplossing is, van het SDA, dat de oplossingen zijn,
+00:06:06 Speaker 1
+het is ook even een nest, dus ik wil zeggen dat, Als ik de 4e misnade ontsnap, dan heb ik ook de 3e misnade ontsnap. Die heb ik namelijk gewoon op de 4e weg gekregen. Dus als ik de 10e misnade ontsnap, dan ga ik gewoon de 2e misnade ontsnappen, waarvan ik alleen aan de eerste 2e kijk. Dus het is heel erg handig. Je hoeft niet apart te hunnen voor 2e, 3e of 4e. Eén keer hunnen voor alles en dan gewoon afgooien wat je wilt. Ja?
+00:06:44 Speaker 1
+Nee, want dat weet ik eigenlijk niet zo goed. Ik ben subset in het SOS, maar... Ah, niet de subsetting, hè? Subsetting voor mij is dat ik er een aantal pakken aan doe. Ja, nee. Ik weet niet precies wat het betreft, maar ik denk dat het een succes is. Zijn er andere manieren om dit op te doen?
+00:07:17 Speaker 1
+Ja, ik heb dus gekeken. Ik weet dat er geen andere manier is om dit op te doen. Wat zien we als dat gebeurt? Nou, wat zien we dan? Zien we dit? Dat is fijn. En wat is dit dan? Enig idee?
+00:07:57 Speaker 1
+Ja, het is duidelijk, dat is wat we hier zien. We zien dat de eerste combinatie die hij heeft gevonden, de variatie daarvan, is... Bedankt voor het kijken! De tweede, wat je dan doet, dan gooi je het eerste, dat deel wat hij beschrijft, haal je weg van de data en dan kijken we wat in de tweede richting, de eerste, wat daar loopt.
+00:08:32 Speaker 1
+Je schrijft dan, je vindt zo'n variantie, dan zoveel, en zoveel. Je ziet hier een poortje, en uiteindelijk een kerk, een pad, een paddenveld. En in de derde richting doe je ook varianties zo'n beetje. Eerst de meeste, en dan ook het andere. Ja en nee. Dat was niet nodig.
+00:09:05 Speaker 1
+Mae'r rhan fawr o'r rhan fwyaf o'r rhan fwy Je wilt zoveel mogelijk. Nu hebben we kijk aan hoeveel je hebt. Dan kun je kijken naar hoeveel varianten je hebt. Dan neem je de variant die je betaalt. En dan neem je de variant die je wilt. En dan neem je je perspectief. Staat dit allemaal? Ja?
+00:09:37 Speaker 1
+Ja. Dan moeten we kiezen. Want ik heb nu alles in mijn mond hebben. En ik wil terug. En ik zie nu de eerste die heeft gewezen. And you can lift your arm up and down as far as you want to.
+00:10:01 Speaker 2
+Now the other leg.
+00:10:10 Speaker 1
+Good. Dat is de eerste keer, alleen maar. Oké, dit was het. Daar zie je de gedeelde cijfers. Dit is de groei van Sprinkles. Oh ja, dit is ook vrij random allemaal. Waar hebben jullie deze positie voor? Waar hebben jullie die niet voor?
+00:10:41 Speaker 1
+Ja? Ja, dat is gewoon hetzelfde gemaakt als aardappelen. Ja, waarschijnlijk. Maar wat is dit? Is dit een soort van standaard? PS-code misschien. Maar dit is bovenop PS-code gebouwd, dus dit is eigenlijk hetzelfde. Ja, precies. Dit is eigenlijk een groot voordeel, vond ik. Ik heb dus eerst PS-code gebruikt. En dat zat ik mee te denken, want ik ken natuurlijk niet al die functies van Sprinkles. Ik vind dit heel mooi. Hier rechts. Je ziet dan wat je hebt geladen en zo.
+00:11:17 Speaker 1
+Thank you. En de functie zit er nog een klein beetje. En dan kan je ook zien wat hierin zit. Handig, makkelijk, het maakt al niet uit. Die notenbescherming plaatjes hier, dat is ook mooi. Dat hadden we net ook al. Moet ik deze nog doen?
+00:11:49 Speaker 1
+Nou, hier heb je het zien. Dat de eerste principale component, die de hele hyperscience-achtig noemde, nul krijgt. De eerste heeft 22% plaatje variantie. De tweede heeft 15% plaatje variantie. Dus de variantie van dat ding, gedeeld door de variantie. if you want to push out.
+00:12:20 Speaker 1
+In de laatste column zie je dat het uiteindelijk alles is. Het eerste t heeft slechts 37%. Ik ga er zelfs nog twee kijken. Dat geeft dus niet de hele realiteit. Het is een plaatje. Hoe kies je? Waarom moet je hier dan? Hoe maak je zo'n keuze? We gaan er toch weer bij afleggen. Het is een plaatje. Dan is de eerste manier om dat te kiezen.
+00:12:54 Speaker 1
+Dat wordt net over een elleboog. Ik ga kijken naar een elleboog. Dat was het. Dat is een elleboog. En hoe kies je dat? Laat ik even kijken. we hier niet naar kijken. Maar die eerste hebben we al. Hoeveel dimensies moeten we zien?
+00:13:25 Speaker 1
+Twee. Dit is één, dit is twee, dit is maar één. Nog steeds twee. Nog één duim omhoog. Dat is verrassend een goede antwoord. De dimensie die voor de meeste mensen is, het zijn heel slechte mensen, is van ja die elleboog is van vier, dus je moet drie dimensies hebben. Maar je moet bij PSA je naam en de naam delen.
+00:13:58 Speaker 1
+Ieder ding moet even kijken naar hoeveel variaties je in elkaar gehoord hebt. En als je er drie op neemt, want dit is op het juiste punt, ja maar als je er drie neemt, dan kan je er vier op nemen. Even klaar en er worden nog wat extra's, evenveel opgepaard. Eigenlijk wat je doet, je neemt de dimensies voor je, wat die dan maakt dat de scherpte bijna niet is, dan krijg je ook niets van de scherpte. Als je dan zegt dat dat ook een probleem is, dan zie je de volgende dimensie.
+00:14:34 Speaker 1
+Dus bij het mesje A zat, als je die helemaal gebruikt, die ziet er even uit. Ik had eerder niet gezien dat die dus al hier aan stelt met 0. Dit is 1 dimensie, 2 dimensies. Dat is aan de hand van de schuurkomst. Er zijn heel veel dingen gedaan die mensen kiezen. Ik ga er de laatste keer een volgende aflevering over geven. Maar er blijft eigenlijk wel een bepaalde subjectiviteit.
+00:15:08 Speaker 1
+Kijk, hier heb je een redelijk sterke loop. Aan de andere kant ligt het niet zo, denk ik. Opeens klopt het, als je zou kunnen zeggen. Ja, zo moet het dan. Als er wat pijn is, dan kijken ze altijd even of dat niet het idee is, welke deel het idee is, dan lachen ze gewoon niet. Maar er zijn fantastische delen in school, dus toen kon ik denken, vandaar dat ik daar gewoon voor ben geweest.
+00:15:41 Speaker 1
+En toen vroeg ik me af of het niet zwaar was, en toen zei ik dat het echt zwaar was. Goed, maar wij kiezen school te spelen. Wat hebben we dan gegeven? Nou, we hebben dus al die informatie. Wat we nou kunnen doen om nog een beetje te helpen met communiceren. We kunnen dan kijken wat we nu hebben.
+00:16:17 Speaker 1
+Als je twee meisjes kiest, dan heb je vijf coördinaten. Eigenlijk kwam er nog altijd, en je denkt van de eerste twee, een paar zo'n kleintjes en een kuur ervan. Ik doe nog een paar keer. Sporen heet dat. Het zijn in feite dus nieuwe coördinaten ten opzichte van het rotere as. Zo moet je natuurlijk dat het eerst een paar keer afleggen.
+00:16:47 Speaker 1
+En zo kun je dan vragen. We hebben nu een vraag gevonden. Als we dan kijken naar die zoveel sporen, dan zijn welke coördinaten na die vraag? Ja? Ja, nou bleek er niet een functie. Ze zijn spannende sporen. De snoep mag ik eigenlijk eigenlijk niet zeggen. We hebben nog een vraag gevonden. En daar kwam het verschat, want we hadden nog niet echt opgepast voor de snoep. Dus ik weet niet waarom.
+00:17:18 Speaker 1
+Onder is een leuke functie. Mooi, maar niet perfect. Proost! Thank you. Cheers. Is dat ook iemand? Ja, dat is een heel aardige vraag. Ik denk, als je echt wilt kijken naar de natuur, natuurlijk. Heel veel is natuurlijk om te plotten. Er zijn heel veel dingen waar je rekening mee moet houden. Dat staat dan natuurlijk in de depth by plot. Maar je kunt er natuurlijk blij mee nagaan over wat er gebeurt. En heel simpel, uit de PCA oplossing komt aan de ene kant van de schormes,
+00:17:52 Speaker 1
+dat zijn coördinaten in de mindere dimensies. Hij geeft eerst altijd een actieve magneet, ten opzichte van de nieuwe assen, de nieuwe draaien. En wat ook een zaak is van de laaien, is eigenlijk wat die laaien levereert. Dus er staan iedere keer nieuwe misjes voor die coördinaten. Die zijn er al. En wat we nou doen, we gaan er altijd gelijk in plaatsen. Dus we gaan de actieve kunst de nieuwe coördinaten weer geven, en de nieuwe coördinaten geven van de laaien. En dat gaan we natuurlijk ook blijven onderzoeken.
+00:18:27 Speaker 1
+en dan komt het terug te rekenen met je data. Er was ook wat info in je data-datenaam. Dat kan met een hele wijf op. Check dat dat straks is. Ik moet zeggen, ik kan het wel berekenen, dus dat gebruiken we met kleine aanpassingen. Je moet de regels aanhouden. Wat we in moeten, in ieder geval, zijn die nieuwe coordinaten en de waarding.
+00:18:58 Speaker 1
+Hij heeft ook die PCA nodig, dus je moet hem eigenlijk in orde brengen aan die varianten. Dat is ook weer een andere probleem. Dan heb je de mogelijkheden om jullie bij de passage te zetten, zodat je weet wat je moet doen. Dit zou moeten werken, hè? Werkt het?
+00:19:31 Speaker 1
+Er was niemand iets anders? Iedereen exact hetzelfde? Nou, er is wel wat van gebeuren. Je moet met die draaiingen bedenken, dat het plus en de minus kunnen veranderen. Hebbes wat ik met Armin van Haas had, is dat de ene helft die hij had, dan dat ding moest sturen. En dat kan, dat maakt helemaal niet uit. Juist zo. Herkenlijk was dat ding,
+00:20:02 Speaker 1
+dat Armin van Haas van die computer van die systeem had gemerkt, dat het goed kon veranderen. Ja, wat zien we? Nou ja, wat zien we? Misschien, ik denk dat het duidelijk is, dat die rode pijlen, dat ze er bij staan. Dus, voor Armin van Haas. Het is duidelijk, het zijn wel minder.
+00:20:33 Speaker 1
+En dan kun je dat ook bedenken als die bouwen wat schoon zijn. Dat zijn de potten met de las. Dat zijn inderdaad schoon. Kan ik bijvoorbeeld in het plaatje zien wat een slecht gesloten is? Waarschijnlijk. Heeft iemand het idee waar ik dan moet kijken?
+00:21:08 Speaker 1
+Slecht gesloten. Dus schoon is het niet. Ik denk dat het een beetje te jong is, te lang is het niet. Dus dat moet je even achterblijven. Ik zou graag willen dat de Chinezen weten. Mensen die... Ja, dat is een diepe weg. Is er een diepe weg naar boven? Links onder het pand. Hier. Twee bijen.
+00:21:38 Speaker 1
+Er zit geen schop in, maar dat zijn dus deze. Ja, slechte combinatie van schoppen. Maar is die slecht in luskunde? Ja, ja, ja, heel goed. Ja, echt slechte tip. Maar de intuïtie is er dus wel. Eigenlijk wat je dan moet doen, is hoe je dit kan interpreteren. Je kunt ieder punt de looprechten op zo'n richting van zo'n pak schieten.
+00:22:14 Speaker 1
+Dus wat je dus mag doen, en wat eigenlijk het mooiste is bijvoorbeeld, is dat je de lijntjes wat verder trekt, zoals buiten de oorlog. En dan kun je zien dat deze schaal inderdaad, linksonder, als je die dan projecteert op dit ding, dan is die dus heel erg aan het negatieven van elkaar. Dit is de gemiddelde zijde, en in de richting van de pijl zitten we boven de gemiddelde en tegen de overgestelde zijde naar beneden. En dat werkt voor alle scholen.
+00:22:45 Speaker 1
+Dus deze, als we die moeten gaan projecteren, Frans O'Heer of zoiets, die zit in bijna hetzelfde punt als die. De goede school hier zit echt, hij oog was kort en behoorlijk hoog. En Frans, Frans, 37% best. Dus dit is, ik mis misschien wel iets heel kort eigenlijk. Maar bij de naming lijkt het erop dat dit niet per se de scholen zijn waar je het beste resultaat hebt.
+00:23:17 Speaker 1
+Je moet trouwens, dan weet je niet eens of het goed is voor de scholen trouwens. Maar het resultaat is natuurlijk wat lager. En hoe gaan deze onderwijzen? Boven. Ik zie nog een stukje in het briefje van die pakken, waarvan ik zie dat ze dezelfde dingen hebben.
+00:23:59 Speaker 1
+Eigenlijk ja, samenhangt het. Ik denk eigenlijk dat scholen die verschillende groepen in de vakantie moeten doen, ook in het buitenland blijkt. En dan zomaar ook even groepen in het spekendoel van het vakantie moeten doen, maar eigenlijk niet dat spekendoel buitenland. Het is een normale benadering, dat zal niet altijd zo zijn. Maar groepen blijken wel een beetje aan het anders zijn. Als je daar niet op hoog scoort met de BNB, dan scoort je er ook nog op schijt in de vakantie.
+00:24:35 Speaker 1
+Dus dit is samenhangt een relatie eigenlijk. Nou dan, wat betekent dat dan? Zo, even zo eens kijken of we anders kunnen wisselen. En even gaan oefenen. Geen samenhang. Geen samenhang, dus het is niet het tegenovergezelfde. Dat wil soms mensen van mevrouw zeggen. Nee, dat betekent dat als een school in ons laatste lijden droogt,
+00:25:08 Speaker 1
+of er verschillende huppies in de klas, dan kun je eigenlijk helemaal niks zeggen over onze overvoedigste slechtszijn in de klas. Dat geeft eigenlijk helemaal geen rede van de informatie. Dat blijkt geen samenhang te zijn. En andersom ook, als ze goed zijn in wisselen, dan kunnen ze goed zijn in de klas, maar ook niet slechtszijn in de klas. Je weet het gewoon eigenlijk niet. Het helpt je verdaad niet om iets te zeggen. We'll now take a 10-minute break, and then we'll go to breakfast.
+00:25:41 Speaker 1
+Soms heb je de pijlen niet tegenover, dat betekent dat de hoogte van de pijlen bij de andere maakt. Dat was een vraag, ja. Dan moet je echt een pijl aan de andere kant zien. Ergens een pijl geweest is, dat betekent dat de hoogte van de pijlen bij de andere maakt. Dat gaat vaak samen met de hoogte van de pijlen. Dus op de ene kant en aan de andere kant betekent dat een sterkere polarisatie, maar een polarisatie van minder en minder. En de zelfde kant is een polarisatie van minder en minder.
+00:26:16 Speaker 1
+Nou, als ik dit zeg, dan heb ik geen... Ja, tuurlijk. Kan je dan geheel van de biologie, ook een beetje de zin van de wereld afbrengen? Of overleefd samen met... Wat zit er daar tussen? Ja, hangt er een beetje tussen, hè? Ja, nee, eigenlijk ja. Kan jij bepaalde ja's? Zouden we niet een filmpje kunnen maken over wie de zin is? Die lijken wel samengang in, die cijfers, maar nogmaals, ik denk eerlijk gezegd dat we hier misschien nog wel een beetje aanlopen tegen die 37 procent, dat we er wel wat dingen missen.
+00:26:48 Speaker 1
+Natuurlijk is het hier gewoon niet zo duidelijk waarom het zo zou zijn, want daar heb je denk ik ook een beetje een rol in. Nou, ik weet ze er nog een beetje over bijna. Ja. Er is missing, en wij houden er een tussen. Ja, dit is wel echt, wat heet het, badline. Ja. En dan hadden we maar één, of zouden we dat ook niet gedaan hebben, misschien. Ja. Het is niet zo. Ja. Het is echt een badlijn, wat ik zeg. We gaan straks de dingen van het programma in 3D even kijken. Misschien willen we nog kijken hoe het loopt. Het programma is opgevallen. Ik denk wel dat het moet worden opgevallen.
+00:27:19 Speaker 1
+Ja, het moet wel in, maar ik denk niet. Dus. Ik heb geen plan voor het programma. Dames, welkom. We zullen zien hoe het gaat bestaan. Rijstpunten gaan vandaan. Dank u wel. Heb je wel enig idee waarom sommige boodschappen langer zijn dan andere boodschappen? Grotere spreiding.
+00:27:52 Speaker 1
+Het is echt super individuel. Je moet zomaar enige boodschappen gezien hebben. En dan wordt het kwartier perfect integreerd. Dat is toch fijn. Wat je gaat zien waarschijnlijk als je de data bekijkt. Wat je ook kunt doen met opslot. Dat het moet dat de spreiding in de wiskunde met B-cijfers wat groter is. Dat je meer variantie in de gemiddelde cijfers van scholen. Dan Engels en Biologie. Waarschijnlijk zit het gewoon niet. Wij vinden toch allemaal scholen zwaar.
+00:28:23 Speaker 1
+Want er zitten al ongeveer 7 miljoen scholen. En dat gebeurt hier meer in de spreiding tussen scholen. En daar komen ook lepers. O ja, daar komen ook lepers. Die van daar liggen. Thank you. Als ik die in de waterloop zoek... Hij heeft dezelfde vermielde cijfers. Als je kijkt naar... Normaal gesproken... Ik wist wat, dus ik kwam er echt wel naast zitten.
+00:28:53 Speaker 1
+Maar als je kijkt naar alle verschillen... tussen al die afstanden tussen die scholen... dan is de manier die ik deze tegenhaal... niet zo goed. Dus ik verwacht... dat als ik naar de vermielde cijfers van al die cijfers kom kijken... dat die vrij dicht bij elkaar ligt. En op dezelfde manier... deze. En die... Als je kijkt naar de vermielde cijfers van de school... dan zal het heel erg verschillen. Dat vindt het al een beetje zin in. Dat is ook wel...
+00:29:29 Speaker 1
+Maar het hoort dus allemaal op... hoe negatief je bent... voor de zorg dat dat werkt. Het negatief is heel mooi, maar... er zit je man niet achter. Ja. Υπότιτλοι AUTHORWAVE. Wat doe je met, wil je het precies weten in de hand van het formuur dat we gaan zien, of wat? Ja, ja, een beetje van de sluier. Ja, ik denk dat er in het boek wel, maar ik weet eigenlijk niet zo heel goed,
+00:30:00 Speaker 1
+want ik kan erin gaan staan, al niet heel erg veel duidelijke afleidingen. Ik heb straks wel iets met het formuur. Ja. Ja, en je komt heel snel, want dat zijn, wat is het, koninginsar, ja, dat zijn fekkoosruimtes. En eigenlijk, ja, ja, dus de afstanden tussen fekkoorden zijn allemaal verschillen. Dat moet je niet vertellen. Allemaal verschillen. Dat moet je ook niet vertellen. Dat kan ook niet vertellen. En dat is hoe je vindt het, dat als je dat in de tafel neerziet, dat er allemaal verschillen.
+00:30:31 Speaker 1
+zijn in het model. En dat vergelijkt met een tegenschil in deze ruimte, dat hier veel kleiner is, dat deze dichtbij de tafel is. Ja. Is het zo kleiner? Ja. Ja, nou als je wil, het kan natuurlijk, veel mensen zijn al gelijk, ik zal straks wel even kijken in de boeken, want ik denk dat er daar toch iets aan staat. Maar zoals ik zei, het is ook iets juist.
+00:31:02 Speaker 1
+Het is super interessant. Ja. Het is heel algemeen. Heel erg mooi. Ja. Maar er is wel een vraag in de tafel. Het lijkt wel helemaal niet. Het is wel iets wat we ons niet verwachten. Ja. Het verschil tussen de afstanden in de wijnruimte, de lagergeving, het verschil in de tocht, het verschil tussen die twee dingen, en die twee alternaties. Het is allemaal gemaakt van internet.
+00:31:38 Speaker 1
+En wat ik zei, wat je kan doen, en dat kan ook serieus met verschillende beelden. Als je kijkt naar de rechterhoek, dan kan je uitrekenen wat de voorspelde waarde is voor deze school, voor de kwartmissie meteen.
+00:32:09 Speaker 1
+Ik raad het niet aan, maar het kan wel. Ja, dan is eigenlijk mijn idee, laat maar eens kijken. Nu heb je ze gekozen. Volgens mij heb ik daar weer een bevinding aan gegeven, maar ik denk niet dat ik nu dat BCH ding heb gegeven.
+00:32:46 Speaker 1
+Ik vind het alleen maar te vertellen dat die functie is.
+00:33:41 Speaker 1
+Ja, want dat doe je heel makkelijk op je feest, als je een nieuw zaak zet. hier stelden we hoog, want het zal niet ongelofelijk zijn dan pakken we de naam van de data en sturen we dat aan. deze heb ik weer op. en we hebben hier de barcode functie, oh, ik heb ook deze barcode functie voor je gemaakt, maar dat is makkelijker we zullen het zetten op winnen, 15 minuten.
+00:34:21 Speaker 1
+en je mag ook ontvouwen dat we het pauze verkiezen we liggen nu al helemaal we moeten het omnemen tussendoor en dan gaan we straks een beetje kijken.
+00:36:47 Speaker 2
+Да, я знаю. and.
+00:37:47 Speaker 1
+Το σπίτι αὐτῶν εἰς τῆς ὑπὸ τ.
+00:38:17 Speaker 2
+ὑπὸ τῆς.
+00:38:56 Speaker 1
+Heeft er iemand wat... Oh, een man. Heel wel, misschien iemand. Nee, het is iets geks. Oké, laten we dan... Als iets geks vindt, dan weet ik niet wat het is, dan doet het goed. Nou, we wachten er wel even, maar als je dat gek vindt, dan weet ik wat ik moet doen, anders kan ik naregenen waarom. En dan zie ik dat alles goed is.
+00:39:55 Speaker 1
+Bedankt voor het kijken! Oké.
+00:40:03 Speaker 2
+En nu is er nog eens de lucht. Ja. Dat is, eh, dit is al extra... Nou, dat deed ik in de laatste keer. Oh, die moet je doen? Ja, ja. Oké. Ja, ik had het ook gewoon, eh... Ik heb het uiteindelijk maar gedoeld. Nou, dat is ook een leuke... Bijna niet leuk voor je. Allerlei dingen.
+00:40:35 Speaker 3
+Ja. Het blijft vaak overstrijdbaar. Het pakketje zit bij elkaar.
+00:40:40 Speaker 2
+Ja. Oké. Ja.
+00:41:33 Speaker 2
+3Dプロジェクト プロジェクション. 3Dプロジェクション.
+00:43:03 Speaker 2
+You, Thank you.
+00:43:12 Speaker 1
+En je hebt een boek, waar je een cataclysie van maakt, waar je het herhaalde en deed. Toen deed ik deze boek. En op die boek zit de data. Het is nog niet deels weg. Dus ik heb het gewoon naar boven sporen gehaald. Dus dat is de boek hier. Nu heb ik het allemaal tegelijkertijd al op de lucht. De data.
+00:43:47 Speaker 1
+En dan heb ik dit nieuwe cel gemaakt. Dit is een functie die ik eerder heb gemaakt. En die functie voelde zich uit als ik eerder ook deed. Dus ik kreeg hier een paar variantjes. Het is nog even niet weg. Hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn.
+00:44:17 Speaker 1
+Ja, een hele duidelijke ellenboog, een hele duidelijke ellenboog kiezen, ja dat is één keer spaar op het net, heel duidelijk. En hoeveel maillons ik kwijt kan? Ja, bijna alles. Bijna alles. Kijken. Precies te zijn.
+00:44:49 Speaker 1
+Nou, 99. Ja, en dan nog 8 zelfs. Dus, fantastisch toch? Want, hoeveel jaar heb je daar? 32. En als ik één keer spaar op het net pak, dan kwijt ik zo'n 100 procent van mijn tijd. Dus, wat is...
+00:45:23 Speaker 1
+Is dat goed? Het lijkt gewoon normaal. Wat Sjoerd zegt, dat is gewoon normaal. Ja. Het deel is dus... Ja, het zou makkelijker zijn om twee dingen naar één. Maar dat is iets gegevens aan de hand, hoor. Dus je moet met alle soorten dingen... ...die je vindt niet voorspelbaar doen... ...en alles niet voorspelt... ...dan moet je niet graag juichen. Dan moet je regelen. Je moet het instellen, ja.
+00:45:54 Speaker 1
+De piep instellen. En deze man is van de... ...en die man is van... ...van piep instellen. Ondertitels ingediend door de Amara.org gemeenschap. Hij gaat met deze trouw hoor, dus eerst hebben we beide twee geïnstalleerd.
+00:46:27 Speaker 1
+Exact dat. Dan is het goed. Zo, deze is het. Dus het gaat wel met de variatie. De variatie is voor jou of voor anderen misschien? Zullen we meer over de variatie willen vertellen? Nou, we hebben continuaties. En sommige van de resultaten handelen we over. Maar we hebben ook... Eén, twee... Die komen niet boven de vier procent uit. Ik heb veel gelijden van de populatie. Dus als ik ga rijden naar de zon van... Ik pak dat weer op afstand.
+00:46:58 Speaker 1
+En ik heb daar één variabel. En ik heb de populatie tussen de 100 en de 1. En ik heb handelingen van de 100 tot de 10.000. Of 10.000 tot 20.000. En dan gaat hij natuurlijk alleen de grote opvallen. Dat zijn grote verschillen. Dus hij gaat één component vinden. Want er waren twee van die variabelen die heel erg groot waren. Thank you. Dus de variantie die ik zei net, je kunt ook nog varianties bekijken, maar de variant van het hele ding,
+00:47:38 Speaker 1
+die ziet er eigenlijk als een heel ander geval uit, maar het aandeel van werkloosheidspercentage, de stemming met elkaar die daar staat, ja, dat het geval dat je dus allebei kan opvellen, is helemaal niks in verhouding met de oefening. Dus je kunt deze aan niet zomaar doen omlaag te doen. Ja, en dan zal het bij de nieuwe school ook aankomen, als het allemaal goed wordt.
+00:48:21 Speaker 1
+Dan is het voldoenbaar, trouwens weet ik het, de slijt zet ik allemaal op. Thank you. . Dus je maakt het niet onder de muur uit, dat moet je straks even doen. Geen knop bij je, en dan moet je weer vallen. Ja goed, nou oké, wat doen we dan?
+00:48:52 Speaker 1
+Standardiseren, wees wel van de antwoord op de vraag, in ieder geval. Misschien ook in het ene deel van de standardisatie. Deze overdoening is, ja, de hele standardisatie. Ik zou het ideologisch mogen vergelijken met alles wat anderhalve uur is. En de wekenreden, als je deel van de standardisatie ziet, die nieuwe wekenreden, zijn standaard. En dat is gewoon, dat ziet alles in feite op dezelfde schaal, namelijk de standaardisatie.
+00:49:32 Speaker 1
+en de waarde is 95%, dus er moet niet weinig gespeeld worden. En dan ben je zelfs bezig met die score? Je maakt er zes scores van, ja. Ja, dat is de overrasing die we hier hebben. En wat je dus eigenlijk doet, weet je eigenlijk dat het gescheiden is van ja, wat je moet doen, of je is op zoek naar een variatie van het waarde. Dat is leuk en aardig, maar als je verschillende meet-eenheden hebt, want die variatie is eigenlijk een hele rare maat, dan moet je anders altijd een eenheden hebben. En door er allemaal zes scores van te maken, wat je dan eigenlijk doet,
+00:50:03 Speaker 1
+ja, alleen doe je dan niet een variatie, maar niet een correlatie. Want een correlatie is een variatie van het waarde van het waarde. En dat is het. En als er geen gezinsaamhang is, dan is dat eigenlijk gewoon minder... Dus, hoe noemen we dat? Bijvoorbeeld dit. En dan is dat gewoon... Oh, ik noem het maar... Sorry, sorry. Thank you.
+00:50:40 Speaker 1
+Ja, dus dit moet je doen, setscores maken van de oorspronkelijke data, en volgens dat moet ik... Ja, ik maak ook een soort van publicerende data daardoor, weet je. Dat vind ik niet ideaal, maar goed, het werkt wel, hè. Dan neem ik één van de oorspronkelijke hulp en dan neem ik die... Wat weet dat oorspronkelijke data? Misschien heb ik het even weer opgelegd.
+00:51:12 Speaker 1
+Ja, als dit dus nu dus een set wordt geplukt, dan... Kijk, dan is het wat minder ernstig. Oh, ik heb daar net een barcode aan gezien, maar daar kwam hierbij ook een... Goed, ik doe niet veel mee, hè. Dat zag u dus vooral in dit filmpje.
+00:51:52 Speaker 1
+Ja, ik zie succesvolle programma's in de week, en in de andere week is het turn-up, dus ik zie het bij deze aan, maar ik weet echt dat het leuk is. Dus jullie praten en ik begrijp dat het leuk is. Ja, ik zie succesvolle programma's in de week, en in de andere week is het turn-up, dus ik zie het bij deze aan, maar ik weet echt dat het leuk is. Ja, ik zie succesvolle programma's in de week, en in de andere week is het turn-up, dus ik zie succesvolle programma's in de week, maar ik weet echt dat het leuk is.
+00:52:51 Speaker 1
+Dat zijn dan kabeltjes die er tegenaan staan, die hoog aansluiten, die anders ook even opblazen, omdat het de lading moet aan een bepaalde opdracht, die moet door de lengte 1. Dus daar zijn nog wel kleine, er is nog wel iets aan de hand gemaakt. Dankjewel. Ehm... Ik heb hem ook al, ja, hier ga ik hem standardiseren.
+00:53:23 Speaker 1
+Dan gaan we het wel anders uitzoeken. Dan zie je ook dat de V-dimensies hebben 140% van de variatie. Nou, die studeren ze, die maken best wel een of twee variaties. En dan doen ze dat twee keer, en dan pak je tot 40%. Dat is best wel mooi. Dus die V-dimensies is ook een goede oplossing. Nou, best wel lekker. Als je in elleboog zoekt, dan vind je hier de derde V-dimensie. Dan heb je best wel een goede keuze. Ja, ik zei dat je, dat je tuurlijk iets, eh...
+00:53:54 Speaker 1
+Ja, ik denk dat we hier, eh... ...40 procent zo lang... ...van hout te pakken... ...dat is natuurlijk... ...dat is natuurlijk veel meer aan de hand... ...dan, dan, dan... ...tekenlijk. ...maar kennelijk, als... ...van hout te pakken... ...dat is natuurlijk... ...nou, ik denk dat... ...volgens mij kan ik niet vertellen... ...maar ik denk dat ik wel zelf...
+00:54:26 Speaker 1
+...dat ik wel zelf... ...maar ik denk dat ik wel zelf...
+00:55:03 Speaker 1
+En ook heel duidelijk, hier hebben we het tegenstelde risico meer met een kleine invloed van huisbeleid. En wat die mensen zeiden, dat is helemaal niet nodig waard, maar welke mensen kiezen?
+00:55:53 Speaker 1
+De eerste beschrijft de meeste financiën, de tweede hoeveelheid mogelijkheid. Dus de eerste is de belangrijkste in het cijfer, en de tweede daarna belangrijkste in het cijfer. Maar wat de dimensies nou zijn, dat kan worden geïnteresseerd met, ja, ik voel me best lastig met kogels en dienen, maar dat zal wel blijven. Ja, wat is de wet eigenlijk? Het is de dimensie met meest variaties, maar de dimensie dat waar ik vandaan ben. En wat ik niet vertegen heb, nou, dat is eigenlijk een dimensie die zich in, eh,
+00:56:27 Speaker 1
+dimensieert armoede en tegenover hoog opleiding. Inkomst, hè, dus inkomst. Hoe hoog wil jij van ons het uitlezen? Eh, wat vind je het liefste? Ja, dat vind ik, je vindt het makkelijk te duidelijk, hè. Maar te duidelijk waar je kijkt, want er zijn eigenlijk berichtjes in, en dan hoop je dat daar iets is waar je dus, waar je dus een beleving aan krijgt. Maar er is een hele leuke verhaal, dat eigenlijk wel, ja, dat iets een beetje, gewoon uitkomt.
+00:57:01 Speaker 1
+請不吝點贊訂閱轉發打賞支持明鏡與點點欄目, Het zou heel mooi zijn als we, zoals hier de tweede dimensie, als je daar eigenlijk thuisje loopt en zoiets aan kan zien, en dan kan je zien aan welke waarde, welke variabels zijn nou belangrijk voor zo'n dimensie.
+00:57:36 Speaker 1
+Dus als je dan hier in Brussel aan één dimensie kan komen, dan kan je zien dat dit volgens mij belangrijk is.
+00:58:12 Speaker 1
+Want de eerste waarschuwingen waar je over aan moet denken aan, niet zomaar PCA doen, op de data zetten, want de universiteit heeft rekening gehad met de verschillende medicijnen, dus je moet standardiseren, in de meeste gevallen. En eigenlijk, wat kunnen we doen, ik zou zeggen, bij tijden, standardiseren. Want standardiseren is nooit echt fout. Het is niet van de informatie in de industrie, maar in de werkzaamheid.
+00:58:43 Speaker 1
+Hier standardiseren, ja dat kan ik laten. En dus eigenlijk, die constructies in Biomod, in Hardhouse, die moet je niet standaardiseren. Ik denk dat dat zo'n beetje het paardje is waar je het over naakt op. Omgeven aan het paardje. Maar, als je kijkt naar de software van de universiteit, die gaat zo naar overheid. which is really soft about it.
+00:59:14 Speaker 1
+Er komt meer naar volkoren en meer op zoekwerken die echt statistisch niet zo goed uitkomen van de plaat. Ik vermoed dat het meeste daarvan juist de problemen in de buurt zijn. Maar als je het zelf doet, dan kun je het zelf ook goed uitkijken. Je kan er ook wel goed aan denken over wat de digitale aspect is. Dat betekent dat de verschillen aan je geval en je diversiteit, die moet je heel goed zelf identificeren. Dus verschillen tussen 10 en 8 is 2. En dat is hetzelfde als verschillen tussen 2 en 0.
+00:59:47 Speaker 1
+Dat is 30. Dat klinkt ideaal. Maar er is nog iets waar je deze aandacht op ziet. Wat je kan wel, maar je mag het niet aanhouden. Dat is dingen als ratings. Je laat mensen iets van hemonieken eten, of stromendieven eten. Dus dat is verschillen. En dat ziet nog wel aan. Dat is niet hetzelfde als dat doet, dan verschillen ze tussen 7 en 5, hoe we weten dat dat hetzelfde is als tussen 5 en 6.
+01:00:20 Speaker 1
+En eigenlijk was het altijd helemaal, ik weet niet of je zelf ook van die vaartuigen in komt, maar we hebben vaak mensen, we hebben vaak wel een soort van, dat loopt niet helemaal van de unie eigenlijk. We gaan heel weinig nemen, ongeveer het huidigste, dus eigenlijk 6 en 7 is vaak het grotere verschil dan een divisie. Ja, ik noem dat dan, maar dat is niet het gevoel. Dus laten we het pakken, ja, we zijn wel aangetrokken. Maar het is dus ook een aanname, oké, die we hebben.
+01:00:51 Speaker 1
+Nou ja, er mogen weinig geslaagd zijn, maar als de politie het aanheeft, dan is het wel goed. Ja, ja.
+01:01:49 Speaker 1
+,
+01:02:22 Speaker 1
+Maar het is eigenlijk een beetje een, eh, eh eh,
+01:03:17 Speaker 1
+Vind je deze video leuk? Abonneer je dan op dit kanaal en abonneer je op dit kanaal voor meer video's! en dan is het klaar. Maar ik snap eigenlijk ook dat het klaar niet is geweest. . En dan gaan we hier naar het plafond. Ja, komt goed. Hoe gaan we dan...
+01:03:53 Speaker 1
+Kijken wat er op ons ligt. Ik heb dit gedaan. Wat is dit? Wat is dit dan?
+01:04:31 Speaker 1
+Als er twee waren, dan met de liefde, wat jullie net al hebben gedaan. Maar, nou staat hier de width rotation, dan hoef je nog niet zo naast te kijken. Van ieder zijtje is dit ding te kijken. Dit ding... Ja, deze heeft. De hollaring, dat zijn die gewichten die ik geef aan de... aan de parallelen.
+01:05:02 Speaker 1
+Die ga ik in dezelfde manier maken als die daarboven. Achter. Hier zie ik nu, nu moet ik deze aannemen met het negen-nege-
+01:05:40 Speaker 1
+nege-ne Wat ik tot nu toe deed was met zonder een aantal identiteiten kiezen, zonder identiteiten kiezen wilde ik helemaal alles. Je kunt meegeven het aantal componenten die je hebt gekomen.
+01:06:52 Speaker 1
+Oeh, kan je dat niet zien? Dat is eigenlijk wel heel toevallig, hè? Fouten niet. En wat ook heel toevallig is... Ja, in Nederland heb je al een paar te zien, hier heb je een 12, hier een 16, dat is een 0. 0 is eigenlijk een eindbetaalbaar. Ja, dat betekent dat iets beter is.
+01:07:25 Speaker 1
+En we zien hier een aantal 0's wel, maar je ziet ook bijvoorbeeld deze, die heeft overal een betaalbaar. Dat betekent dat die is verschillend, die parameter is belangrijk voor al die verschillende principale functies. Als ik nou makkelijk zou willen, wat nou fijn zou zijn, is als ik veel moet hebben. Het liefste, het allermaakste, is dat ik op een variabel heb, dat die alleen een groot getal heeft, een 1 kan doen, en dan is het allemaal 0. Dat zou praktisch zijn, want dat betekent dat als ik bijvoorbeeld op de betalen hier zo'n groot score heb, en allemaal 0,
+01:08:01 Speaker 1
+dan kan ik zeggen dat die eerste dimensie, die beschermde, bepaald wordt in taal. En dan... Wat fijn zou zijn, is een paar grote getallen aan één van de componenten. Ja, dat moest het zijn, maar dat is niet zo. Maar zoals ik daarna even al een keer zei, hè. Oké, dit is een paar componenten. Dit is een foto. Ik kies zodanig een hoek, dat het zo niet mogelijk is.
+01:08:34 Speaker 1
+Heb je een foto gemaakt, en dat is hier. Hier is nou een foto gemaakt. Dan staat het in de communicatie. Foto opkomen, draaien. Foto draaien. En dan blijft het allemaal zo. Dus als je dan ongeveer een half jaar al die foto's hebt gemaakt, kun je die foto misschien zo laten draaien, dat het een beetje makkelijker wordt om te filmen. Dankjewel.
+01:09:06 Speaker 1
+Dat betekent dus dat het gewicht van die ene gaat één stimming op. Dus eigenlijk de plus en de min moet je alleen zien als tegenstander aan elkaar. We hebben er eentje met een plus en een min in de link. Deze min en die plus hier. Dus in die tweede dimensie gaan die tegen hetzelfde gewicht geven. Dus die spelen eigenlijk hetzelfde rol. Maar eigenlijk mag je ook alle plusjes in de link geven als je van de minners een plus geeft.
+01:09:40 Speaker 1
+Dus dat was in ieder geval. Dus het gevoel dat hier een ontwikkeling contrasteert. Dat is het enige wat we doen. Nee, dat zeg ik eigenlijk niet. Nee, want ik had het ook anders opgemaakt. Ja, dus we hadden hier geen logische bedoelingen mee, en we hebben zo'n post niet meegekomen, want we wisten niet welke bedoelingen er aan de hand waren.
+01:10:16 Speaker 1
+En alles daartussen is een beetje lastig, want als er een deel op alles heeft mogen worden, dan moeten we het kwakje verkeren. Maar, we kunnen terug naar die foto, we hebben nu een foto van die mensen, en die foto vertelt deze lastigheidsraad. Maar nu gaan we niet een draaije zoeken die zoveel mogelijk variantie heeft, want zij hebben het al helemaal gedaan, die foto hebben we nu gemaakt. Nee, ik ga het nu zo doen, dat je gaat eindigen met wat je mooi vindt.
+01:10:47 Speaker 1
+Alleen, wat we mooi vinden, in dit geval, wat ik mooi zou vinden, zijn veel nullen en hoogtepunten. Dus wat je kan doen dan, je kan de functie verschillen, je kan die voor en na zo beschrijven. Dus ik ga proberen een draai in volgordige manier te maken.
+01:12:04 Speaker 1
+Wat, wat is dat nou? So we have a lot of time left, a lot of work to do. It is an amazing thing. Wat de rotator doet is, je gaat dus de lift van de machine inhouden, dus je gaat hem weer een keer roteren zodanig dat het ongelooflijk is om te doen.
+01:12:39 Speaker 1
+En dan doe je het nog een keer. En dan heb je de baan, dan de rotator en dan de schilder.
+01:13:23 Speaker 1
+or did they show? Dit is naar de locatie. Even kijken. Er staan nog steeds heel veel getallen. Maar je ziet wel, in Nederland, in twee dimensies was dat 14 of 15. In de eerste is die nu van 0 en in de derde ook.
+01:13:57 Speaker 1
+Je ziet meer kleine getallen. En wat helemaal fijn is, je ziet dat Nederland tussen die tweede en de tweede wel op sport is. Je kunt het wel wat mooier weergeven. Kijk, als je bijvoorbeeld alles kleiner dan een nadel. Je moet er maar één of zo iets weg schieten. Of kleiner dan een miljoen of zo iets. Ondertitels ingediend door de Amara.org gemeenschap.
+01:14:28 Speaker 1
+Als ik even alle kleine dingen weglaat, ga ik wat dingetjes nemen, want dan worden we misschien onopzichtelijker. Wat laat ik hierin doen? Oh. Wat dan voor kansen hierin. 
+01:15:17 Speaker 2
+Thank you.
+01:15:31 Speaker 1
+Het is wel jammer dat ik de muur niet aanschrijf. Ja, ik heb dus graag een pretty of zoiets, even dat data frame en dan haal ik het kleine weg.
+01:16:06 Speaker 1
+Het staat ook in de regel die er stond. Initiaal regelingen die de lengte van ieder ding is vrij hard ingezet. Als je dan wilt worden ingebeld op een aantal van die dingen. Dat zou je als verschillende milieu's afkomen. Ja, wat wel klein is. Want wat we nu zien is, ja... Ja, het is niet helemaal superduidelijk, maar dit is vooral het kamerhebbel, maar het zit ook wel hier nog een beetje in.
+01:16:43 Speaker 1
+De derde, ja daar zit het, nee, ik zag het vaak heel duidelijk in, en die zit er ook nog een beetje in. Helemaal, al ben ik ervan gehoord dat het niet, maar wel een beetje niet in de structuur ligt. En eigenlijk, wat we ook behouden, want ik heb namelijk in de beginnende weken een bepaalde data-set in de folder, natuurlijk in mijn gang, die aan de hand van vragen komt, volgens mij met de human values enzo,
+01:17:15 Speaker 1
+dat zijn grote vragenlijsten die mensen belangrijk vinden, en dat leidt tot een aantal structuren, zoals de big five enzo, die kunnen je daar misschien in terugvinden. En hoe vind je dat terug? Ik denk dat er een heel goed PGA voorbeeld is. Er zijn veel problemen met dimensies. Op steden zijn er verschillende leeftijden.
+01:17:45 Speaker 1
+In feite is wat aan de volkswacht ligt, is het principale instrument. Er zit nu een variant, zou ik zeggen. Maar dat zit aan de volkswacht. Hoe komt hij aan de dimensies? Door twee zaken te doen. Door te roteren en volgens de kijker welke vragen, welke stemmingen zijn belangrijk in die dimensie. En die dan gaan duiden. Dat is hoe je dit kunt gebruiken.
+01:18:25 Speaker 1
+Ja. Kom maar, ik ga je even in de jas zien.
+01:18:33 Speaker 4
+Ja, ja.
+01:19:03 Speaker 1
+Ja, ja, Gaan we nog even een beetje samen doen.
+01:19:34 Speaker 1
+Maar als ze goed zijn, dan zijn ze ook wel verantwoordelijk voor het verliezen van die dingen. Maar lijkt wel dus, dat het inderdaad wel een beetje, dat het inderdaad wel een beetje goed kan werken. Ja, de zorgatie, die draaien we hier ook.
+01:20:06 Speaker 1
+Kijk, dus we hebben in één punt ook, ik zit me aan het been af te trouwen, waarom doe ik dat? Nou, wat je zorgt eerst, zijn de wagen, hè. Wat je hier wilt creëren. Maar ik denk wel dat de scholing het waagt, hè. Ik denk wel dat de school het niet staat, hè. Fire. And I'm also watching. OK.
+01:21:15 Speaker 1
+Ik moet eerlijk zeggen, het staat erbij, als twee mensen werken, dan heb je wel een bepaalde moment, maar dat is echt wat je doet. Het is wel interessant, als je drie, vier, dan moet je... Als ik iets krijg wat een beetje, ja, met sommige dingen wel belangrijker is dan kan ik het gaan duidelen dat het tweede component is hiervoor en het eerste is hiervoor, dus het is waarschijnlijk.
+01:22:07 Speaker 1
+Ja? Ik heb nog een vraag. Bij het hoteren van die principale componenten, in hoeverre verhouden, is het hetzelfde als een vakanalyse? Het is hetzelfde, een vakanalyse, er zijn subtiele verschillen in dat er nog een term voor de, hoe noem je dat dan, meer specifieke variaties. Maar dit is een soort van de simpelste vorm van een vakanalyse. Ja. Het kleinste verhaal van een vakanalyse. Ja, ik zou danken dat we dit gesproken hebben.
+01:22:39 Speaker 1
+To nieplaniczne, jeśli chodzi o fajne kilka rąk. Maar we hebben ook beleefd dat hij niet drie minuutjes genomen heeft. Dus we proberen ook iets complexer van af te leggen. Als ik... Als je hier... Als je hier KS1 kiest, dan kun je gewoon alles raden. Als je hier KS1 raadt, dan is gewoon het eerste plaatje...
+01:23:16 Speaker 1
+Als je die daarmee zou vervangen, en voorschuiven, de nieuwe uitkomst, dan ga je hier dat bijbod aflukken. Dus er zijn wel wat stukken stalen die daar staan. En daarmee kan alles. En hoeveel is eigenlijk, het is een leuk punt om te zien, Tijdens de demonstratie, dus, heb je inderdaad waar te kijken, mag je naar de komende kant.
+01:23:57 Speaker 1
+Nou, daar gaan we. Kijk eens even. Mooi is het, doe even. En ik ken het samen, ook. Het is eigenlijk een beetje wat ik vertelde dus. Ik heb nog vier dingen. Deze staat er, die moet ik later opslagen. Eigenlijk, ja deze, je mag van mij huren, je mag van mij naar huis.
+01:24:28 Speaker 1
+Vergeet het waarschijnlijk niet. Maar ja, je doet het dus eigenlijk de hele tijd hetzelfde, de hele tijd opfilms, met een aantal variabels erover. Het is een samenhangen.
+01:25:12 Speaker 1
+Als we daar zo'n stemwijzer van productieve partijen, tenminste vroeger was het, ja volgens mij nog steeds de productieve partijen geven zo'n A. Dat is het enige iets wat onrechtzijnlijk is te zeggen. Nou, als je dat ziet als een rating van hoe ze er mee eens zijn, van 1 tot 3, dan zou ik dat best wel goed doen. Nou, dat kunnen we doen. Wat daar aardig aan deze toepassing ook aan James bont. Waar dat niet verschilt van die schone en die ouders, is dat de rijder ook bedenking zet, die James hoort, zijn het films.
+01:25:52 Speaker 1
+Dus als je je barcode maakt, is het leuk als je ook je films erbij maakt, of je ziet welke film je samen maakt. Voor de stemwijzer, de rijder zijn de politieke partijen, en dat zijn de derfstenten. En dan kun je dus een rijder plaatje van die derfstelling kiezen om wat te maken. Maar je kunt wel zien dat het door de Nederlandse politie doorgaat. Als het in jezelf valt, is het ook extra.
+01:26:23 Speaker 1
+Je krijgt het letteraar al. Je kunt het in je machine toevoegen. Je hebt al die stemmen die je maakt zien. Ik ben ook, dat ga ik ook maar doen, het overal meneer zijn. En kijken of iemand het overal meneer zijn kan bereiken. Ik ga wel even nadenken. En dan heb ik ook nog... Ja deze, dit is een hele typische feestjaaropdracht. Ik heb een zeek opgenomen om wat te haphaard te halen, dat dater is groter.
+01:26:55 Speaker 1
+En dan heb ik het zijn drie opdrachten die gaan over de belangrijkheid in verschillende landen. En dus deze zou je kunnen linken aan een... En dan kun je gaan kijken wat mensen aan het belangrijk vinden. Laten we kijken naar Londen ofzo. Of dat het opgemaakt is. Of niet. Ja voetballen, spelen, voetballen. En de ouderen. Of de jongeren. Ja.
+01:27:27 Speaker 1
+Kijk. Ik ga allemaal op al die dingen. Ik ga onderweg terugkomen. En... Het is leuk om zo een beetje te doen. En als je nieuwe vragen hebt. Ja. Zet je kleurboek, wat je net gemaakt hebt, ook op canvas? Die helemaal vol zijn? Ja, dat wil ik. Ja, oké. Maar ik had wel het idee dat die drie was al helemaal compleet, of niet? Ja, die past, dus ik zou dat graag naast elkaar willen lopen. Ja, ik moet ze even zo even zoeken. Ik was die ik, om eigenlijk van die museum niet terug te vinden.
+01:27:59 Speaker 1
+Maar die moet ik vast ergens wat maken. En de PBO, die zit er ook. Alles wat ik er mee moet maken, zit er ook.
+01:28:07 Speaker 2
+Ik heb geprobeerd die patiëntdata erin te zetten. Maar ik krijg dus, volgens mij, NL leeg. Leeg waarde op alle drie waarden. Welke waarde? Voor PBO. Eigenlijk keihard gedaan. Maar ja, ik wijs het al een stuk groter dan mij.
+01:28:21 Speaker 1
+En dan blijf je bij NL volledig leeg. O ja, dan zijn ze allemaal waarder dan je kuthoofd, hè? Dus ik weet niet wat je voor kuthoofd hebt ingevuld. Eén, ja. Ja, maar wat eigenlijk. O, oké. Ja, maar dat is gewoon dat functietje, pretty. Waar gewoon teveel in gaat. Ik had er één regel die gebruikt worden ingedeeld op sommige dingen. Dat is een beetje conservatief, dan krijg je er wat lichter te veel of niet. Dat blijf ik zien, maar dat is wel nog enigszins een beetje automatisch.
+01:28:52 Speaker 1
+Ja, ik zie het. En die is er wel wel mee gehouden. Hoogzichtig. Probeer het mee te ontmoeten. We rijden er even op. Ja. Dat is niet de slag. Ja, ja. Ja.
+01:29:39 Speaker 1
+Thank you. Ja, het kan niet eerder zijn hoor, want er is een nummer 1-assignment, en in die assignment zit een grafiek van die opdracht, waarin je vraagt of je het mag betrokken of zo'n ding. Kijk, het punt is, je kan moeilijk de hele tijd in de blok zetten. Ja, dat kan wel, maar dat kan ook pas in de laatste rekening. Ik denk dat we er helemaal aan het einde zijn, en dan laten we het inleven. Oh, ik zie er ook nog een keertje, maar ik denk niet zo goed.
+01:30:11 Speaker 1
+Moet ik even kijken? Ja. Oh, dat is zaar. Ik ben even het zaar gehaald. Maar ik, ja, voor mij is het standaard het begin van het onderdeel. Er moet wel een voorzijn, want anders zit je te werken aan dingen die je niet kunt betrokken. Ja, wij hebben een keertje, maar wij hadden het goed genoeg met dit nummer, dus dat vind ik fijn. Dankjewel.
+01:30:41 Speaker 1
+Ja, ik neem wel op, volgens mij, als een probleem. Dat hij naar einde helemaal bovenop zit. Nou ja, ik bedank je wel, Simon. Eigenlijk had ik een andere vraag. Ik wil zeggen, ik kan... He? Ik kan er twee heen komen, geen probleem. Oké. Is er een overzicht van welke hoofdstukken... Ja, dat weet je wel. Ik ben vaak, vaak, vaak te doen. Ja, ik kan het onderwerpen vaak. Want dat weet ik al wel. Dus dat kan ik makkelijk ergens opschrijven.
+01:31:13 Speaker 1
+En dan kunnen we ook kijken naar welke hoofdstukken in de hoek dat zijn. Want ik ga vaak iskos doordoen. Bij het plafondwerken. Dus die stokken van in de hoek zijn niet handig. Dus dan moet je wel goed kijken. Zelf bedacht. Nou, dat is bedacht. Oké. En we hebben nu nog negen minuten, dus... Anders zet je die niet meer open. Ik zet die niet meer open, laatst zijn we in de juiste polder. Oké. Openmaken. Ja. Kunnen jullie ook de armen erbij krijgen?
+01:31:44 Speaker 1
+Dat moet iemand ook hebben, ik ga niet doen wat ik nu heb gedaan, het was niet in mijn armen, maar ik heb wel... Van korte? Ja, daar gaan we van korte over. Ja, dus dan zal het niet overal precies hetzelfde zijn. Zijn we mee? Ja. Dat zou goed zijn. Ja? Oké. Wie heeft twee? GELACH Nou, nou. Laat jij komen. Is het nou helemaal gelukt? GEROEZEMOES.
+01:32:41 Speaker 2
+Yeah, Diolch yn fawr iawn.
+01:33:13 Speaker 3
+Goedemiddag. Diolch yn fawr iawn.
+01:33:44 Speaker 3
+...en dinsdag om vier uur. Dat is helemaal jammer, want het is wel onze vraag. Maar hoe is dat dan? Is dat handig? Of moet ik toch gewoon meedoen? Bijna alle handen? Ja, dat maakt het wel. ...
